@@ -1,6 +1,6 @@
-<div class="glossary">
 # Glossary
 
+<div class="glossary">
 > The following are specialized terms which users of TAO may frequently run into while using the program to author tests, administrate them, or generate assessment reports.
 
 ## Action Bar

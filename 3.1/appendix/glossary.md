@@ -1,7 +1,7 @@
 <div class="glossary">
 # Glossary
 
->The following are specialized terms which users of TAO may frequently run into while using the program to author tests, administrate them, or generate assessment reports.
+> The following are specialized terms which users of TAO may frequently run into while using the program to author tests, administrate them, or generate assessment reports.
 
 ## Action Bar
 The menu, in the form of a blue bar, situated under the black Assessment Builder Bar, which appears across the top of all TAO web pages.

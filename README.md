@@ -1,3 +1,3 @@
-# taohub-changelogs
+# taohub-userguide
 
-This changelog is based on our Slack channel *frontendchanges*, other channels may follow.
+Home of the TAO User Guide

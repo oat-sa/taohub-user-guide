@@ -1,6 +1,5 @@
 # Glossary
 
-<div class="glossary">
 > The following are specialized terms which users of TAO may frequently run into while using the program to author tests, administrate them, or generate assessment reports.
 
 ## Action Bar
@@ -283,4 +282,3 @@ An [Item](../items/what-is-an-item.md) which records the accumulated elapsed tim
 
 ## Time Independent Item
 An Item which does not use the accumulated elapsed time during [Response Processing](../items/item-scoring-rules.md).
-</div>

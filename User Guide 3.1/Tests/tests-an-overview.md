@@ -1,7 +1,7 @@
 <!--
-    created_at: 2016-12-15
-    authors:         
-      - Catherine Pease
+created_at: 2016-12-15
+authors:         
+    - "Catherine Pease"
 --> 
 
 # Tests: An Ovierview

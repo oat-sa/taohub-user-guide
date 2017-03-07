@@ -1,7 +1,7 @@
 <!--
-    created_at: 2015-05-15
-    authors:         
-      - Ben Angel    
+created_at: 2015-05-15
+authors:         
+    - "Ben Angel"    
 --> 
 
 # Executing a TAO delivery in Moodle as an LTI Teacher

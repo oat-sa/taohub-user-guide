@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Exporting Groups
 
 >Formal groups of Test-Takers, such as laboratory or lecture groups, may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing the metadata of formal Test-taker Groups will be useful. For instance, an instructor may need to transfer metadata for an entire class to a substitute or replacement teacher during an absence. Test-taker Groups can be shared in a few easy steps.

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Importing Groups
 
 >Group metadata files can be taken from any computer and imported onto any other computer that also has access to TAO. This is done using an operation called *Import*.

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Text Blocks
 
 >[Text Blocks](../appendix/glossary.md#text-block) are used to create [inline interactions](../appendix/glossary.md#inline-interactions). A text block is basically a paragraph, and forms a framework into which one of the two available text-based inline interactions (Inline Choice, Text Entry) is then inserted.

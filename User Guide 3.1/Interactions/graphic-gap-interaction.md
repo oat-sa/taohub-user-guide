@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Graphic Gap Interaction
 
 >The Graphic Gap Interaction gives Test-Takers the opportunity to demonstrate their knowledge about geographical regions, identify facts about portions of images (people in a group photo, etc.), or show other similar capabilities in picture matching.

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Add an Extension
 
 >[Extensions](../appendix/glossary.md#extension) add new functionalities to TAO, providing various TAO customizations. Extensions improve upon the basic TAO program by interfacing TAO with existing test-taking or test-scoring software, or enhancing test elements, as required by an institution.

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # What is a Test?
 
 *"A test is a group of Items with an associated set of rules that determine which of the items the candidate sees, in what order, and in what way the candidate interacts with them. The rules describe the valid paths (order of questions) through the test, when responses are submitted for response processing (grading), and when (if at all) feedback is to be given."* - Question and Test Interoperability standard, published by IMS Global

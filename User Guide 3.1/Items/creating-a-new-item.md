@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Creating a New Item
 
 >Together, questions and other types of [Interaction](../appendix/glossary.md#interaction) form [Items](../appendix/glossary.md#item), which comprise parts of [Tests](../appendix/glossary.md#test). Items are created and populated with Interactions, and can be combined to assess Test-taker performance.

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Groups: An Overview
 
 >[Groups](../appendix/glossary.md#group) are organized collections of [Test-Takers](../appendix/glossary.md#test-taker) who take the same [assessments](../appendix/glossary.md#test) throughout the duration of a course of study.

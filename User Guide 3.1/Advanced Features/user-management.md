@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # User Management
 
 >User Management in TAO involves adding and editing user profiles, assigning roles to specific users, and granting users access rights to specific areas of TAO.

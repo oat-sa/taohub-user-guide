@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Extended Text Interaction
 
 >The Extended Text Interaction provides the means of examining the Test-Taker's ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.

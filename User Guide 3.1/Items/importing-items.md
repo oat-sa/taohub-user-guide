@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Importing Items
 
 >If both computers have access to TAO, [Items](../appendix/glossary.md#item) and [interactions](../appendix/glossary.md#interaction) can be imported from one computer to another, using an operation called *Import*.

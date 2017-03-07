@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Match Interaction
 
 >The Match interaction provides Test-Takers with a matrix upon which they can demonstrate their knowledge by accurately associating selections from two different sets of elements. The association is carried out by placing check marks in squares where matching rows and columns intersect.

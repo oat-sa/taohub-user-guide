@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Creating a Test-Taker
 
 >Test-Takers are individuals who will take assessments assembled by TAO. These are typically registered students in a given class, but Test-Takers can be placeholder profiles for an instructor or test administrator to trial a Test.

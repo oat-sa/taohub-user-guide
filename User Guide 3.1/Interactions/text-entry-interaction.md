@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Text Entry Interaction
 
 >Text Entry allows the Test-Taker to complete a "Fill in the Blank" question with an exact text answer. This interaction is one of two *Block*-related interactions, the other being *Inline Choice* (covered in its own section).

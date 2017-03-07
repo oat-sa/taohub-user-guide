@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Installing TAO
 
 >There are currently two TAO installation packages available on the OAT server: Automatic and Manual. Automatic installation involves setting up a permanent connection to TAO's own server. This affords greater ease of operation, leaving all technical issues to OAT. Manual installation involves setting up a web server and installing TAO on it. This affords a greater degree of flexibility and control.

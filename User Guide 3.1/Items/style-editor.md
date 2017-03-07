@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Style Editor
 
 >White, black, grey, and blue, all done up in a sans-serif font, can get boring after a while. The *Style Editor* can help you make your items look more appealing. The Style Editor is found in the TAO interface above the [Properties Panel](../appendix/glossary.md#properties-panel) on the right in an [Item](../appendix/glossary.md#item) window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. For larger numbers, refer to the [CSS SDK section]().

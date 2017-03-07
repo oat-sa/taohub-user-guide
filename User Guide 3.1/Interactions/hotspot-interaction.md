@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Hotspot Interaction
 
 >The Hotspot Interaction gives Test-Takers the opportunity to demonstrate their knowledge by selecting portions of an image (regions on a map, people in a line-up, etc.).

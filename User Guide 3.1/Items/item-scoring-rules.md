@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Item Scoring Rules
 
 >Test-takers who complete a Test will often ask, "What score did I get?" Scores are generated through performance in the various [interactions](../appendix/glossary.md#interaction) that make up the [Items](../appendix/glossary.md#item), which themselves compose the [Test](../appendix/glossary.md#test). Interactions generate individual scores, which count towards the overall score of the Item, and all Item scores are tallied to produce the final Test result. Knowing how to set up scoring within an interaction is therefore useful in determining the Test-Taker's grade.

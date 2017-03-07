@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Inline Choice Interaction
 
 >Inline Choice allows the Test-Taker to complete a "Fill  in the Blank" question with one choice taken from a selected list of answers. This is usually combined with other interactions (note that there is no question line for either *block* interaction).

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Associate Interaction #
 
 >The Associate Interaction assesses the Test-Taker's ability to match associated words or phrases. 

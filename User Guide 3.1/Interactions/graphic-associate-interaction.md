@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Graphic Associate Interaction
 
 >The Graphic Associate Interaction gives Test-Takers the opportunity to demonstrate their knowledge by depicting routes on a map or graphic in a prescribed way. This can be used for drawing out historical military marches, route-planning exercises, connecting the dots to form a missing piece of an image, etc. 

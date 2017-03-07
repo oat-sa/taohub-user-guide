@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Hottext Interaction
 
 >The Hottext Interaction gives Test-Takers the opportunity to demonstrate their knowledge by showing, among several selections within a body of text, a specific type of word or phrase (e.g. a grammatically incorrect element, misspelling, main character in a story, capital city).

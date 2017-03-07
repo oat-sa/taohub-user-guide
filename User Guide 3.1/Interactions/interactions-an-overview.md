@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Interactions: An Overview
 
 >[Interactions](../appendix/glossary.md#interaction) are the basic building blocks for [Items](../appendix/glossary.md#item), which in turn are the basic building blocks for [tests](../appendix/glossary.md#test). For a full definition, see [What is an Interaction?](../interactions/what-is-an-interaction.md).

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Glossary
 
 > The following are specialized terms which users of TAO may frequently run into while using the program to author tests, administrate them, or generate assessment reports.

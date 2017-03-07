@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 #Executing TAO Deliveries using LTI Applications
 
 >Through the [Learning Tool Interaction (LTI) standard set forth by IMS Global Learning Consortium](http://www.imsglobal.org/activity/learning-tools-interoperability), LTI users of applications such Moodle can make use of TAO-designed tests and deliver them to students through an LTI platform, such as the Moodle platform. 

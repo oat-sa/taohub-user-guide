@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Metadata
 
 >As an institution's collection of [Items](../appendix/glossary.md#item) grows, most test authors will find it increasingly unwieldy to locate the right set of [interactions](../appendix/glossary.md#interaction) for a given [Test](../appendix/glossary.md#test). TAO's [Metadata](../appendix/glossary.md#metadata) offers a way of finding relevant Items for your Tests easily, even when there are hundreds or thousands of Items to choose from. 

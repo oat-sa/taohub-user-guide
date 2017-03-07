@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Create a New Delivery
 
 >[Assembled deliveries](../deliveries/what-is-a-delivery.md) provide the means of publishing and administering tests. These govern when a Test is taken by selected individual or groups of Test-takers and how long Tests will be. A delivery can only be assembled after the creation of interactions, the assembly of the Test, the creation of Test-taker profiles, and the gathering of Test-takers into formal Groups.

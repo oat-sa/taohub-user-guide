@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Items: An Overview
 
 >[Items](../appendix/glossary.md#item) are the basic building blocks for [tests](../appendix/glossary.md#test). For a full definition, see [What is an Item?](../items/what-is-an-item.md).

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Gap Match Interaction
 
 >The Gap Match Interaction gives Test-Takers the opportunity to demonstrate their knowledge in a manner similar to Match Interactions. A Gap Match, however, provides a set of match words, some of which will fit into gaps within a selected text passage. In essence, this is a combination of a match interaction and a "fill the gap" question. 

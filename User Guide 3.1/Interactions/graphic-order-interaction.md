@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Graphic Order Interaction
 
 >The Graphic Order Interaction gives Test-Takers the opportunity to demonstrate their knowledge of chronological order, orders of importance, etc. as seen on a graphic (map, photo, or other image).

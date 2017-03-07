@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Preview
 
 >Completed [Items](../appendix/glossary.md#item) or [Interactions](../appendix/glossary.md#interaction) can be previewed to determine if performance is as expected. Performance testing is highly recommended prior to the use of an Item in a [Test](../appendix/glossary.md#test).

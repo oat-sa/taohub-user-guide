@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # End Attempt
 
 >[End Attempt](../appendix/glossary.md#end-attempt) offers [Test-takers](../appendix/glossary.md#test-taker) the possibility of exiting from a particular item in a test without completing it.

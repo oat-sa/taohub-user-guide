@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # File Upload Interaction
 
 >The File Upload Interaction provides an interface in which Test-Takers can upload a pre-written essay, completed artwork, or other form of submission. 

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Test Settings
 
 >After [creating a new Test](../tests/creating-a-new-test.md), it will be necessary in most cases to set various properties for the assessment and its individual parts. There are four levels in which properties may be assigned: the *Test* level, the *Test part* level, the *Section* level, and the *Item* level. These properties will appear in the Properties panel on the right when you click on the appropriate properties icon (depicted as three interacting gears). 

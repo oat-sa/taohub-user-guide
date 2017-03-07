@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Media Interaction
 
 >The Media Interaction allows the Test-Taker to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction.

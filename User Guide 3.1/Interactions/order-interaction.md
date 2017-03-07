@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Order Interaction
 
 >The Order interaction gives Test-Takers the opportunity to demonstrate their knowledge of a particular order of elements: chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.

@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Adding Media
 
 >In earlier versions of TAO, images, videos, and sounds were inserted through a special feature. This is no longer the case. For instructions on how to add Media (videos or sound files), refer to the Media interaction section. For still images, this section will review the instructions on adding these to a typical text block.

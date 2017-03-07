@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Creating a New Test
 
 >TAO defines a [Test](../tests/what-is-a-test.md) as a collection of [Items](../interactions/what-is-an-interaction.md) designed to assess the academic progress of a Test-taker. This approach allows for the rapid assembly of Tests administered across computer networks. If all you have is 30 minutes to create a 10-question quiz for your 8th grade class, TAO can help.

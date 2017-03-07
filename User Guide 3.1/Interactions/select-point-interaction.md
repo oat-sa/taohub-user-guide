@@ -1,3 +1,9 @@
+<!--
+    created_at: 2016-12-15
+    authors:         
+      - Catherine Pease
+--> 
+
 # Select Point Interaction
 
 >The Select Point Interaction gives Test-Takers the opportunity to demonstrate their knowledge by selecting an invisibly-defined portion of an image (region on a map, person in a line-up, etc.).

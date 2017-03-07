@@ -4,12 +4,7 @@
 
 For a quick glimpse of how to create an Associate Interaction in TAO, please watch the following video.
 
-<div class="hidden-video">
 [![Associate Interaction]()](http://www.youtube.com/watch?v=MXyO4Q3vpH8)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/MXyO4Q3vpH8?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Associate Interaction:
 

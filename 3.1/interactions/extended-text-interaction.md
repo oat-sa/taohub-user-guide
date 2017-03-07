@@ -2,9 +2,7 @@
 
 >The Extended Text Interaction provides the means of examining the Test-Taker's ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.
 
-<div class="hidden-video">[![Extended Text Interaction]()](https://www.youtube.com/watch?v=jjbBWuvsK3s)</div>
-<div class="embed-container"><iframe frameborder="0" src="https://www.youtube.com/embed/jjbBWuvsK3s?rel=0" style="border:none" allowfullscreen="true"></iframe>
-</div>
+[![Extended Text Interaction]()](https://www.youtube.com/watch?v=jjbBWuvsK3s)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Extended Text Interaction:
 

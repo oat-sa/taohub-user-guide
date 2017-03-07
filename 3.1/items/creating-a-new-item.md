@@ -9,30 +9,15 @@ The videos below will demonstrate how to easily create some of the most popular 
 How to create a Choice (multiple-choice) Item using TAO:
 
 
-<div class="hidden-video">
 [![Choice Interaction]()](http://www.youtube.com/watch?v=a3WM6yMfiGs)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/a3WM6yMfiGs?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 How to create an Inline Item using TAO:
 
-<div class="hidden-video">
 [![Inline Interactions]()](http://www.youtube.com/watch?v=5vplITM3Ah4)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/5vplITM3Ah4?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 How to create an Associate Item using TAO:
 
-<div class="hidden-video">
 [![Associate Interaction]()](http://www.youtube.com/watch?v=qIX3HVNq5L0)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/qIX3HVNq5L0?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 
 Now, let's walk through the steps of creating an Item.

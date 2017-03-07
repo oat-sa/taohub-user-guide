@@ -4,9 +4,7 @@
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Match Interaction:
 
-<div class="hidden-video">[![Match Interaction]()](https://www.youtube.com/watch?v=zxjFjmFAQ3s)</div>
-<div class="embed-container"><iframe frameborder="0" src="https://www.youtube.com/embed/zxjFjmFAQ3s?rel=0" style="border:none" allowfullscreen="true"></iframe>
-</div>
+[![Match Interaction]()](https://www.youtube.com/watch?v=zxjFjmFAQ3s)
 
 **1.** From the [Common Interactions library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Match* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
 

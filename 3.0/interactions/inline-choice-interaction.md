@@ -8,12 +8,7 @@ The A icon on the right of the block text allows you to put your text in bold or
 
 For a quick glimpse of how to create an Inline Choice item in TAO, please watch the video below.
 
-<div class="hidden-video">
 [![Inline Interactions]()](http://www.youtube.com/watch?v=qdpX6MGrAAM)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/qdpX6MGrAAM?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 **Step 1:** Once the text is placed, create an Inline Choice element by dragging from the Library Panel to a space next to where the test-taker will be expected to *fill the blank*.
 

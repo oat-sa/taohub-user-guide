@@ -2,9 +2,7 @@
 
 >The File Upload Interaction provides an interface in which Test-Takers can upload a pre-written essay, completed artwork, or other form of submission. 
 
-<div class="hidden-video">[![File Upload Interaction]()](https://www.youtube.com/watch?v=xPIdLTR5mJ8)</div>
-<div class="embed-container"><iframe frameborder="0" src="https://www.youtube.com/embed/xPIdLTR5mJ8?rel=0" style="border:none" allowfullscreen="true"></iframe>
-</div>
+[![File Upload Interaction]()](https://www.youtube.com/watch?v=xPIdLTR5mJ8)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new File Upload Interaction.
 

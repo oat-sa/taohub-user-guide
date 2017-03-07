@@ -2,9 +2,7 @@
 
 >The Gap Match Interaction gives Test-Takers the opportunity to demonstrate their knowledge in a manner similar to Match Interactions. A Gap Match, however, provides a set of match words, some of which will fit into gaps within a selected text passage. In essence, this is a combination of a match interaction and a "fill the gap" question. 
 
-<div class="hidden-video">[![Gap Match Interaction]()](https://www.youtube.com/watch?v=QT_KpPkCb_w)</div>
-<div class="embed-container"><iframe frameborder="0" src="https://www.youtube.com/embed/QT_KpPkCb_w?rel=0" style="border:none" allowfullscreen="true"></iframe>
-</div>
+[![Gap Match Interaction]()](https://www.youtube.com/watch?v=QT_KpPkCb_w)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Gap Match Interaction:
 

@@ -4,12 +4,7 @@
 
 For a quick glimpse of how to create a Multiple-Choice item in TAO, please watch the video below.
 
-<div class="hidden-video">
 [![Choice Interaction]()](http://www.youtube.com/watch?v=8upgdOSTKK0)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/8upgdOSTKK0?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 **Step 1:** From the Common Interactions library, drag the *Choice* icon onto the blank Item and drop into the blue block on the canvas.
 

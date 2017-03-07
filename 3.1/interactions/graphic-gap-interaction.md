@@ -4,9 +4,7 @@
 
 >This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library.
 
-<div class="hidden-video">[![Graphic Gap Interaction]()](https://www.youtube.com/watch?v=gF0hXkP03D4)</div>
-<div class="embed-container"><iframe frameborder="0" src="https://www.youtube.com/embed/gF0hXkP03D4?rel=0" style="border:none" allowfullscreen="true"></iframe>
-</div>
+[![Graphic Gap Interaction]()](https://www.youtube.com/watch?v=gF0hXkP03D4)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Gap Interaction:
 

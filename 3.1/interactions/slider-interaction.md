@@ -2,9 +2,7 @@
 
 >The Slider item gives Test-Takers the opportunity to demonstrate their knowledge of a numerical type, such as a percentage, a total, etc. The answer is conveyed by sliding an indicator on a horizontal scale.
 
-<div class="hidden-video">[![Slider Interaction]()](https://www.youtube.com/watch?v=fqrbvbavhuA)</div>
-<div class="embed-container"><iframe frameborder="0" src="https://www.youtube.com/embed/fqrbvbavhuA?rel=0" style="border:none" allowfullscreen="true"></iframe>
-</div>
+[![Slider Interaction]()](https://www.youtube.com/watch?v=fqrbvbavhuA)
 
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Slider Interaction:

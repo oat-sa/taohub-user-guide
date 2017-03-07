@@ -4,28 +4,13 @@
 
 There are more than 17 types of interactions that you can create with TAO. Each interaction, and the procedure used to create it, differs to some degree from the other, but there are certain steps that are held in common for authoring any interaction.  The videos below will give you a quick glimpse of how easy it is to create some of the most popular interaction types using TAO.
 
-<div class="hidden-video">
 [![Choice Interaction]()](http://www.youtube.com/watch?v=a3WM6yMfiGs)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/a3WM6yMfiGs?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 
-<div class="hidden-video">
 [![Inline Interactions]()](http://www.youtube.com/watch?v=5vplITM3Ah4)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/5vplITM3Ah4?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 
-<div class="hidden-video">
 [![Assoiciate Interaction]()](http://www.youtube.com/watch?v=qIX3HVNq5L0)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/qIX3HVNq5L0?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 
 

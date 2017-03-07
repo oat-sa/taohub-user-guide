@@ -4,12 +4,7 @@
 
 For a quick glimpse of how to create an Associate item in TAO, please watch the video below.
 
-<div class="hidden-video">
 [![Assoiciate Interaction]()](http://www.youtube.com/watch?v=MXyO4Q3vpH8)
-</div>
-<div class='embed-container'>
-<iframe src="https://www.youtube.com/embed/MXyO4Q3vpH8?rel=0" frameborder="0" allowfullscreen="true"></iframe>
-</div>
 
 **Step 1:** From the Common Interactions menu in the Library Panel, drag the *Associate* icon onto the blank Item and drop the resulting box in the blue field that appears when you drag the *Choice* element over it.
 

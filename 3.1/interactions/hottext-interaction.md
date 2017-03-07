@@ -2,9 +2,7 @@
 
 >The Hottext Interaction gives Test-Takers the opportunity to demonstrate their knowledge by showing, among several selections within a body of text, a specific type of word or phrase (e.g. a grammatically incorrect element, misspelling, main character in a story, capital city).
 
-<div class="hidden-video">[![Hottext Interaction]()](https://www.youtube.com/watch?v=BcG-vjaRuok)</div>
-<div class="embed-container"><iframe frameborder="0" src="https://www.youtube.com/embed/BcG-vjaRuok?rel=0" style="border:none" allowfullscreen="true"></iframe>
-</div>
+[![Hottext Interaction]()](https://www.youtube.com/watch?v=BcG-vjaRuok)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Hottext Interaction:
 

@@ -13,7 +13,8 @@ The test taker tools can be configured in the right sidebar either for a whole s
  
 ## Answer Eliminator
 Allow the test-taker to eliminate answers in some interactions. Makes more sense when you have a long list of answer choices and a learning disability
-
+Allow the test-taker to mask and unmask answers in choice interactions
+![Answer Eliminator](../resources/tests/features/test-taker-tools/answer-eliminator.png)
 
 ## Answer Masking
 Allow the test-taker to mask and unmask answers in choice interactions

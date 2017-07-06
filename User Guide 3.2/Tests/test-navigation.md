@@ -12,8 +12,10 @@ These settings are available for a whole section or on a per-item basis. Select 
 
 ## Enable Review Screen
 ![Review screen on a linear test](../resources/tests/features/test-navigation/review/linear-test.png)
-![Review screen on a non-linear test](../resources/tests/features/test-navigation/review/non-linear-test.png)
+Review screen on a linear test
+![Review screen on a non-linear test](../resources/tests/features/test-navigation/review/non-linear-test.png)Review screen on a non-linear test
 ![Review off](../resources/tests/features/test-navigation/review/toggle-off.png)
+Review off
 
 ## Enable Mark for Review
 ![Mark for review](../resources/tests/features/test-navigation/review/mark-for-review.png)

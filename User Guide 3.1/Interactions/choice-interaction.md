@@ -12,6 +12,11 @@ authors:
 [![Choice Interaction]()](http://www.youtube.com/watch?v=8upgdOSTKK0)
 
 
+<div class="hidden-video">[![Extended Text Interaction][media_extended-text-interaction]](https://www.youtube.com/watch?v=jjbBWuvsK3s)</div>
+<div class="embed-container"><iframe frameborder="0" src="https://www.youtube.com/embed/jjbBWuvsK3s?rel=0" style="border:none" allowfullscreen="true"></iframe>
+</div>
+
+
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Choice Interaction: 
   
 **1.** From the [Common Interactions library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Choice* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).

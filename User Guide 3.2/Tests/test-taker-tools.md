@@ -9,7 +9,8 @@ tags: []
 
 The test taker tools can be configured in the right sidebar either for a whole section or on a per-item basis. To display them click on the gears on the little toolbar on each section or item.
 
-![Test-Taker Tool Configuration on a Section](../resources/tests/feature-configuration/section/configuration/test-taker-tools.png)
+![Test-Taker Tool Configuration on a Section](../resources/feature-configuration/section/configuration/test-taker-tools.png)
+Test-Taker Tool Configuration on a Section
  
 ## Answer Eliminator
 Allow the test-taker to eliminate answers in some interactions. Makes more sense when you have a long list of answer choices and a learning disability

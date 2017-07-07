@@ -14,38 +14,30 @@ The test taker tools can be configured in the right sidebar either for a whole s
 ## Answer Eliminator
 Allow the test-taker to eliminate answers in some interactions. Makes more sense when you have a long list of answer choices and a learning disability
 Allow the test-taker to mask and unmask answers in choice interactions
-![Answer Eliminator](../resources/tests/features/test-taker-tools/answer-eliminator.png)
+![Answer Eliminator](../resources/features/test-taker-tools/answer-eliminator.png)
 
 ## Answer Masking
 Allow the test-taker to mask and unmask answers in choice interactions
-<!-- ![Answer Masking](../resources/tests/features/test-taker-tools/answer-masking.png)-->
+![Answer Masking](../resources/features/test-taker-tools/answer-masking.png)
  
 ## Area Masking
 Allow the test-taker to mask parts of the item with a movable mask.
-![Area Masking](../resources/tests/features/test-taker-tools/area-masking.png)
+![Area Masking](../resources/features/test-taker-tools/area-masking.png)
 
 ## Calculator
 Allow the test-taker to use a basic calculator.
-![Calculator](../resources/tests/features/test-taker-tools/calculator.png)
-
-## Comment
-Allow the test-taker to comment on an item.
-![Calculator](../resources/tests/features/non-configurable-tools/comment.png)
+![Calculator](../resources/features/test-taker-tools/calculator.png)
 
 ## Highlighter
 Allow the test-taker to highlight parts of the item text.
-![Highlighter](../resources/tests/features/test-taker-tools/highlighter.png)
+![Highlighter](../resources/features/test-taker-tools/highlighter.png)
 
 ## Line Reader
 Allow the test-taker to visually isolate a line of text.
-![Line Reader](../resources/tests/features/test-taker-tools/line-reader.png)
+![Line Reader](../resources/features/test-taker-tools/line-reader.png)
 
 ## Magnifier
 Allow the test-taker to use a movable magnifier tool.
-![Magnifier](../resources/tests/features/test-taker-tools/magnifier.png)
-
-## Zoom
-Zoom into content
-![Zoom](../resources/tests/features/non-configurable-tools/zoom.gif)
+![Magnifier](../resources/features/test-taker-tools/magnifier.png)
 
 

@@ -8,9 +8,9 @@ tags: []
 > The Audio Interaction allows a Test-Taker to record short audio sequences
 
 The Audio Interaction belongs to the group of *Portable Custom Interactions*, so it is not a classical QTI interaction.
-![Audio Interaction](../resources/interactions/audio-interaction/editor-view.png)
+![Audio Interaction](../resources/backend/items/authoring/interactions/pci/audio-interaction.png)
 Editor View
 
-![Audio Interaction](../resources/interactions/audio-interaction/test-view.png)
+![Audio Interaction](../resources/delivery/interactions/pci/audio-interaction.png)
 Test-Taker View
 

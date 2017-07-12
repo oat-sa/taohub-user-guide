@@ -14,7 +14,6 @@ Test-Taker Tool Configuration on a Section
  
 ## Answer Eliminator
 Allow the test-taker to eliminate answers in some interactions. Makes more sense when you have a long list of answer choices and a learning disability
-Allow the test-taker to mask and unmask answers in choice interactions
 ![Answer Eliminator](../resources/delivery/features/test-taker-tools/answer-eliminator.png)
 
 ## Answer Masking

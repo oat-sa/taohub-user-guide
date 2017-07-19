@@ -10,7 +10,7 @@ authors:
 
 For a quick glimpse of how to create an Associate Interaction in TAO, please watch the following video.
 
-[![Associate Interaction]()](http://www.youtube.com/watch?v=MXyO4Q3vpH8)
+[![How to Create an Associate Item Using TAO](https://img.youtube.com/vi/MXyO4Q3vpH8/hqdefault.jpg)](https://youtube.com/watch?v=MXyO4Q3vpH8&rel=0 "How to Create an Associate Item Using TAO")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Associate Interaction:
 

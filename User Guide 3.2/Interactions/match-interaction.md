@@ -10,7 +10,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Match Interaction:
 
-[![Match Interaction]()](https://www.youtube.com/watch?v=zxjFjmFAQ3s)
+[![Match Interaction](https://img.youtube.com/vi/zxjFjmFAQ3s/hqdefault.jpg)](https://youtube.com/watch?v=zxjFjmFAQ3s&rel=0 "Match Interaction")
 
 **1.** From the [Common Interactions library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Match* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
 

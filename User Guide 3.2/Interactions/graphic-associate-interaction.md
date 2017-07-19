@@ -10,7 +10,7 @@ authors:
 
 >This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library. 
 
-[![Graphic Associate Interaction]()](https://www.youtube.com/watch?v=NoAT8065hyM)
+[![Graphic Associate Interaction](https://img.youtube.com/vi/NoAT8065hyM/hqdefault.jpg)](https://youtube.com/watch?v=NoAT8065hyM&rel=0 "Graphic Associate Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Associate Interaction:
 

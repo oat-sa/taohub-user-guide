@@ -37,6 +37,7 @@ toc:
     - Graphic Associate Interaction
     - Graphic Gap Interaction
     - Select Point Interaction
+    - Portable Custom Interactions
     - Text Block
     - End Attempt
   Tests:
@@ -46,6 +47,7 @@ toc:
     - Importing a test
     - Exporting tests
     - Tests settings
+    - Test-Taker Tools
   Test-takers:
     - "Test-takers: An Overview"
     - Creating test-taker
@@ -60,6 +62,7 @@ toc:
     - What is a delivery?
     - "Deliveries: An Overview"
     - Create a new delivery
+    - Running a delivery
   Results:
     - "Results: An Overview"
     - Viewing Results
@@ -68,6 +71,7 @@ toc:
     - Metadata
     - User Management
     - Add an extension
+    - Proctoring
     - LTI Applications
   Appendix:
     - Glossary

@@ -48,6 +48,7 @@ Please be sure that before you start working again that you update your local co
 
 ```
 git pull origin <branch-name> 
+```
 
-## Getting help on markdown
+## Getting help for Markdown
 A nice resource is https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

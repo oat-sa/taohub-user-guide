@@ -54,6 +54,8 @@ git pull origin <branch-name>
 A nice resource is https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### Supported syntaxes for images
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
+```
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+```

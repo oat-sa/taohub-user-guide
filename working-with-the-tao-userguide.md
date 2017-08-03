@@ -23,6 +23,11 @@ Clone https://github.com/oat-sa/taohub-userguide.git to your hard drive. This wi
 git clone https://github.com/oat-sa/taohub-userguide.git 
 ```
 
+Go to the newly created directory
+```
+cd taohub-userguide
+```
+
 Check out a new branch, be sure to use a meaningful name for this branch.
 
 ```

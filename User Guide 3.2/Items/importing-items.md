@@ -18,6 +18,8 @@ This will take you to the Item [Library](../appendix/glossary.md#library), which
 
 This opens a dialog box which asks you to select the format of the Item to be imported. The supported input formats are: QTI (Question and Test Interoperability) packages or items, APIP (Accessible Portable Item Protocol) packages, RDF (Resource Description Framework) or CSV (Character-Separated Values) files. Be sure that the Item to be imported is in this format, or the import won't work. 
 
+<!-- Missing Screenshot: Importing Items -->
+
 **4.** Click the blue *Browse* button to find the file intended for import (alternatively, the file may be dragged and dropped into the box below the button).
 
 **5.**  Once the Item is selected, click on the blue *Import* button.

@@ -26,12 +26,15 @@ There are four categories of Interactions in TAO: simple, text-based, graphic, a
 - Extended Text Interaction
 - File Upload Interaction
 
+![Common Interactions](../resources/backend/items/authoring/interactions/common-interactions.png)
+
 **Text-based Interactions** are also known as [Inline Interactions](../appendix/glossary.md#inline-interaction). Inline Interactions are interactions which employ contain text-based elements. In TAO, the following Inline Interactions can be used in the creation of test items:
 
 - Inline Choice Interaction
 - Text Entry Interaction
 - End Attempt Interaction
 
+![Inline Interactions](../resources/backend/items/authoring/interactions/inline-interactions.png)
 
 **[Graphic Interactions](../appendix/glossary.md#graphic-interaction)** elements. In TAO, the following Graphic Interactions can be used in the creation of test items:
 
@@ -41,7 +44,11 @@ There are four categories of Interactions in TAO: simple, text-based, graphic, a
 - Gap Match Interaction
 - Select Point Interaction
 
+![Graphic Interactions](../resources/backend/items/authoring/interactions/graphic-interactions.png)
+
 **Miscellaneous Interactions** are also known as Portable [Custom Interactions](../appendix/glossary.md#custom-interaction) (or PCIs). Portable Custom Interactions are interactions which are developed for a specific scenario, mostly to fulfill a specific need of a customer.
+
+![Custom Interactions](../resources/backend/items/authoring/interactions/custom-interactions.png)
 
 ## Creating New Interactions
 

@@ -14,6 +14,8 @@ Now, let's walk through the steps of creating a Group.
 
 This will take you to the Groups page, and will show the last Group which you, or the user before you, created. On the left-hand side of your screen you will see the [Group Library](../appendix/glossary.md#group-library) of existing groups. The last group which was created will be highlighted in the Library. In this tour, however, you will create a new Group.
 
+<!-- Missing Screenshot: Creating a new Group -->
+
 **2.**  Click on the *New Group* icon in the button bank under the *library* to create a new group.
 
 This brings up dialog box entitled *Edit group* for the newly created Group. If desired, rename the Group through the *Label* field, and then click the blue *Save* button.

@@ -6,7 +6,7 @@ authors:
 
 # Slider Interaction
 
->The Slider item gives Test-Takers the opportunity to demonstrate their knowledge of a numerical type, such as a percentage, a total, etc. The answer is conveyed by sliding an indicator on a horizontal scale.
+>The Slider item gives Test-takers the opportunity to demonstrate their knowledge of a numerical type, such as a percentage, a total, etc. The answer is conveyed by sliding an indicator on a horizontal scale.
 
 [![Slider Interaction](https://img.youtube.com/vi/fqrbvbavhuA/hqdefault.jpg)](https://youtube.com/watch?v=fqrbvbavhuA&rel=0 "Slider Interaction")
 

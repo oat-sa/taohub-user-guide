@@ -11,7 +11,7 @@ authors:
 
 This section provides an overview of how to manage the Results of your Tests, including how to view the results and how to export them to a different device.
 
-
+![Viewing the Results](../resources/backend/results/results.png)
 
 **1.** Viewing Results
 

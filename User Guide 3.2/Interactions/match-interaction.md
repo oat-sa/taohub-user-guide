@@ -6,7 +6,7 @@ authors:
 
 # Match Interaction
 
->The Match interaction provides Test-Takers with a matrix upon which they can demonstrate their knowledge by accurately associating selections from two different sets of elements. The association is carried out by placing check marks in squares where matching rows and columns intersect.
+>The Match interaction provides Test-takers with a matrix upon which they can demonstrate their knowledge by accurately associating selections from two different sets of elements. The association is carried out by placing check marks in squares where matching rows and columns intersect.
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Match Interaction:
 

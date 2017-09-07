@@ -6,7 +6,7 @@ authors:
 
 # Exporting Groups
 
->Formal groups of Test-Takers, such as laboratory or lecture groups, may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing the metadata of formal Test-taker Groups will be useful. For instance, an instructor may need to transfer metadata for an entire class to a substitute or replacement teacher during an absence. Test-taker Groups can be shared in a few easy steps.
+>Formal groups of Test-takers, such as laboratory or lecture groups, may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing the metadata of formal Test-taker Groups will be useful. For instance, an instructor may need to transfer metadata for an entire class to a substitute or replacement teacher during an absence. Test-taker Groups can be shared in a few easy steps.
 
 **1.**  Click on the [Groups](../appendix/glossary.md#groups) icon in the *[Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar)*.
 
@@ -23,6 +23,8 @@ This selects the Group which is to be exported.
 **4.**  After clicking on the class, click *Export* in the button bank below the Library.
 
 In the dialog box, confirm that the folder or Group metadata file highlighted is the one that should be exported as a Resource Description Framework (RDF) file.
+
+<!-- Missing Screenshot: Exporting Groups of Test-takers -->
 
 **5.**  Click the blue *Export* button in the dialog box to continue with the export.
 

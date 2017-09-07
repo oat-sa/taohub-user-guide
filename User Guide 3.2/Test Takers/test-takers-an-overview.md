@@ -12,6 +12,7 @@ authors:
 
 This section provides an ovierview of how to manage your Test-Takers, including what you need to do to register them in TAO, how to add new Test-takers to [groups](../appendix/glossary.md#group) of existing Test-takers, and how to re-use the same test-taker profiles in different locations. 
 
+![Test-takers](../resources/backend/test-takers/test-takers.png)
 
 **1.** Creating a new Test-taker
 

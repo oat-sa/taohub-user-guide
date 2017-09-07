@@ -19,6 +19,8 @@ This will take you to the Tests page, and will show the last Test which you, or 
 This will create a new test in the highlighted folder.
 
 *Note: To create a new test in a different folder, select the desired folder in the Library, and then click on the New test icon in the button bank. To create a new folder (in TAO these represent new classes), click on New class in the button bank, and then give it a label. Highlight where to put the new folder relating to the new class.*
+
+![Creating a new Test](../resources/backend/tests/new-test.png)
  
 **3.**  Label and save your Test.
 

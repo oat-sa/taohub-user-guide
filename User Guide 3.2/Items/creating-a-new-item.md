@@ -38,6 +38,8 @@ This will create a new item in the selected folder.
 
 *Note: To create a new item in a different folder, click on that folder in the Library, and then select the New item icon in the button bank. To create a new folder (in TAO these represent classes), click on New class in the button bank. Select a location within the Library, and the new folder (class) will be created there.*
 
+![Creating a new Item](../resources/backend/items/new-item.png)
+
 **3.**  Label and save your Item.
 
 Creating a new Item will bring up a new dialog box with the option to name (or label) your item. After labeling your item, click *Save*. This produces an empty item, which you can now populate with interactions.

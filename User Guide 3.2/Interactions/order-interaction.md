@@ -6,7 +6,7 @@ authors:
 
 # Order Interaction
 
->The Order interaction gives Test-Takers the opportunity to demonstrate their knowledge of a particular order of elements: chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
+>The Order interaction gives Test-takers the opportunity to demonstrate their knowledge of a particular order of elements: chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
 
 [![Order Interaction](https://img.youtube.com/vi/ocF1RrjKZTI/hqdefault.jpg)](https://youtube.com/watch?v=ocF1RrjKZTI&rel=0 "Order Interaction")
 
@@ -25,6 +25,8 @@ This will describe the task given to the test-taker ("Place the following in chr
 **3.** Fill in the options for each question in box to the left.
 
 There are three default options, but you can add more by clicking the blue *Add choice* field at the bottom. You can delete options by clicking the trash can icon to the right of the option you wish to delete.
+
+*Note: Drag-and-drop is enabled for this type of interaction.*
 
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task

@@ -6,7 +6,7 @@ authors:
 
 # Extended Text Interaction
 
->The Extended Text Interaction provides the means of examining the Test-Taker's ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.
+>The Extended Text Interaction provides the means of examining the Test-taker's ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.
 
 [![Extended Text Interaction](https://img.youtube.com/vi/jjbBWuvsK3s/hqdefault.jpg)](https://youtube.com/watch?v=jjbBWuvsK3s&rel=0 "Extended Text Interaction")
 

@@ -6,7 +6,7 @@ authors:
 
 # Graphic Associate Interaction
 
->The Graphic Associate Interaction gives Test-Takers the opportunity to demonstrate their knowledge by depicting routes on a map or graphic in a prescribed way. This can be used for drawing out historical military marches, route-planning exercises, connecting the dots to form a missing piece of an image, etc. 
+>The Graphic Associate Interaction gives Test-takers the opportunity to demonstrate their knowledge by depicting routes on a map or graphic in a prescribed way. This can be used for drawing out historical military marches, route-planning exercises, connecting the dots to form a missing piece of an image, etc. 
 
 >This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library. 
 

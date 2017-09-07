@@ -10,7 +10,7 @@ authors:
 
 ![Term Interaction]()
 
->Interactions serve as a basic unit of Test-Taker response. Items may be made up of one interaction, or several related interactions. As such, the term *Interaction* should not be considered interchangeable with the term [*Item*](../items/what-is-an-item.md). 
+>Interactions serve as a basic unit of Test-taker response. Items may be made up of one interaction, or several related interactions. As such, the term *Interaction* should not be considered interchangeable with the term [*Item*](../items/what-is-an-item.md). 
 
 There are four categories of Interactions: simple, text-based, graphic, and miscellaneous. There are more than 17 interactions recognized by the QTI standard.
 

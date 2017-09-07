@@ -4,7 +4,7 @@ authors:
     - "Catherine Pease"
 --> 
 
-# Tests: An Ovierview
+# Tests: An Overview
 
 >[Tests, or assessments](../appendix/glossary.md#test), are assembled from individual [Items](../appendix/glossary.md#item). Items are built from [Interactions](../appendix/glossary.md#interaction), which are based on exercises such as multiple choice questions.
 
@@ -12,6 +12,8 @@ authors:
 
 
 This section provides an overview of how to manage your Tests, including what you need to do to construct them, what the result looks like, the choices you need to make along the way, and what you can do with them once they have been created.
+
+![Tests in TAO](../resources/backend/tests/tests.png)
 
 **1.** Creating a new Test
 

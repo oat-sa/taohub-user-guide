@@ -16,6 +16,7 @@ toc:
     - Modal feedback
     - Preview
     - Style Editor
+    - Math Expressions
     - Media Manager
   Interactions:
     - What is an interaction?
@@ -48,6 +49,7 @@ toc:
     - Exporting tests
     - Tests settings
     - Test-Taker Tools
+    - Test Scoring and Outcome Declarations
   Test-takers:
     - "Test-takers: An Overview"
     - Creating test-taker

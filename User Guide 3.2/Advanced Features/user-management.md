@@ -20,7 +20,7 @@ These user-related functions, which are accessible to [Global Managers](../appen
 All User Management functions can be found under the Users icon (depicted with two heads), located on the right-hand side of the Assessment [Builder Bar](../appendix/glossary.md#builder_bar). 
 
 
-**1. ** Adding a New User
+**1.** Adding a New User
 
 This tab allows new User accounts to be created on your TAO system. These can include any manager or any [Test-taker](../appendix/glossary.md#test-taker).
 

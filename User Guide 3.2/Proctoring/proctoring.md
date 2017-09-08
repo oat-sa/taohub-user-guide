@@ -35,31 +35,25 @@ A list of all the deliveries which require a proctor will appear.
 
 **4.** Click on *monitor* for the delivery you wish to proctor.
 
-A list of all the test-takers who are logged in for this session will appear. You can filter the test-takers either by date:
+A list of all the test-takers who are logged in for this session will appear. You can filter the test-takers either by date or by status (started, terminated, etc):
 ![Filtering test-takers according to date](../resources/proctoring/proctor-view/test-takers/filter/by-date.png)
-
-or by status (started, terminated, etc):
-
-![Filtering test-takers according to status](../resources/proctoring/proctor-view/test-takers/filter/by-status.png)
 
 *Note: You will need to click on 'refresh' to see test-takers who have logged in since you logged in as proctor. If none are logged in, and you wish to continue, proceed to step 5.*
 
 You can now carry out the following actions for this delivery:
 
-- Authorize a test-taker or group of test-takers to start the session
-![Authorizing test-takers to start the session](../resources/proctoring/proctor-view/actions/authorize-multiple.png)
+![Possible Actions when Proctoring](../resources/proctoring/proctor-view/test-takers/all-started-and selected.png)
 
-- Pause a session
- ![Pausing a session](../resources/proctoring/proctor-view/actions/pause-session.png)
+- **Authorize**: authorize a test-taker or group of test-takers to start the session
 
-- Check the history of the session
-![Checking the history](../resources/proctoring/proctor-view/actions/history.png)
+- **Pause**: Pause a session (e.g. if there is an interruption)
 
-- Report an irregularity
-![Reporting an irregularity](../resources/proctoring/proctor-view/actions/report-irregularity.png)
+- **Report**: Report an irregularity
 
-- Terminate a session
-![Terminating a session](../resources/proctoring/proctor-view/actions/terminate-multiple.png)
+- **Terminate**: Stop a session (e.g. if there is a power cut)
+
+- **History**: Check the history of the session
+
 
 These actions can be carried out for individual test-takers or for all test-takers.
 
@@ -68,8 +62,8 @@ These actions can be carried out for individual test-takers or for all test-take
 
 Carry out Step 5 below if you wish to simulate a test situation in order to experiment with the proctoring option. 
 
-**5.** Simulating a Test Scenario as proctor
+**5.** Testing the proctoring functionality 
 
-To simulate a test scenario using proctoring, you need to log in as both proctor and test-taker. If this is to be done on one computer, you either need to use two different web browsers, or one browser which is set up in one instance in regular mode and in another instance in private mode.
+To try out the proctor functionality you will need to simulate a test scenario. To do this, log in as both proctor and test-taker. If this is to be done on one computer, you either need to use two different web browsers, or one browser which is set up in one instance in regular mode and in another instance in private mode.
 
 Log in as a test-taker on one of the browsers, and as a Proctor on the other. Continue the procedure above from step 4.

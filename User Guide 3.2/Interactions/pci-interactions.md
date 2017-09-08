@@ -8,7 +8,7 @@ tags: []
 
 >Portable Custom Interactions (PCIs) are interactions which are developed for a specific scenario, generally to fulfill the specific need of a customer, hence they are not classical QTI interactions.
 
-Some examples of the different possible types of PCI are: *Audio, Likert, Liquid, Text Reader*, and *Math Entry*.
+The following types of PCI are part of the standard TAO package: *Audio, Likert, Liquid, Text Reader*, and *Math Entry*.
  
 
 - **Audio**: An *Audio* Interaction enables the user to record a short spoken response. The test-taker is presented with an image of a tape recorder, and can record speech by clicking on the record button, and check the recording using the play-back button. The response format is an audio file. Audio interactions are only compatible with *Firefox* and *Chrome*, not with *Internet Explorer* or *Edge*. *Chrome* requires a connection via *https*, whereas at the present time *Firefox* allows both *https* and *http* connections (this is, however, expected to change to only *https* in the future).

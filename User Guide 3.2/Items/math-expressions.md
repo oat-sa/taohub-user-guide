@@ -6,7 +6,7 @@ authors:
 
 # Math Expressions
 
->Math Expressions - ie. mathematical operators - can be employed in interactions by using the Math Editor. The *Math Editor* is a WYSIWYG editor based on MathQuill (http://mathquill.com/), which allows you to use mathematical symbols to create LaTeX expressions containing mathematical operators. It is found in the Custom Interactions section.
+>Math Expressions - i.e. mathematical operators - can be employed in interactions by using the Math Editor. The *Math Editor* is a WYSIWYG editor based on MathQuill (http://mathquill.com/), which allows you to use mathematical symbols to create LaTeX expressions containing mathematical operators. It is found in the Custom Interactions section.
 
 To access the Math Editor follow the steps below.
 

@@ -24,7 +24,7 @@ This could be in the form of a question ("Which country goes with which capital 
 
 *Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
 
-*Drag-and-drop is enabled for this type of interaction.*
+*Drag-and-drop is enabled for this type of interaction. Test-takers can also use click-and-click to move objects; this is an accessibility feature for test-takers with trouble using drag-and-drop.*
 
 **3.** Fill in the *answer tiles* for the question. 
 

@@ -6,7 +6,7 @@ authors:
 
 # Match Interaction
 
->The Match interaction provides Test-takers with a matrix upon which they can demonstrate their knowledge by accurately associating selections from two different sets of elements. The association is carried out by placing check marks in squares where matching rows and columns intersect.
+>The Match interaction provides Test-takers with a matrix upon which they can demonstrate their knowledge by accurately matching selections from two different sets of elements. Matching is carried out by placing check marks in squares where matching rows and columns intersect.
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Match Interaction:
 
@@ -18,13 +18,13 @@ This creates a new Match Interaction window. There is a question field at the to
 
 **2.** Fill in the question field, where it says 'define prompt'.
 
-This should describe the match association task expected of the test-taker. 
+This should describe the match task expected of the test-taker. 
 
 *Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question. These options are available whenever you see this icon.* 
 
-**3.** Insert in the rows the first set of elements, and in the columns the second set of elements that are to be associated with the first.
+**3.** Insert in the rows the first set of elements, and in the columns the second set of elements that are to be matched with the first.
 
-Using the *Add new row* and *Add new column* buttons, add as many rows and columns as will be needed to cover all the associations. If desired, add some unassociated elements in either the rows or the columns to provide an additional challenge for the Test-taker.
+Using the *Add new row* and *Add new column* buttons, add as many rows and columns as will be needed to cover all the matches. If desired, add some unmatched elements in either the rows or the columns to provide an additional challenge for the Test-taker.
 
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task
@@ -41,7 +41,7 @@ If you want to limit the number of times a particular row or column is used, cli
 
 ###Specifying the correct number of associations
 
-You can specify the minimum and maximum number of associations the test-taker will be asked to provide (before he can continue to the next question) in the *Number of associations* boxes in the Interaction properties panel. By default these are empty, which means the test-taker can include as many (or as few) associations as he likes. Setting the minimum to 0 allows the test-taker to skip the question.
+You can specify the minimum and maximum number of associations the test-taker will be asked to provide (before he can continue to the next question) in the *Number of associations* boxes in the Interaction properties panel. By default these are empty, which means the test-taker can include as many (or as few) matches, or  associations, as he likes. Setting the minimum to 0 allows the test-taker to skip the question.
 </aside>
  
 **4.** Click *Response* on the right of blue interaction header to define the correct answer(s).

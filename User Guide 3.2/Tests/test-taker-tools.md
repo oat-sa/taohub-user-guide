@@ -5,7 +5,7 @@ tags: []
 
 # Test-taker Tools
 
-> The Test-taker Tools comprise a set of tools designed to aid the Test-taker in various ways when taking tests. The majority of them are accommodation tools which aim to improve accessibility. The Test-taker Tools for a [Test](../appendix/glossary.md#test) can be found in the [Properties panel](../appendix/glossary.md#properties-panel) on the right.
+> The Test-taker Tools comprise a set of tools designed to aid the Test-taker in various ways when taking tests. Many of them are accommodation tools which aim to improve accessibility. The Test-taker Tools for a [Test](../appendix/glossary.md#test) can be found in the [Properties panel](../appendix/glossary.md#properties-panel) on the right.
 
 
 To configure the Test-taker Tools for a specific test, follow the steps below.
@@ -28,7 +28,7 @@ This option provides the test-taker with a basic calculator.
 ![Calculator](../resources/delivery/features/test-taker-tools/calculator.png)
  
 ## Answer Eliminator
-The Answer Eliminator allows the test-taker to eliminate answers in some interactions. This is useful if there is a long list of answer choices, and the test-taker has a learning disability.
+The Answer Eliminator allows the test-taker to eliminate answers in *Choice* interactions. This is useful if there is a long list of answer choices, and the test-taker has a learning disability.
 ![Answer Eliminator](../resources/delivery/features/test-taker-tools/answer-eliminator.png)
 
 ## Answer Masking
@@ -53,7 +53,7 @@ The Magnifier provides the test-taker with a movable magnifier tool.
 
 ## Zoom Tool
 The Zoom Tool allows the test-taker to zoom in on an area of an item.
-<!-- Missing Screenshot: Zoom Tool -->
+![Zoom Tool](../resources/delivery/features/test-taker-tools/zoom.giv)
 
 ## Keyboard Shortcuts
 The set of keyboard shortcuts provided to the test-taker for these Tools is as follows:

@@ -8,6 +8,8 @@ authors:
 
 >The Extended Text Interaction provides the means of examining the Test-taker's ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.
 
+>Usually, these items are scored manually by a human scorer. In TAO 3.2, authors can define outcome variables on the item level for scoring rubrics, for example for grammar, spelling, and contents.
+
 [![Extended Text Interaction](https://img.youtube.com/vi/jjbBWuvsK3s/hqdefault.jpg)](https://youtube.com/watch?v=jjbBWuvsK3s&rel=0 "Extended Text Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Extended Text Interaction:

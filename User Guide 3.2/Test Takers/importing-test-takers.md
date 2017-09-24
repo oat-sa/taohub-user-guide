@@ -17,7 +17,7 @@ This will take you to the [Test-taker Library](../appendix/glossary.md#testtaker
 
 **3.**  Click on *Import* in the button bank below the Library.
 
-This opens a dialog box which asks you to select the format of the incoming Test-taker metadata. The supported formats are RDF (Resource Description Framework) or CSV (Character-Separated Values).  
+This opens a dialog box which asks you to select the format of the incoming Test-taker metadata. The supported formats are RDF (Resource Description Framework) or CSV (Comma-Separated Values).  
 
 <!-- Missing Screenshot: Importing Test-takers -->
 

@@ -6,7 +6,7 @@ authors:
 
 # File Upload Interaction
 
->The File Upload Interaction provides an interface in which Test-takers can upload a pre-written essay, completed artwork, or other form of submission. 
+>The File Upload Interaction provides an interface in which Test-takers can upload a pre-written essay, completed artwork, or other form of submission. Usually, these items are scored manually by a human scorer.
 
 [![File Upload Interaction](https://img.youtube.com/vi/xPIdLTR5mJ8/hqdefault.jpg)](https://youtube.com/watch?v=xPIdLTR5mJ8&rel=0 "File Upload Interaction")
 

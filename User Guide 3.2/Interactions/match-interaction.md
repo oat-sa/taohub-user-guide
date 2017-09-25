@@ -6,7 +6,7 @@ authors:
 
 # Match Interaction
 
->The Match interaction provides Test-takers with a matrix upon which they can demonstrate their knowledge by accurately matching selections from two different sets of elements. Matching is carried out by placing check marks in squares where matching rows and columns intersect.
+>The Match interaction provides Test-takers with a matrix upon which they can demonstrate their knowledge by accurately matching, or associating, selections from two different sets of elements. Matching is carried out by placing check marks in squares where matching rows and columns intersect.
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Match Interaction:
 
@@ -37,7 +37,7 @@ Check the *Shuffle choices* box. The sequence of the row and column options will
 
 ###Limiting the use of a choice
 
-If you want to limit the number of times a particular row or column is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Allowed number of uses*. Setting this to a maximum of 1, for example, will mean that the Test-taker can only use that element in one match.
+If you want to limit the number of times a particular row or column is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Allowed number of uses*. Setting this to a maximum of 1, for example, will mean that the Test-taker can only use that element in one associated match.
 
 ###Specifying the correct number of associations
 

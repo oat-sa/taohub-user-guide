@@ -17,7 +17,7 @@ Follow the steps below to set up your chosen scoring method.
 
 **2.** Click on the button *Scoring*.
 
-There are four methods for scoring a test, or "outcomes processing" as this is called in QTI. Enter your choice from the four options below in *Outcome Processing*:
+There are four methods for scoring a test, or "outcome processing" as this is called in QTI. Enter your choice from the four options below in *Outcome Processing*:
 
 <!-- Missing Screenshot: Scoring -->
 

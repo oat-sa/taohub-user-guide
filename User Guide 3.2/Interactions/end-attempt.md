@@ -10,6 +10,7 @@ authors:
 
 > The *End Attempt* icon can be found in the [Interactions Library](../appendix/glossary.md#interactions-library) on the left, under [Inline-interactions](../appendix/glossary.md#inline-interactions).
 
+*Note: Strictly speaking, the End Attempt interaction is not an interaction, but is implemented as such for the test-taker to be able to end his/her attempt at an item*
 
 **1.** Including *End Attempt* in your test [Item](../appendix/glossary.md#item).
  

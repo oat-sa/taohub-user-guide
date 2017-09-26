@@ -53,7 +53,7 @@ The Magnifier provides the test-taker with a movable magnifier tool.
 
 ## Zoom Tool
 The Zoom Tool allows the test-taker to zoom in on an area of an item.
-![Zoom Tool](../resources/delivery/features/test-taker-tools/zoom.giv)
+![Zoom Tool](../resources/delivery/features/test-taker-tools/zoom.gif)
 
 ## Keyboard Shortcuts
 The set of keyboard shortcuts provided to the test-taker for these Tools is as follows:

@@ -6,7 +6,7 @@ authors:
 
 # Graphic Order Interaction
 
->The Graphic Order Interaction gives Test-Takers the opportunity to demonstrate their knowledge of chronological order, orders of importance, etc. as seen on a graphic (map, photo, or other image).
+>The Graphic Order Interaction gives Test-takers the opportunity to demonstrate their knowledge of chronological order, orders of importance, etc. as seen on a graphic (map, photo, or other image).
 
 >This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library. 
 
@@ -14,6 +14,8 @@ authors:
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Order Interaction:
 
 **1.** From the [Graphic Interactions library](../appendix/glossary.md#graphic-interactions-library) near the bottom of the *Interactions library* on the left, drag the *Order* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+
+<!-- Missing Screenshot: Graphic Order Interaction -->
 
 **2.** Choose the desired background graphic.
 

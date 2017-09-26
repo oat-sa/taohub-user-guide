@@ -6,7 +6,7 @@ authors:
 
 # Text Entry Interaction
 
->Text Entry allows the Test-Taker to complete a "Fill in the Blank" question with an exact text answer. This interaction is one of two *Block*-related interactions, the other being *Inline Choice* (covered in its own section).
+>Text Entry allows the Test-taker to complete a "Fill in the Blank" question with an exact text answer. This interaction is one of two *Block*-related interactions, the other being *Inline Choice* (covered in its own section).
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Text Entry Interaction:
 
@@ -17,6 +17,8 @@ This creates a field (containing a sample text) in which a text may be entered f
 To enter your text, click inside the text field.
 
 *Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your block text.*
+
+<!-- Missing Screenshot: Text Entry Interaction -->
 
 **2.** Once you have entered the text, drag the *Text Entry* icon from the Inline Interactions library to the space next to where the Test-taker will be expected to *fill in the blank*.
 

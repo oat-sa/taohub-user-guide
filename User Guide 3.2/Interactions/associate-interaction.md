@@ -6,7 +6,7 @@ authors:
 
 # Associate Interaction #
 
->The Associate Interaction assesses the Test-Taker's ability to match associated words or phrases. 
+>The Associate Interaction assesses the Test-taker's ability to match associated words or phrases. 
 
 For a quick glimpse of how to create an Associate Interaction in TAO, please watch the following video.
 
@@ -23,6 +23,8 @@ This opens a new Associate Interaction window. There is a question field at the 
 This could be in the form of a question ("Which country goes with which capital city?") or instructional ("Match the country with the capital city."). 
 
 *Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
+
+*Drag-and-drop is enabled for this type of interaction. Test-takers can also use click-and-click to move objects; this is an accessibility feature for test-takers with trouble using drag-and-drop.*
 
 **3.** Fill in the *answer tiles* for the question. 
 

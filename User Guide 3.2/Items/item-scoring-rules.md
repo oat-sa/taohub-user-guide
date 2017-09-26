@@ -6,7 +6,9 @@ authors:
 
 # Item Scoring Rules
 
->Test-takers who complete a Test will often ask, "What score did I get?" Scores are generated through performance in the various [interactions](../appendix/glossary.md#interaction) that make up the [Items](../appendix/glossary.md#item), which themselves compose the [Test](../appendix/glossary.md#test). Interactions generate individual scores, which count towards the overall score of the Item, and all Item scores are tallied to produce the final Test result. Knowing how to set up scoring within an interaction is therefore useful in determining the Test-Taker's grade.
+>Item scores are determined by the student's performance in the various [interactions](../appendix/glossary.md#interaction) which make up the [Items](../appendix/glossary.md#item) of which the [Test](../appendix/glossary.md#test) is composed. Interactions generate individual scores which count towards the overall score of the Item. These individual scores can be tallied in different ways. This chapter shows how to configure these.
+
+>For information on Test Scoring Rules, see [Test Scoring Rules and Outcome Declarations](../tests/scoring-and-outcome-declarations.md).
 
 After you have created your Interaction, go to the *Response* window and follow the steps below to set up your chosen scoring method.
 
@@ -16,7 +18,9 @@ After you have created your Interaction, go to the *Response* window and follow 
 
 *Map Response:* With this processing option, it is possible to give partial credit for a response. This is useful for questions where the answer is given in multiple parts. With the *map response* option, some parts of the answer can also be weighted more heavily than other parts if you consider them to be of higher importance.
 
-**2.** Select the *Response Processing* type that is appropriate for the question.
+<!-- Missing Screenshot: Item Scoring Rules -->
+
+**2.** Select the *Response Processing* type which is appropriate for the question.
 
 This is going to depend to a large extent on preference, particularly with respect to partial credit.
 

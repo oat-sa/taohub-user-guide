@@ -10,6 +10,7 @@ authors:
 
 This section provides an overview of how to manage your Groups of test-takers, including what you need to do to create Groups, add new test-takers to Groups, and how to re-use the same groups in different locations. 
 
+![Groups](../resources/backend/groups/groups.png)
 
 **1.** Creating a new Group
 

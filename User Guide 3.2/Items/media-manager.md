@@ -11,6 +11,8 @@ authors:
 
 You will find the same buttons in the Media Manager as in most other functions under the library on the left (*New class*, *Delete*, *Import*, *Export*). The New class, Delete, and Export buttons work in a very similar way to most of the other functions. For more information on any of these, click on the following links: [New class](../appendix/glossary.md#class), [Delete](../appendix/glossary.md#delete), [Export](../appendix/glossary.md#export).
 
+<!-- Missing Screenshot: The Media Manager -->
+
 The *Import* button works in a slightly different way in the Media Manager. Follow the steps below to import a new media file.
 
 **1.**  Click on the Media icon in the *[Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar)*.

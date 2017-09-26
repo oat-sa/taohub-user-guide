@@ -13,7 +13,7 @@ authors:
 
 This chapter demonstrates how an interface between TAO and Moodle can be set up and executed. This allows test authors to take advantage of the ease of using TAO, whilst also allowing test administrators to deliver tests through the popular Moodle platform with which they are familiar. As an administrator, you must have Administrator privileges for both TAO and Moodle. As a teacher, you must have Teacher privileges in Moodle and Test Delivery privileges in TAO, and TAO-Moodle interconnectivity must be set up prior to executing the delivery.
 
-
+<!-- Missing Screenshot: LTI Applications -->
 
 **Setting up a TAO-Moodle delivery as an LTI Administrator**
 

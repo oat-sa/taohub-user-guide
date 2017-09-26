@@ -22,6 +22,8 @@ authors:
 
 This brings up the Properties window for that particuar class (folder). Properties define the Metadata which apply to a given Item. The Properties window for the class you are reviewing allows you to change the label of the class and shows the Properties which comprise the Metadata set for all the Items in that class. For items, the first four Properties listed cannot be edited: *Item Content*, *Original Filename*, *Item Model*, and *Lock*. Other Properties in the list of class Metadata can be both edited and, if necessary, deleted.
 
+<!-- Missing Screenshot: Defining Meta Data (Item properties) -->
+
 **2.**  To add a new Property in the class Properties window, click on the blue *Add Property* button below the Property list.
 
 This adds a new Property at the end of the list. Before it can be used in TAO, you will need to add information to it.

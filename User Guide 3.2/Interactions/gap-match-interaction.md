@@ -34,6 +34,8 @@ Click on the *magic wand* to confirm your selected location for a Gap Match elem
 
 Repeat as many times as is needed to adequately assess the test-taker's knowledge of the passage.
 
+*Note: Drag-and-drop is enabled for this type of interaction.*
+
 **5.** If desired, add extra options into the match words field by clicking the *add choice* button.
 
 Placing additional words into the match word field may prevent test-takers from successfully using "process of elimination" as a strategy.

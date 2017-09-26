@@ -20,7 +20,7 @@ These user-related functions, which are accessible to [Global Managers](../appen
 All User Management functions can be found under the Users icon (depicted with two heads), located on the right-hand side of the Assessment [Builder Bar](../appendix/glossary.md#builder_bar). 
 
 
-**1. ** Adding a New User
+**1.** Adding a New User
 
 This tab allows new User accounts to be created on your TAO system. These can include any manager or any [Test-taker](../appendix/glossary.md#test-taker).
 
@@ -34,6 +34,8 @@ Click on the *Add a user* tab. Fill in the following fields in the panel that ap
 - **Password and Repeat Password** (to be given to the user). 
  
 The *First Name*, *Last Name*, and *Mail* (E-mail) fields are optional.
+
+![Adding a new User](../resources/backend/users/add-a-user.png)
 
 **2.** Managing Users
 
@@ -65,12 +67,12 @@ The most important roles are:
 
 **Test Author:** A Test Author can create, edit or delete tests.
 
-**Test Taker:** The Test-Taker can take tests. (This role is normally assigned by the Test-Taker Manager).
+**Test Taker:** The Test-taker can take tests. (This role is normally assigned by the Test-taker Manager).
 
 Select the users who will be assigned to this role by clicking on the *Assign users* button in the *[Action Bar](../appendix/glossary.md#action-bar)*. A list of TAO users will appear. Select the checkboxes of the users to whom you wish to assign this role. When all the desired users are selected, click *Save*.
 
 
-**4. ** Managing Access Rights.
+**4.** Managing Access Rights.
 
 This tab provides the means for changing the access rights of roles within your TAO system. Access to modules can be changed in this tab, by either adding or removing them from a specific role.
 

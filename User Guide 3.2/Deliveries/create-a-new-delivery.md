@@ -18,6 +18,8 @@ This will take you to the Deliveries page, and will show the last Delivery which
 
 This brings up a dialog box entitled *Create a New Delivery*, which asks for a Test selection. From the pull-down menu, select the Test that is to be sent to Test-takers in this delivery. Once selected, click *Publish*. 
 
+<!-- Missing Screenshot: Creating a Delivery -->
+
 A properties panel will come up.
 
 *Note: To create a new delivery in a different folder, select the desired folder in the Library, and then click on the New delivery icon in the button bank. To create a new folder (in TAO these represent new classes), click on New class in the button bank, and then give it a label. Highlight where to put the new folder relating to the new class.*

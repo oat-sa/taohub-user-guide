@@ -9,6 +9,7 @@ authors:
 
 >The Results of an assessment are collected for each [Delivery](../appendix/glossary.md#delivery), and can be viewed under the Results icon.
 
+![Viewing the Results](../resources/backend/results/results.png)
 
 **1.**  Click on the [Results](../appendix/glossary.md#results) icon in the *[Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar)*.
 

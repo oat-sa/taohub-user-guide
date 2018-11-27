@@ -5,16 +5,16 @@ tags: []
 
 # Proctoring
 
-> The Proctoring extension allows the administrators of deliveries to monitor a [Delivery](../appendix/glossary.md#delivery). By assuming the role of proctor, a teacher or administrator is able to follow the progress of test-takers sitting a [Test](../appendix/glossary.md#test), submit a report on the status of the delivery and also intervene if necessary.
+> The Proctoring extension allows the administrators of deliveries to monitor a [Delivery](../appendix/glossary.md#delivery). By assuming the role of proctor, a teacher or administrator is able to follow the progress of [Test-takers](../appendix/glossary.md#test-taker) sitting a [Test](../appendix/glossary.md#test), submit a report on the status of the delivery and also intervene if necessary.
  
-> There are two roles involved: a Proctor and one or multiple [Test-takers](../appendix/glossary.md#test-taker).
+> There are two roles involved: a [Proctor](../appendix/glossary.md#proctor) and one or multiple test-takers.
 
  
 Follow the steps below to assign a proctor to a delivery.
 
 **1.** Create a user with the role *proctor*
 
-See the [User Management section](../advanced-features/user-management.md) for details on how to do this.
+See the [User Management section](../administrative-features/user-management.md) for details on how to do this.
 
 ![Adding a Proctor as User](../resources/proctoring/prerequisites/create-proctor-user.png) 
 
@@ -22,12 +22,12 @@ See the [User Management section](../advanced-features/user-management.md) for d
 
 See the [Create a new Delivery section](../deliveries/create-a-new-delivery.md) for details on how to create a delivery.
 
-The properties pertaining to your new delivery will appear on the [canvas](../appendix/glossary.md#canvas) in the middle of the screen. Check the box *Require proctoring* at the bottom of the properties list, and save your delivery.
+The properties pertaining to your new delivery will appear on the [Canvas](../appendix/glossary.md#canvas) in the middle of the screen. Check the box *Require proctoring* at the bottom of the properties list, and save your delivery.
 
 ![Configuring a Delivery](../resources/proctoring/prerequisites/configure-delivery.png) 
 
 
-**3.** Log in as Proctor
+**3.** Log in as proctor
 
 A list of all the deliveries which require a proctor will appear.
 
@@ -66,4 +66,4 @@ Carry out Step 5 below if you wish to simulate a test situation in order to expe
 
 To try out the proctor functionality you will need to simulate a test scenario. To do this, log in as both proctor and test-taker. If this is to be done on one computer, you either need to use two different web browsers, or one browser which is set up in one instance in regular mode and in another instance in private mode.
 
-Log in as a test-taker on one of the browsers, and as a Proctor on the other. Continue the procedure above from step 4.
+Log in as a test-taker on one of the browsers, and as a proctor on the other. Continue the procedure above from step 4.

@@ -6,14 +6,14 @@ authors:
 
 # Graphic Order Interaction
 
->The Graphic Order Interaction gives Test-takers the opportunity to demonstrate their knowledge of chronological order, orders of importance, etc. as seen on a graphic (map, photo, or other image).
+>The Graphic Order [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge of chronological order, orders of importance, etc. as seen on a graphic (map, photo, or other image).
 
->This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library. 
+>This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library). 
 
 
-Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Order Interaction:
+Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Order interaction:
 
-**1.** From the [Graphic Interactions library](../appendix/glossary.md#graphic-interactions-library) near the bottom of the *Interactions library* on the left, drag the *Order* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Order* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 <!-- Missing Screenshot: Graphic Order Interaction -->
 
@@ -30,7 +30,7 @@ A new authoring window will appear with the background graphic in the center of 
 
 This should cover such important information as what the background graphic represents, and what the test-taker is supposed to do in this interaction. 
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 **4.** Insert the *Associable Hotspots* onto the background graphic.
 
@@ -39,7 +39,7 @@ To insert a rectangle, click on one corner and drag it across the intended area 
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task
 
-The following options are available in the [Interaction Properties panel](../appendix/glossary.md#int-prop-panel) on the right.
+The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#int-prop-panel) on the right.
 
 ###Specifying correct number of answers 
 
@@ -53,15 +53,15 @@ This will bring up the same screen, but you can now numerically categorize the s
 <aside class="optional-extras">
 ##Optional Extras when Processing a Response
 
-The following option is available in the [Response Properties panel](../appendix/glossary.md#resp-prop-panel) on the right.
+The following option is available in the [Response Properties Panel](../appendix/glossary.md#resp-prop-panel) on the right.
 
 ###Inserting modal feedback
 
-If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, [see the Modal Feedback section](../items/modal-feedback.md). 
+If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md). 
 
 </aside>
 
 
-**6.** Click the blue *Done* button. Your Graphic Order Interaction is now complete.
+**6.** Click the blue *Done* button. Your graphic order interaction is now complete.
 
-You can now preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+You can now preview your interaction using the steps given in the [Preview Instructions](../items/preview.md).

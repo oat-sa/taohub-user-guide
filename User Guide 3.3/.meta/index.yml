@@ -9,6 +9,7 @@ toc:
     - What is an item?
     - "Items: An Overview"
     - Creating a new item
+    - Item Authoring Workflow
     - Importing items
     - Exporting items
     - Adding media
@@ -17,10 +18,10 @@ toc:
     - Preview
     - Style Editor
     - Math Expressions
-    - Media Manager
   Interactions:
     - What is an interaction?
     - "Interactions: An Overview"
+    - Interaction Authoring Tools
     - Choice Interaction
     - Order Interaction
     - Associate Interaction
@@ -47,12 +48,16 @@ toc:
     - Creating a new test
     - Importing a test
     - Exporting tests
-    - Tests settings
-    - Test-Taker Tools
+    - Test settings
+    - Providing Test-level Instant Feedback
+    - Test-taker Tool Configuration
     - Test Scoring and Outcome Declarations
+  Media:
+    - Media Manager
+    - Shared Stimuli
   Test-takers:
     - "Test-takers: An Overview"
-    - Creating test-taker
+    - Creating a test-taker
     - Importing test-takers
     - Exporting test-takers
   Groups:
@@ -64,16 +69,39 @@ toc:
     - What is a delivery?
     - "Deliveries: An Overview"
     - Create a new delivery
-    - Running a delivery
+  Test Centers
+    - "Test Centers: An Overview"
+    - Creating a new Test Center
+    - Importing a Test Center
+    - Licensing a Delivery to a Test Center
+    - Proctoring
+    - Removing a Test Center
+  Taking a Test:
+	- Accessibility Tools
+	- Color Contrast
+	- Review Panel
+	- Test Navigation
+	- Keyboard Navigation
+	- Text-to-Speech
+	- Hide Time Limits
+	- Connection Indicator
   Results:
     - "Results: An Overview"
     - Viewing Results
     - Exporting Results
-  Advanced features:
-    - Metadata
-    - User Management
-    - Add an extension
-    - Proctoring
-    - LTI Applications
+  Administrative Features:
+	- User Management
+	- Roles and Permissions
+    - Item and Test Versioning
+    - Background Tasks  
+  Advanced Features:
+    - Metadata Management
+    - LTI Consumer Management
+    - Add an Extension
+    - Event Log
+    - Resource Identifiers
+  Premium Edition Features:
+    - Customization in TAO
+    - Enabling Text to Speech
   Appendix:
     - Glossary

@@ -6,27 +6,26 @@ authors:
 
 # Slider Interaction
 
->The Slider item gives Test-takers the opportunity to demonstrate their knowledge of a numerical type, such as a percentage, a total, etc. The answer is conveyed by sliding an indicator on a horizontal scale.
+>The Slider [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge of a numerical type, such as a percentage, a total, etc. The answer is conveyed by sliding an indicator on a horizontal scale.
 
 [![Slider Interaction](https://img.youtube.com/vi/fqrbvbavhuA/hqdefault.jpg)](https://youtube.com/watch?v=fqrbvbavhuA&rel=0 "Slider Interaction")
 
 
-Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Slider Interaction:
+Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Slider interaction:
 
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Slider* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
 
-**1.** From the [Common Interactions library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Slider* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
-
-This creates a new Slider Interaction window. There is a question field at the top, followed by a graphical control element (a 'slider') indicating the scale covered by the answers to the question. Below the slider is the current value depicted by the slider ("0").
+This creates a new Slider interaction window. There is a question field at the top, followed by a graphical control element (a 'slider') indicating the scale covered by the answers to the question. Below the slider is the current value depicted by the slider ("0").
 
 **2.** Fill in the question field, where it says 'define prompt'. 
 
-This will describe the task given to the Test-taker, typically a question involving numbers or a fraction, etc. 
+This will describe the task given to the test-taker, typically a question involving numbers or a fraction, etc. 
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 **3.** Adjust the settings on the slider.
 
-This can be done in the [Interaction Properties panel](../appendix/glossary.md#interaction-properties-panel) on the right.
+This can be done in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
 First, set the upper and lower limits of the slider using the *Upper Bound* and *Lower Bound* boxes.
 
@@ -41,14 +40,14 @@ This provides access to the actual slider, so that the answer can be set. You ca
 <aside class="optional-extras">
 ##Optional Extras when Processing a Response
 
-The following option is available in the [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right.
+The following option is available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
 ###Inserting modal feedback
 
-If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, [see the *Modal Feedback* section](../items/modal-feedback.md).
+If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 </aside>
 
 
-**5.** Click the blue *Done* button. Your Slider Interaction is now complete.
+**5.** Click the blue *Done* button. Your slider interaction is now complete.
 
-After this step, you can preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+After this step, you can preview your interaction using the steps given in the [Preview Instructions](../items/preview.md).

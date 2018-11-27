@@ -6,21 +6,21 @@ authors:
 
 # Match Interaction
 
->The Match interaction provides Test-takers with a matrix upon which they can demonstrate their knowledge by accurately matching, or associating, selections from two different sets of elements. Matching is carried out by placing check marks in squares where matching rows and columns intersect.
+>The Match [Interaction](../appendix/glossary.md#interaction) provides [Test-takers](../appendix/glossary.md#test-taker) with a matrix upon which they can demonstrate their knowledge by accurately matching, or associating, selections from two different sets of elements. Matching is carried out by placing check marks in squares where matching rows and columns intersect.
 
-Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Match Interaction:
+Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Match interaction:
 
 [![Match Interaction](https://img.youtube.com/vi/zxjFjmFAQ3s/hqdefault.jpg)](https://youtube.com/watch?v=zxjFjmFAQ3s&rel=0 "Match Interaction")
 
-**1.** From the [Common Interactions library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Match* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Match* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This creates a new Match Interaction window. There is a question field at the top, and a default 2-row-by-2-column matrix beneath this.
 
 **2.** Fill in the question field, where it says 'define prompt'.
 
-This should describe the match task expected of the test-taker. 
+This should describe the match task expected of the test-taker.
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question. These options are available whenever you see this icon.* 
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 **3.** Insert in the rows the first set of elements, and in the columns the second set of elements that are to be matched with the first.
 
@@ -29,7 +29,7 @@ Using the *Add new row* and *Add new column* buttons, add as many rows and colum
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task
 
-The following options are available in the [Interaction Properties panel](../appendix/glossary.md#interaction-properties-panel) on the right.
+The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
 ###Shuffling the choices
 
@@ -49,7 +49,7 @@ You can specify the minimum and maximum number of associations the test-taker wi
 <aside class="optional-extras">
 ##Optional Extras when Processing a Response
 
-The following options are available in the [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right.
+The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
 ###Modifying the scoring method
 
@@ -65,9 +65,9 @@ First, assign a weight for each match in the boxes next to each one.
 
 ###Inserting modal feedback
 
-If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, [see the Modal Feedback section](../items/modal-feedback.md). 
+If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md). 
 </aside>
 
-**6.** Click the blue *Done* button. Your Match Interaction is now complete.
+**6.** Click the blue *Done* button. Your match interaction is now complete.
 
-After this step, you can preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+After this step, you can preview your interaction using the steps given in the [Preview Instructions](../items/preview.md).

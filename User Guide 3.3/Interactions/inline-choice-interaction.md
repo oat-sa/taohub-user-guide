@@ -6,7 +6,7 @@ authors:
 
 # Inline Choice Interaction
 
->Inline Choice allows the Test-taker to complete a "Fill  in the Blank" question with one choice taken from a selected list of answers. This is usually combined with other interactions (note that there is no question line for either *block* interaction).
+>Inline Choice [Interactions](../appendix/glossary.md#interaction) allow [Test-takers](../appendix/glossary.md#test-taker) to complete a "Fill  in the Blank" question with one choice taken from a selected list of answers. This is usually combined with other interactions (note that there is no question line for either *block* interaction).
 
 >This interaction is one of two *Block*-related interactions, the other being *Text Entry* (covered in its own section).
 
@@ -15,15 +15,15 @@ For a quick glimpse of how to create an Inline Choice Interaction in TAO, please
 [![How to Create an Inline Choice Interaction Using TAO](https://img.youtube.com/vi/qdpX6MGrAAM/hqdefault.jpg)](https://youtube.com/watch?v=qdpX6MGrAAM&rel=0 "How to Create an Inline Choice Interaction Using TAO")
 
 
-Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Inline Choice Interaction:
+Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Inline Choice interaction:
 
-**1.** From the [Inline Interactions library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, drag the *Block* interaction, represented by a letter *A* icon, onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, drag the *Block* interaction, represented by a letter *A* icon, onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
 
 This creates a field (containing a sample text) in which a text may be entered from a favorite source (a Word document or website, for instance), or typed in. 
 
 To enter your text, click inside the text field.
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your block text.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 **2.** Once you have entered the text, drag the *Inline Choice* icon from the Inline Interactions library to a space next to where the test-taker will be expected to *fill in the blank*.
 
@@ -36,7 +36,7 @@ Repeat the above for each place in the text where you would like to the test-tak
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task
 
-The following options are available in the [Interaction Properties panel](../appendix/glossary.md#interaction-properties-panel) on the right.
+The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
 ###Shuffling the choices
 
@@ -57,7 +57,7 @@ This produces the same selection of options that the Test-taker will see. Simply
 <aside class="optional-extras">
 ##Optional Extras when Processing a Response
 
-The following options are available in the [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right.
+The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
 ###Modifying the scoring method
 
@@ -73,14 +73,14 @@ First, assign a weight for each choice in the boxes next to each one.
 
 ###Inserting modal feedback 
 
-If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, [see the *Modal Feedback* section](../items/modal-feedback.md).
+If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 
 ###Limiting the duration of the test
 
-Click anywhere outside of the Text Space. This will give you the option of setting the Interaction as *Time dependent* (to be completed within a certain interval), by checking the check box. [This option is covered in greater detail in Test Settings](../tests/tests-settings.md).
+Click anywhere outside of the Text Space. This will give you the option of setting the interaction as *Time dependent* (to be completed within a certain interval), by checking the check box. This option is covered in greater detail in [Test Settings](../tests/tests-settings.md).
 
 </aside>
  
-**4.** Click the blue *Done* button. Your Inline Choice Interaction is now complete.
+**4.** Click the blue *Done* button. Your inline choice interaction is now complete.
 
-After this step, you can preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+After this step, you can preview your interaction using the steps given in the [Preview Instructions](../items/preview.md).

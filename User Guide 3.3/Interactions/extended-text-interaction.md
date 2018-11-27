@@ -6,15 +6,15 @@ authors:
 
 # Extended Text Interaction
 
->The Extended Text Interaction provides the means of examining the Test-taker's ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.
+>The Extended Text [Interaction](../appendix/glossary.md#interaction) provides the means of examining the [Test-taker's](../appendix/glossary.md#test-taker) ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.
 
->Usually, these items are scored manually by a human scorer. In TAO 3.2, authors can define outcome variables on the item level for scoring rubrics, for example for grammar, spelling, and contents.
+>Usually, these [Items](../appendix/glossary.md#item) are scored manually by a human scorer. In TAO 3.2, authors can define outcome variables on the item level for scoring rubrics, for example for grammar, spelling, and contents.
 
 [![Extended Text Interaction](https://img.youtube.com/vi/jjbBWuvsK3s/hqdefault.jpg)](https://youtube.com/watch?v=jjbBWuvsK3s&rel=0 "Extended Text Interaction")
 
-Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Extended Text Interaction:
+Once you have generated a new item, and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Extended Text Interaction:
 
-**1.** From the [Common Interactions library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Extended Text* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Extended Text* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Extended Text Interaction window. There is a question field at the top, with an *extended text field* below it. 
 
@@ -22,12 +22,12 @@ This opens a new Extended Text Interaction window. There is a question field at 
 
 The test-taker will be expected to remember the answer exactly, without any variation. Even an extra space will result in the answer being marked as incorrect. 
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task
 
-The following options are available in the [Interaction Properties panel](../appendix/glossary.md#interaction-properties-panel) on the right.
+The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
 ###Defining a certain format
 
@@ -50,14 +50,14 @@ Enter the expected answer in the answer field. Again, the test-taker is expected
 <aside class="optional-extras">
 ##Optional Extras when Processing a Response
 
-The following options are available in the [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right.
+The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
 ###Inserting modal feedback
 
-If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, [see the *Modal Feedback* section](../items/modal-feedback.md).
+If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 
 </aside>
 
-**5.** Click the blue *Done* button. Your Extended Text Interaction is now complete.
+**5.** Click the blue *Done* button. Your extended text interaction is now complete.
 
-After this step, you can preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+After this step, you can preview your interaction using the steps given in the [Preview Instructions](../items/preview.md).

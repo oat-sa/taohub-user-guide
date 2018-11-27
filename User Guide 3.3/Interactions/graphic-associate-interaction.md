@@ -6,15 +6,15 @@ authors:
 
 # Graphic Associate Interaction
 
->The Graphic Associate Interaction gives Test-takers the opportunity to demonstrate their knowledge by depicting routes on a map or graphic in a prescribed way. This can be used for drawing out historical military marches, route-planning exercises, connecting the dots to form a missing piece of an image, etc. 
+>The Graphic Associate [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge by depicting routes on a map or graphic in a prescribed way. This can be used for drawing out historical military marches, route-planning exercises, connecting the dots to form a missing piece of an image, etc. 
 
->This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library. 
+>This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library). 
 
 [![Graphic Associate Interaction](https://img.youtube.com/vi/NoAT8065hyM/hqdefault.jpg)](https://youtube.com/watch?v=NoAT8065hyM&rel=0 "Graphic Associate Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Associate Interaction:
 
-**1.** From the [Graphic Interactions library](../appendix/glossary.md#graphic-interactions-library) near the bottom of the *Interactions library* on the left, drag the *Associate* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Associate* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 **2.** Choose the desired background graphic.
 
@@ -28,7 +28,7 @@ A new authoring window will appear with the background graphic in the center of 
 
 This should cover such important information as what the background graphic represents, and what the Test-taker is supposed to do in this interaction.  
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 **4.** Insert the *Associable Hotspots* onto the background graphic.
 
@@ -48,7 +48,7 @@ You can limit the number of times a particular element is used by clicking on it
 
 ###Specifying the correct number of associations
 
-You can specify the minimum and maximum number of associations that the test-taker will be asked to provide (before he can continue to the next question) in the *Number of Associations* boxes in the Interaction Properties Panel. By default, these are empty, which means the test-taker can include as many (or as few) associations as he likes. (Setting the minimum to 0 allows the test-taker to skip the question.)
+You can specify the minimum and maximum number of associations that the test-taker will be asked to provide (before he can continue to the next question) in the *Number of Associations* boxes in the Interaction Properties panel. By default, these are empty, which means the test-taker can include as many (or as few) associations as he likes. (Setting the minimum to 0 allows the test-taker to skip the question.)
 
 </aside>
 
@@ -61,7 +61,7 @@ See Optional Extras below for other scoring methods.
 <aside class="optional-extras">
 ##Optional Extras when Processing a Response
 
-The following options are available in the [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right.
+The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
 ###Modifying the scoring method
 
@@ -75,9 +75,9 @@ First, assign a weight for each Hotspot pair. In the Pair Scoring panel below th
 
 ###Inserting modal feedback
 
-If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, [see the Modal Feedback section](../items/modal-feedback.md).
+If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 </aside>
 
-**6.** Click the blue *Done* button. Your Graphic Associate Interaction is now complete.
+**6.** Click the blue *Done* button. Your graphic associate interaction is now complete.
 
-You can now preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+You can now preview your interaction using the steps given in the [Preview Instructions](../items/preview.md).

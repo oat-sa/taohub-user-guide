@@ -9,11 +9,11 @@ authors:
 >[Extensions](../appendix/glossary.md#extension) add new functionalities to TAO, providing various TAO customizations. Extensions improve upon the basic TAO program by interfacing TAO with existing test-taking or test-scoring software, or enhancing test elements, as required by an institution.
 
 
-**1.** Open the *[Extensions manager](../appendix/glossary.md#extensions-manager)*.
+**1.** Open the [Extensions manager](../appendix/glossary.md#extensions-manager).
 
-You can find the Extensions manager by hovering over the *Settings* icon, which is depicted by interlocking cogs in the [Assessment Builder bar](../appendix/glossary.md#assessment-builder-bar). Click to open.
+You can find the Extensions manager by hovering over the *Settings* icon, which is depicted by interlocking cogs in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar). Click to open.
 
-The *Extensions manager* is one of several Settings options (the others are: File Sources, Result Server Manager, and LTI Consumers). When it is open, the screen shows a Settings canvas with the *Extensions manager* as the active tab in the row of tabs above that canvas. If a different Settings screen is shown instead, click on the tab that reads *Extensions Manager* to get to that particular canvas.
+The *Extensions manager* is one of several Settings options (the others are: File Sources, Result Server Manager, and LTI Consumers). When it is open, the screen shows a Settings canvas with the *Extensions Manager* as the active tab in the row of tabs above that canvas. If a different Settings screen is shown instead, click on the tab that reads *Extensions Manager* to get to that particular canvas.
 
 ![Extensions Manager](../resources/backend/settings/extension-manager.png)
 

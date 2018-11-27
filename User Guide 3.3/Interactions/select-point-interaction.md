@@ -6,15 +6,15 @@ authors:
 
 # Select Point Interaction
 
->The Select Point Interaction gives Test-takers the opportunity to demonstrate their knowledge by selecting an invisibly-defined portion of an image (region on a map, person in a line-up, etc.).
+>The Select Point [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge by selecting an invisibly-defined portion of an image (region on a map, person in a line-up, etc.).
 
->This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library. 
+>This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library) on the left. 
 
 [![Select Point Interaction](https://img.youtube.com/vi/5OYeuVPxK_o/hqdefault.jpg)](https://youtube.com/watch?v=5OYeuVPxK_o&rel=0 "Select Point Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Select Point Interaction:
 
-**1.** From the [Graphic Interactions library](../appendix/glossary.md#graphic-interactions-library) near the bottom of the *Interactions library* on the left, drag the *Select Point* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Select Point* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 **2.** Choose the desired background graphic.
 
@@ -28,12 +28,12 @@ A new authoring window will appear with the background graphic in the center of 
 
 This should cover such important information as what the background graphic represents, and what the test-taker is expected to select in this interaction. 
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task
 
-The following option is available in the [Interaction Properties panel](../appendix/glossary.md#interaction-properties-panel) on the right.
+The following option is available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
 ###Specifying correct number of answers 
 
@@ -52,9 +52,9 @@ Test-takers will not see these Hotspots on the background graphic, but selecting
 
 **6.** Set the weights to be awarded for each Hotspot.
 
-In the scoring method normally used as a default, a Test-taker receives one point per completely correct interaction (so the test-taker has to select all the correct responses in order for the answer to be considered correct).
+In the scoring method normally used as a default, a test-taker receives one point per completely correct interaction (so the test-taker has to select all the correct responses in order for the answer to be considered correct).
 
-In this type of interaction, however, each Hotspot is evaluated individually, and thus *Map Response* is used as the *[Response processing](../appendix/glossary.md#response-processing]* method (see [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right).
+In this type of interaction, however, each Hotspot is evaluated individually, and thus *Map Response* is used as the *[Response processing](../appendix/glossary.md#response-processing]* method (see [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right).
 
 By clicking on each Hotspot, a pop-up window appears next to it, which allows you to set the weight to be awarded if the test-taker selects it correctly.  
 
@@ -67,14 +67,14 @@ The following options are available in the Response Properties panel on the righ
 
 ###Inserting modal feedback
 
-If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, [see the *Modal Feedback* section](../items/modal-feedback.md).
+If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 
 ###Limiting the duration of the test
 
-Click anywhere outside of the Text Space. This will give you the option of setting the Interaction as *Time dependent* (to be completed within a certain interval), by checking the check box. [This option is covered in greater detail in Test Settings](../tests/tests-settings.md).
+Click anywhere outside of the Text Space. This will give you the option of setting the Interaction as *Time dependent* (to be completed within a certain interval), by checking the check box. This option is covered in greater detail in [Test Settings](../tests/tests-settings.md).
 
 </aside>
 
-**7.** Click the blue *Done* button. Your Select Point Interaction is now complete.
+**7.** Click the blue *Done* button. Your Select Point interaction is now complete.
 
-You can now preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+You can now preview your Interaction using the steps given in the [Preview Instructions](../items/preview.md).

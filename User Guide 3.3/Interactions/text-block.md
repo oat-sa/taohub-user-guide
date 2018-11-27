@@ -6,14 +6,14 @@ authors:
 
 # Text Blocks
 
->[Text Blocks](../appendix/glossary.md#text-block) are used to create [inline interactions](../appendix/glossary.md#inline-interactions). A text block is basically a paragraph, and forms a framework into which one of the two available text-based inline interactions (Inline Choice, Text Entry) is then inserted.
+>[Text Blocks](../appendix/glossary.md#text-block) are used to create [Inline Interactions](../appendix/glossary.md#inline-interactions). A text block is basically a paragraph, and forms a framework into which one of the two available text-based inline interactions (Inline Choice, Text Entry) is then inserted.
 
-> Text Blocks are represented by the icon **A** *Block* in the [Interactions Library](../appendix/glossary.md#interactions-library) on the left, under [Inline-interactions](../appendix/glossary.md#inline-interactions).
+> Text Blocks are represented by the icon **A** *Block* in the [Interactions Library](../appendix/glossary.md#interactions-library) on the left, under [Inline Interactions](../appendix/glossary.md#inline-interactions).
 
    
-**1.** Using Text Blocks in Inline Interactions
+**1.** Using Text Blocks in Inline interactions
 
-After you have created a new [Item](../appendix/glossary.md#item), drag the *Block* interaction (represented by a letter *A* icon) from the [Inline Interactions library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+After you have created a new [Item](../appendix/glossary.md#item), drag the *Block* interaction (represented by a letter *A* icon) from the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 <!-- Missing Screenshot: Text Block Interaction -->
 
@@ -21,6 +21,6 @@ This creates a field (containing a sample text) in which a text may be entered f
 
 To enter your text, click inside the text field.
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your block text.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 For more detail on how to create the two inline interactions which use *Text Blocks*, see the sections on [Inline Choice Interaction](../interactions/inline-choice-interaction.md) and [Text Entry Interaction](../interactions/text-entry-interaction.md).

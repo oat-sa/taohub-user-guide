@@ -6,47 +6,60 @@ authors:
 
 # Creating a New Item
 
->Together, questions and other types of [Interaction](../appendix/glossary.md#interaction) form [Items](../appendix/glossary.md#item), which comprise parts of [Tests](../appendix/glossary.md#test). Items are created and populated with Interactions, and can be combined to assess Test-taker performance.
+>Together, questions and other types of [Interaction](../appendix/glossary.md#interaction) form [Items](../appendix/glossary.md#item), which comprise parts of [Tests](../appendix/glossary.md#test). Items are created and populated with interactions, and can be combined to assess [Test-taker](../appendix/glossary.md#test-taker) performance.
 
->There are more than 17 types of interaction in TAO. For information on the types of Interaction available, see the Interactions section. Note that an Item generally contains only one Interaction type.
+>There are more than 17 types of interaction in TAO. Note that an item generally contains only one interaction type.
 
 The videos below will demonstrate how to easily create some of the most popular items using TAO.
 
-How to create a Choice (multiple-choice) Item using TAO:
+How to create an item with a [Choice (multiple-choice) Interaction](../interactions/choice-interaction.md) using TAO:
 
 
 [![Choice Interaction]()](http://www.youtube.com/watch?v=a3WM6yMfiGs)
 
-How to create an Inline Item using TAO:
+How to create an item with an [Inline Interaction](../interactions/inline-choice-interaction.md) using TAO:
 
 [![Inline Interactions]()](http://www.youtube.com/watch?v=5vplITM3Ah4)
 
-How to create an Associate Item using TAO:
+How to create an item with an [Associate Interaction](../interactions/associate-interaction.md) using TAO:
 
 [![Associate Interaction]()](http://www.youtube.com/watch?v=qIX3HVNq5L0)
 
 
-Now, let's walk through the steps of creating an Item.
+Now, let's walk through the steps of creating an item.
 
-**1.**  Click on the Items icon in the *[Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar)*.
+**1.**  Click on the Items icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
-This will take you to the Items page. The [Library](../appendix/glossary.md#library) on the left-hand side will show existing Items. The last Item to be edited (either by you or a previous user) will be highlighted in the Library. In this tour, however, you will create a new Item.
+This will take you to the Items page. The [Library](../appendix/glossary.md#library) on the left-hand side will show existing items. The last item to be edited (either by you or a previous user) will be highlighted in the library. In this tour, however, you will create a new item.
 
-**2.**  Click on the *New item* icon in the button bank under the *library*.
+**2.**  Click on the *New item* icon in the button bank under the library.
 
-This will create a new item in the selected folder. 
+This will create a new item in the selected folder.
 
-*Note: To create a new item in a different folder, click on that folder in the Library, and then select the New item icon in the button bank. To create a new folder (in TAO these represent classes), click on New class in the button bank. Select a location within the Library, and the new folder (class) will be created there.*
+*Note: To create a new item in a different folder, click on that folder in the library, and then select the New item icon in the button bank. To create a new folder (in TAO these represent classes), click on New class in the button bank. Select a location within the library, and the new folder (class) will be created there.*
 
 ![Creating a new Item](../resources/backend/items/new-item.png)
 
-**3.**  Label and save your Item.
+**3.**  Label and save your item.
 
-Creating a new Item will bring up a new dialog box with the option to name (or label) your item. After labeling your item, click *Save*. This produces an empty item, which you can now populate with interactions.
+Creating a new item will bring up a new dialog box with the option to name (or label) your item. After labeling your item, click *Save*. This produces an empty item, which you can now populate with interactions.
 
-**4.**  Click on the option *Authoring* in the *[Action Bar](../appendix/glossary.md#action-bar)*.
+**4.**  Click on the option *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar).
 
-This will take you to the empty Item you have created. You can now start to fill this with your interactions. In the Library on the left, you will now see the *[Common Interactions](../appendix/glossary.md#common-interactions)* catalog. You will find the other types of interaction below this catalog: *[Inline Interactions](../appendix/glossary.md#inline-interactions)*, *[Graphic Interactions](../appendix/glossary.md#graphic-interactions)* and *[Custom Interactions](../appendix/glossary.md#custom-interactions)*. You can navigate these catalogs to choose the types of interaction you want to use for your item. The Interaction section will tell you about the different types of interaction which you can use in TAO.
+This will take you to the empty item you have created. You can now start to fill this with your interactions. In the library on the left, you will see the [Common Interactions](../appendix/glossary.md#common-interactions) catalog. You will find the other types of interaction below this catalog: [Inline Interactions](../appendix/glossary.md#inline-interactions), [Graphic Interactions](../appendix/glossary.md#graphic-interactions) and [Custom Interactions](../appendix/glossary.md#custom-interactions). You can navigate these catalogs to choose the types of interaction you want to use for your item. The [Interactions](../interactions/what-is-an-interaction.md) section will tell you about the different types of interaction which you can use in TAO.
+
+You can create an item which contains more than one interaction. Once you have added and prepared one interaction in your item, drag another interaction template from the [Interactions Library](../appendix/glossary.md#interactions-library) onto the [Canvas](../appendix/glossary.md#canvas) below the interaction you have just authored, and repeat the authoring process for the new interaction. 
+
+*Note: The option to add another interaction to an item is activated by default for users of the Premium Edition of TAO. It is not activated in the Community Edition by default, but can be added if so desired.*
+
+**5.** Select the settings for your item. 
+
+Two settings can be chosen for your new item in the [Item Properties](../appendix/glossary.md#item-properties) to the right of the canvas.
+
+**Time dependent:** Check the *[Time dependent](../appendix/glossary.md#time-dependent-item)* box if you wish the length of time a test-taker takes to complete the item to be recorded. This information will be used when the response is processed.  
+
+**Language:** Select the language of your item from the drop-down menu. This will be used for the [Text-to-Speech](../appendix/glossary.md#test-to-speech) functionality. The default language is English. 
+
 
 *Note: Items are 'locked' when you (or another user) are working on them.*
 
@@ -54,17 +67,23 @@ This will take you to the empty Item you have created. You can now start to fill
 ##Optional Extras
 
 
-###Duplicating an already existing Item
+###Duplicating an existing item
 
-You can make a copy of an already existing item by clicking on the *Duplicate* icon in the button bank under the *library*. A duplicate will then be created in the folder of the item you have duplicated, with the same name but with "bis" on the end.
+You can make a copy of an already existing item by clicking on the *Duplicate* icon in the button bank under the library. A duplicate will then be created in the folder of the item you have duplicated, with the same name but with "bis" on the end.
 
-###Translating your Item
+###Copying an existing item
 
-You can translate an existing item by clicking on the *Translate* icon in the Action Bar. This will bring up a dialog box in which select the translation information. Select a language from the drop-down menu, and then label your translated Item in the *Translate Label* box.
+You can make a copy of an already existing item by clicking on the *Copy to* icon in the button bank under the library. 
+
+A dialog box will appear on the canvas. Select a destination folder, and click on *Copy*. A copy of the item will then be created in the folder you have selected, with the same name but with "bis" on the end.
+
+###Translating your item
+
+You can translate an existing item by clicking on the *Translate* icon in the action bar. This will bring up a dialog box in which select the translation information. Select a language from the drop-down menu, and then label your translated item in the *Translate Label* box.
 
 ###Granting user access
 
-As an administrator, you can permit a user certain access rights to specific folders (classes), items or tests. To do this, select a folder and then click on the *Access Control* icon in the button bank under the *library*.  
+As an administrator, you can permit a user certain access rights to specific folders (classes), items or tests. To do this, select a folder and then click on the *Access Control* icon in the button bank under the library.  
 
 This will bring up a window with the following:
 
@@ -82,15 +101,5 @@ Clicking the brown button *Remove* will delete user/role from the list.
 *Note: Unchecking all the boxes for a specific user/role will also remove them from the list.*
  
 When you have checked the correct boxes, click the blue *Save* button to save your changes.
-
-###Viewing the history of an Item
-
-In TAO, it is possible to maintain different versions of the same item, and this is done using the *History* icon.
-
-When you have finished editing an Item, and want to save it as a new version (instead of overwriting the original version), click on *History* in the Action Bar. Before saving the new version, you will need to enter a comment, such as "modified after spring 2016 field test", in order to distinguish it from other versions, and then click *Commit*.
-
-You will then be presented with the history of that Item: the version ID, the date it was saved, the user who authored it, and the comment.
-
-*Note: If any changes are later made to the Item, you can return to the previous version by clicking *Restore*. A new version of the file is then created, and given a correspondingly numbered the default name such as "restored version 1". The file name can be changed.*
 
 </aside>

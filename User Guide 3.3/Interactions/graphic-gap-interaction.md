@@ -6,15 +6,15 @@ authors:
 
 # Graphic Gap Interaction
 
->The Graphic Gap Interaction gives Test-takers the opportunity to demonstrate their knowledge about geographical regions, identify facts about portions of images (people in a group photo, etc.), or show other similar capabilities in picture matching.
+>The Graphic Gap [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge about geographical regions, identify facts about portions of images (people in a group photo, etc.), or show other similar capabilities in picture matching.
 
->This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library.
+>This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library).
 
 [![Graphic Gap Interaction](https://img.youtube.com/vi/gF0hXkP03D4/hqdefault.jpg)](https://youtube.com/watch?v=gF0hXkP03D4&rel=0 "Graphic Gap Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Gap Interaction:
 
-**1.** From the [Graphic Interactions library](../appendix/glossary.md#graphic-interactions-library) near the bottom of the *Interactions library* on the left, drag the *Gap Match* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the [Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Gap Match* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 
 **2.** Choose the desired background graphic.
@@ -29,7 +29,7 @@ A new authoring window will appear with the background graphic in the center of 
 
 This should cover such important information as what the graphic represents, and what the test-taker is supposed to do in this interaction.
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 **4.** Insert the *Associable Hotspots* onto the graphic.
 
@@ -52,7 +52,7 @@ After uploading the images, select the first answer graphic for the first slot, 
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task
 
-The following options are available in the [Interaction Properties panel](../appendix/glossary.md#interaction-properties-panel) on the right.
+The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
 ###Limiting the use of a choice
 
@@ -66,7 +66,7 @@ You can now select the correct associations between the answer graphics and the 
 <aside class="optional-extras">
 ##Optional Extras when Processing a Response
 
-The following options are available in the [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right.
+The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
 ###Modifying the scoring method
 
@@ -83,10 +83,10 @@ First, assign a weight for each correct match in the *Pair Scoring* box below th
 
 ###Inserting modal feedback
 
-If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, [see the Modal Feedback section](../items/modal-feedback.md).
+If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 
 </aside>
 
-**6.** Click the blue *Done* button. Your Graphic Gap Interaction is now complete.
+**6.** Click the blue *Done* button. Your graphic gap interaction is now complete.
 
-You can now preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+You can now preview your interaction using the steps given in the [Preview Instructions](../items/preview.md).

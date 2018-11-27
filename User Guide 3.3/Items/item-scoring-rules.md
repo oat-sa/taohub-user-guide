@@ -6,11 +6,11 @@ authors:
 
 # Item Scoring Rules
 
->Item scores are determined by the student's performance in the various [interactions](../appendix/glossary.md#interaction) which make up the [Items](../appendix/glossary.md#item) of which the [Test](../appendix/glossary.md#test) is composed. Interactions generate individual scores which count towards the overall score of the Item. These individual scores can be tallied in different ways. This chapter shows how to configure these.
+>Item scores are determined by the student's performance in the various [Interactions](../appendix/glossary.md#interaction) which make up the [Items](../appendix/glossary.md#item) of which the [Test](../appendix/glossary.md#test) is composed. Interactions generate individual scores which count towards the overall score of the Item. These individual scores can be tallied in different ways. This chapter shows how to configure these.
 
 >For information on Test Scoring Rules, see [Test Scoring Rules and Outcome Declarations](../tests/scoring-and-outcome-declarations.md).
 
-After you have created your Interaction, go to the *Response* window and follow the steps below to set up your chosen scoring method.
+After you have created your interaction, go to the *Response* window and follow the steps below to set up your chosen scoring method.
 
 **1.** In the [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right, locate the *Response Processing* pull-down choice box offering the two options: *Match Correct* and *Map Response*.
 
@@ -24,9 +24,9 @@ After you have created your Interaction, go to the *Response* window and follow 
 
 This is going to depend to a large extent on preference, particularly with respect to partial credit.
 
-If you select *Match Correct*, stop here - the scoring settings for this Interaction are complete.
+If you select *Match Correct*, stop here - the scoring settings for this interaction are complete.
 
-**3.** If you select *Map Response*, review the responses in your Interaction, then determine and assign corresponding weights to each potential response.
+**3.** If you select *Map Response*, review the responses in your interaction, then determine and assign corresponding weights to each potential response.
 
 Partial credit can be awarded here by assigning values in the weight boxes in order of importance in your Interaction canvas.
  
@@ -36,7 +36,7 @@ Partial credit can be awarded here by assigning values in the weight boxes in or
 
 This is where you can specify the minimum and maximum number of points awarded for this interaction. Its use is optional.
 
-The minimum score indicates the minimum number of responses the Test-taker is required to select for it to be a valid answer. If the interaction involves selecting more than one response, the maximum  score should reflect the total of the weights for all correct responses, i.e. the maximum score possible for your Interaction. If only one response is expected, the maximum should equal that of the highest weight. Adjust these values as needed.
+The minimum score indicates the minimum number of responses the [Test-taker](../appendix/glossary.md#test-taker) is required to select for it to be a valid answer. If the interaction involves selecting more than one response, the maximum  score should reflect the total of the weights for all correct responses, i.e. the maximum score possible for your Interaction. If only one response is expected, the maximum should equal that of the highest weight. Adjust these values as needed.
 
 So if, for example, there are two correct responses in the question, and you have assigned a weight of 1 to one of them, and a weight of 2 to the other, the Test-taker would get a score of 3 if they are both correct (providing the maximum is set to 3 or above).
 

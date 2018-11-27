@@ -7,7 +7,8 @@ tags: []
 
 > 
 
-These settings are available for a whole section or on a per-item basis. Select the gears next to the section or items and click on *Test Navigation*
+These settings are available for a whole section or on a per-item basis. Select the gears next to the section or items and click on *Test Navigation*.
+
 ![Test Navigation](../resources/backend/tests/authoring/settings/section/test-navigation.png)
 
 ## Enable Review Screen
@@ -29,6 +30,9 @@ Marked Items
 
 
 ## Informational Item Usage
-
+<!-- Missing Screenshot: Informational Item Usage -->
+Example of an Informational Item
 
 ## Allow Section Skipping
+<!-- Missing Screenshot: Skipping -->
+Skipping activated

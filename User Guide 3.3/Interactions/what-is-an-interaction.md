@@ -10,10 +10,10 @@ authors:
 
 ![Term Interaction]()
 
->Interactions serve as a basic unit of Test-taker response. Items may be made up of one interaction, or several related interactions. As such, the term *Interaction* should not be considered interchangeable with the term *[Item](../items/what-is-an-item.md)*. 
+>[Interactions](../appendix/glossary.md#interaction) serve as a basic unit of [Test-taker](../appendix/glossary.md#test-taker) response. Items may be made up of one interaction, or several related interactions. As such, the term *Interaction* should not be considered interchangeable with the term [Item](../items/what-is-an-item.md). 
 
 There are four categories of Interactions: simple, text-based, graphic, and miscellaneous. There are more than 17 interactions recognized by the QTI standard.
 
 In TAO, interactions include the mechanisms used to score themselves. 
 
-For simple Items, correct answers add, unlike incorrect answers, to the Test score. Scoring a composite item using standard response templates (*match correct*, *map response*, or *map response point*) is often a more complicated sum.
+For simple Items, correct answers add, unlike incorrect answers, to the [Test](../appendix/glossary.md#test) score. Scoring a composite item using standard response templates (*match correct*, *map response*, or *map response point*) is often a more complicated sum.

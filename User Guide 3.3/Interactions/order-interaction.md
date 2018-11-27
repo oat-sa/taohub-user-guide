@@ -6,13 +6,13 @@ authors:
 
 # Order Interaction
 
->The Order interaction gives Test-takers the opportunity to demonstrate their knowledge of a particular order of elements: chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
+>The Order [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge of a particular order of elements: chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
 
 [![Order Interaction](https://img.youtube.com/vi/ocF1RrjKZTI/hqdefault.jpg)](https://youtube.com/watch?v=ocF1RrjKZTI&rel=0 "Order Interaction")
 
-Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Order Interaction:
+Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Order interaction:
 
-**1.** From the [Common Interactions library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Order* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Order* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This creates a new Order Interaction window. There is a question field at the top, with two boxes underneath.
 
@@ -20,7 +20,7 @@ This creates a new Order Interaction window. There is a question field at the to
 
 This will describe the task given to the test-taker ("Place the following in chronological order", etc.). 
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 **3.** Fill in the options for each question in box to the left.
 
@@ -31,7 +31,7 @@ There are three default options, but you can add more by clicking the blue *Add 
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task
 
-The following options are available in the [Interaction Properties panel](../appendix/glossary.md#interaction-properties-panel) on the right.
+The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
 ###Shuffling the choices
 
@@ -43,7 +43,7 @@ Specify the minimum and maximum number of answer options that the test-taker wil
 
 ###Presenting the answer options in list format
 
-The answer options can be presented as a list. To choose a [list style](../appendix/glossary.md#list-style), select one of the options in *List style*, located below the *Allowed Choices* in the Interaction Properties panel.
+The answer options can be presented as a list. To choose a [List Style](../appendix/glossary.md#list-style), select one of the options in *List style*, located below the *Allowed Choices* in the Interaction Properties panel.
 
 ###Present the answer options horizontally
 
@@ -57,14 +57,14 @@ Then click on each option in the left-hand box in the desired order. The options
 <aside class="optional-extras">
 ##Optional Extras when Processing a Response
 
-The following option is available in the [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right.
+The following option is available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
 ###Inserting modal feedback
 
-If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, [see the *Modal Feedback* section](../items/modal-feedback.md).
+If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 </aside>
 
 
-**6.** Click the blue *Done* button. Your Order Interaction is now complete.
+**6.** Click the blue *Done* button. Your order interaction is now complete.
 
-After this step, you can preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+After this step, you can preview your Interaction using the steps given in the [Preview Instructions](../items/preview.md).

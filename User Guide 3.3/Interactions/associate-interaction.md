@@ -6,7 +6,7 @@ authors:
 
 # Associate Interaction #
 
->The Associate Interaction assesses the Test-taker's ability to match associated words or phrases. 
+>The Associate [Interaction](../appendix/glossary.md#interaction) assesses the [Test-taker's](../appendix/glossary.md#test-taker) ability to match associated words or phrases. 
 
 For a quick glimpse of how to create an Associate Interaction in TAO, please watch the following video.
 
@@ -14,7 +14,7 @@ For a quick glimpse of how to create an Associate Interaction in TAO, please wat
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Associate Interaction:
 
-**1.** From the [Common Interactions library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Associate* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Associate* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Associate Interaction window. There is a question field at the top, two *answer tile* options below this, and then an example of linked boxes at the bottom.
 
@@ -22,7 +22,7 @@ This opens a new Associate Interaction window. There is a question field at the 
 
 This could be in the form of a question ("Which country goes with which capital city?") or instructional ("Match the country with the capital city."). 
 
-*Note: The A icon on the right allows you to bold or italize text, and to insert a picture, [shared stimulus](../appendix/glossary.md#shared-stimulus), [math expression](../appendix/glossary.md#math-expression) or link into your question.*
+*Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 *Drag-and-drop is enabled for this type of interaction. Test-takers can also use click-and-click to move objects; this is an accessibility feature for test-takers with trouble using drag-and-drop.*
 
@@ -35,7 +35,7 @@ You will need more than two, so select *Add choice* as many times as is needed t
 <aside class="optional-extras">
 ##Optional Extras when Creating a Task
 
-The following options are available in the [Interaction Properties panel](../appendix/glossary.md#interaction-properties-panel) on the right.
+The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
 ###Shuffling the choices
 
@@ -43,7 +43,7 @@ Check the *Shuffle choices* box. This will help disguise the matched pairs you h
 
 ###Limiting the use of a choice
 
-If you want to limit the number of times a particular element is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Allowed number of uses*. Setting this to a maximum of 1, for example, will mean that the Test-taker can only use that element in one association. 
+If you want to limit the number of times a particular element is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Allowed number of uses*. Setting this to a maximum of 1, for example, will mean that the test-taker can only use that element in one association. 
 
 ###Specifying the correct number of associations
 
@@ -62,7 +62,7 @@ This will provide the first set of correct responses. Continue with this procedu
 <aside class="optional-extras">
 ##Optional Extras when Processing a Response
 
-The following options are available in the [Response Properties panel](../appendix/glossary.md#response-properties-panel) on the right:
+The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right:
 
 ###Modifying the scoring method
 
@@ -71,7 +71,7 @@ By default, a test-taker receives one point per completely correct interaction, 
 
 You may want to modify the scoring method if, for example, you want the test-taker to receive partial credit for selecting some, but not all, of the correct associations. Or you may wish to give a higher weight to some of the associations than to others. 
 
-You can do this using the *map response* option of *Response processing*, in the Response Properties panel on the right. When you choose this option, there are several settings you need to enter. 
+You can do this using the *map response* option of *Response processing*, in the response properties panel on the right. When you choose this option, there are several settings you need to enter. 
 
 First, assign a weight for each association in the boxes next to each one. 
 
@@ -83,6 +83,6 @@ If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedb
 
 </aside>
 
-**6.** Click the blue *Done* button. Your Associate Interaction is now complete.
+**6.** Click the blue *Done* button. Your associate interaction is now complete.
 
-After this step, you can preview your Interaction using the steps given in the [Preview instructions](../items/preview.md).
+After this step, you can preview your interaction using the steps given in the [Preview Instructions](../items/preview.md).

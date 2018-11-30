@@ -5,7 +5,7 @@ authors:
 --> 
 
 
-## Keyboard Navigation
+# Keyboard Navigation
 
 
 > Keyboard shortcuts for the [Accessibility Tools](../appendix/glossary.md#test-taker-tools) are available to the [Test-taker](../appendix/glossary.md#test-taker).

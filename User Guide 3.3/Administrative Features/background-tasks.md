@@ -4,7 +4,7 @@ authors:
     - "Catherine Pease"
 --> 
 
-#Background Tasks
+# Background Tasks
 
 > In the Premium Edition of TAO, tasks which take a little longer are placed in the background so that you can continue working in other areas instead of having to wait for the first process to finish. This allows users of TAO to multitask.
 

@@ -4,7 +4,7 @@ authors:
     - "Catherine Pease"
 --> 
 
-#Shared Stimuli
+# Shared Stimuli
 
 >A stimulus is a piece of information which sets the context for a question or a series of questions. A [Shared Stimulus](../appendix/glossary.md#shared-stimulus) is one that is shared between multiple [Items](../appendix/glossary.md#item).
 

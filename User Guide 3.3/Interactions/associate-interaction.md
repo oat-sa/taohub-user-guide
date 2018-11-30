@@ -4,7 +4,7 @@ authors:
     - "Catherine Pease"
 --> 
 
-# Associate Interaction #
+# Associate Interaction
 
 >The Associate [Interaction](../appendix/glossary.md#interaction) assesses the [Test-taker's](../appendix/glossary.md#test-taker) ability to match associated words or phrases. 
 

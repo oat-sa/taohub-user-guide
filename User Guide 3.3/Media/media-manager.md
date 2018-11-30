@@ -4,7 +4,7 @@ authors:
     - "Catherine Pease"
 --> 
 
-#Media Manager
+# Media Manager
 
 
 >The Media Manager provides a space to store media files (images, audio and video) and to access them from any item. This is a universally shared folder, which means you don't need to keep uploading the same files for use in different items. The Media [Class](../appendix/glossary.md#class) will always appear as an option for choosing input when you are populating items.

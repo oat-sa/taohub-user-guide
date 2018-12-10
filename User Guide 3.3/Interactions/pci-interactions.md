@@ -13,7 +13,8 @@ The following types of PCI are part of the standard TAO package: *Audio, Likert,
 
 - **Audio**: An *Audio* interaction enables the [Test-taker](../appendix/glossary.md#test-taker) to record a short spoken response, typically to test his/her speaking ability. The test-taker is presented with an image of a tape recorder, and can record speech by clicking on the record button, and check the recording using the play-back button. The response format is an audio file. Audio interactions are only compatible with *Firefox* and *Chrome*, not with *Internet Explorer* or *Edge*. *Chrome* requires a connection via *https*, whereas at the present time *Firefox* allows both *https* and *http* connections (this is, however, expected to change to only *https* in the future).
 
-![PCI: Audio Interaction](../resources/backend/items/authoring/interactions/pci/audio-interaction.png)
+![PCI: Audio Interaction](../resources/backend/items/authoring-107.png)
+
 
 - **Likert**: In a *Likert* interaction, a scale from 1-5 is used to represent people's attitudes to a topic. This is commonly used in qualitative surveys. The scale is presented using 'thumbs-down' and 'thumbs-up' images to represent a negative or positive response, and offers five buttons from which to select a choice. The response is a simple integer representing the selected choice. Likert interactions are not usually scored, as there is no right or wrong.
 

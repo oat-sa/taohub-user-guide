@@ -25,7 +25,7 @@ This selects the tests which are to be exported.
 The dialog box will ask you to choose an export format: either QTI or RDF.
 If the test is to be exported as a Question and Test Interoperability (.qti) formatted document, it will save the files as a compressed .zip file. Otherwise, the export will be in Resource Description Framework (.rdf) format.
 
-<!-- Missing Screenshot: Exporting Tests -->
+![Exporting Tests](../resources/backend/tests/export-5.png)
 
 **5.**  Click the blue *Export* button in the dialog box to continue with the export.
 

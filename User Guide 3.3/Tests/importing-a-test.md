@@ -18,7 +18,7 @@ This will take you to the Test [Library](../appendix/glossary.md#library), which
 
 This opens a dialog box which asks you to select the format of the test to be imported. The supported input formats are: QTI (Question and Test Interoperability), RDF (Resource Description Framework) or CSV (Character-Separated Values).  
 
-![Importing Tests](../resources/backend/tests/import-test.png)
+![Importing Tests](../resources/backend/tests/import-3.png)
 
 **4.** Click the blue *Browse* button to find the file intended for import (alternatively, the file may be dragged and dropped into the box below the button).
 

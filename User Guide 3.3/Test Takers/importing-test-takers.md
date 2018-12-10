@@ -19,7 +19,7 @@ This will take you to the [Test-taker Library](../appendix/glossary.md#test-take
 
 This opens a dialog box which asks you to select the format of the incoming test-taker metadata. The supported formats are RDF (Resource Description Framework) or CSV (Comma-Separated Values).  
 
-![Importing Test-takers](../resources/backend/test-takers/import-tests-takers.png)
+![Importing Test-takers](../resources/backend/test-takers/import-3.png)
 
 **4.** Click the blue *Browse* button to find the file intended for import (alternatively, the file may be dragged and dropped into the box below the button).
 

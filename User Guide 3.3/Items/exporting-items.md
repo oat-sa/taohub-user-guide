@@ -29,7 +29,7 @@ The dialog box will ask you to choose an export format from the list: QTI, APIP 
 
 You also need to confirm that the folder or file highlighted is the one that should be exported, by checking the *Items* box.
 
-<!-- Missing Screenshot: Exporting Items -->
+![Exporting Items](../resources/backend/items/export-6.png)
 
 **5.**  Click the blue *Export* button in the dialog box to continue with the export.
 

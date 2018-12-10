@@ -18,7 +18,7 @@ To enter your text, click inside the text field.
 
 *Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
-<!-- Missing Screenshot: Text Entry Interaction -->
+![Text Entry Interaction](../resources/backend/items/authoring-89.png)
 
 **2.** Once you have entered the text, drag the *Text Entry* icon from the Inline Interactions library to the space next to where the test-taker will be expected to *fill in the blank*.
 

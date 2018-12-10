@@ -15,7 +15,8 @@ authors:
 
 After you have created a new [Item](../appendix/glossary.md#item), drag the *Block* interaction (represented by a letter *A* icon) from the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
-<!-- Missing Screenshot: Text Block Interaction -->
+
+![Text Block](../resources/backend/items/authoring-86.png)
 
 This creates a field (containing a sample text) in which a text may be entered from a favorite source (you can copy and paste text from any text editor, or website, for instance), or typed in.
 

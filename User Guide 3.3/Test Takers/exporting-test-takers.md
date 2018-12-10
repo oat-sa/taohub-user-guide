@@ -24,7 +24,7 @@ This selects the test-takers which are to be exported.
 
 The folder or test-taker metadata file which is to be exported should be formatted as a Resource Description Framework (RDF) file. 
 
-<!-- Missing Screenshot: Exporting Test-takers -->
+![Exporting Test-takers](../resources/backend/test-takers/export-3.png)
 
 **5.**  Click the blue *Export* button in the dialog box to continue with the export.
 

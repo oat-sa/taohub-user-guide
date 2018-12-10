@@ -47,7 +47,7 @@ Your new item will consist of *interactions*. Authoring an item means adding int
 
 For each type, the procedure to create interactions will vary. See detailed descriptions of these procedures in each Interaction section.
 
-<!-- Missing Screenshot: Populating your Item with Interactions -->
+![Populating your Item with Interactions](../resources/backend/authoring-25.png)
 
 **4.** Use your items in a test.
 

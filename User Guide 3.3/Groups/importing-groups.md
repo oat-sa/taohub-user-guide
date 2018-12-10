@@ -18,7 +18,7 @@ This will take you to the [Group Library](../appendix/glossary.md#group-library)
 
 This opens a dialog box which asks you to select the format of the incoming group metadata. The supported formats are RDF (Resource Description Framework) or CSV (Comma-Separated Values).
 
-<!-- Missing Screenshot: Importing Groups of Test-takers -->
+![Importing Groups of Test-takers](../resources/backend/groups/import-3.png)
 
 **4.** Click the blue *Browse* button to find the file intended for import (alternatively, the file may be dragged and dropped into the box below the button).
 

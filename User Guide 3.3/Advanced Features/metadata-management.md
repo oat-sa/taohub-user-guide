@@ -22,7 +22,7 @@ authors:
 
 This brings up the properties window for that particular class (folder). Properties define the metadata which apply to a given Item. The properties window for the class you are reviewing allows you to change the label of the class and shows the properties which comprise the metadata set for all the items in that class. For items, the first four properties listed cannot be edited: *Item Content*, *Original Filename*, *Item Model*, and *Lock*. Other properties in the list of class metadata can be both edited and, if necessary, deleted.
 
-<!-- Missing Screenshot: Defining Metadata (Item properties) -->
+![Defining Metadata](../resources/backend/items/manage-schema.png)
 
 **2.**  To add a new property in the class properties window, click on the blue *Add Property* button below the property list.
 

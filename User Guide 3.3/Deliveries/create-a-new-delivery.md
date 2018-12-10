@@ -18,7 +18,8 @@ This will take you to the Deliveries page, and will show the last delivery which
 
 This brings up a dialog box entitled *Create a New Delivery*, which asks for a test selection. From the pull-down menu, select the test that is to be sent to test-takers in this delivery. Once selected, click *Publish*. 
 
-<!-- Missing Screenshot: Creating a Delivery -->
+![New Delivery](../resources/backend/deliveries/new-delivery.png)
+
 
 A properties panel will come up.
 

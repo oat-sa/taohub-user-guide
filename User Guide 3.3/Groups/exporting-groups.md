@@ -24,7 +24,7 @@ This selects the group which is to be exported.
 
 In the dialog box, confirm that the folder or group metadata file highlighted is the one that should be exported as a Resource Description Framework (RDF) file.
 
-<!-- Missing Screenshot: Exporting Groups of Test-takers -->
+![Exporting Groups of Test-takers](../resources/backend/groups/export-2.png)
 
 **5.**  Click the blue *Export* button in the dialog box to continue with the export.
 

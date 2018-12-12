@@ -24,7 +24,7 @@ You can now navigate your computer system to select the still image you wish to 
 
 *Note: .png files must be converted to an appropriate format before they can be displayed.*
 
-<!-- Missing Screenshot: Adding Media to your Item -->
+![Adding Media to your Item](../resources/backend/items/authoring-129.png)
 
 **4.** Click the green *Select* button.
 

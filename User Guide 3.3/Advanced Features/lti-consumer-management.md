@@ -4,7 +4,7 @@ authors:
     - "Catherine Pease"
 --> 
 
-#Executing TAO Deliveries using LTI Applications
+# Executing TAO Deliveries using LTI Applications
 
 >Through the [Learning Tool Interaction (LTI) standard set forth by IMS Global Learning Consortium](http://www.imsglobal.org/activity/learning-tools-interoperability), LTI users of applications such Moodle can make use of TAO-designed [Tests](../appendix/glossary.md#test) and deliver them to students through an LTI platform, such as the Moodle platform. 
 
@@ -13,7 +13,7 @@ authors:
 
 This chapter demonstrates how an interface between TAO and Moodle can be set up and executed. This allows [Test Authors](../appendix/glossary.md#test-author) to take advantage of the ease of using TAO, whilst also allowing test administrators ([Tenant Administrators](../appendix/glossary.md#tenant-administrator)) to deliver tests through the popular Moodle platform with which they are familiar. As an administrator, you must have Administrator privileges for both TAO and Moodle. As a teacher, you must have Teacher privileges in Moodle and Test [Delivery](../appendix/glossary.md#delivery) privileges in TAO, and TAO-Moodle interconnectivity must be set up prior to executing the delivery.
 
-<!-- Missing Screenshot: LTI Applications -->
+![LTI Applications](../resources/backend/l-t-i-consumers/add-consumer.png)
 
 **Setting up a TAO-Moodle delivery as an LTI Administrator**
 

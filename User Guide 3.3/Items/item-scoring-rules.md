@@ -18,7 +18,7 @@ After you have created your interaction, go to the *Response* window and follow 
 
 *Map Response:* With this processing option, it is possible to give partial credit for a response. This is useful for questions where the answer is given in multiple parts. With the *map response* option, some parts of the answer can also be weighted more heavily than other parts if you consider them to be of higher importance.
 
-<!-- Missing Screenshot: Item Scoring Rules -->
+![Item Scoring Rules](../resources/backend/items/authoring-168.png)
 
 **2.** Select the *Response Processing* type which is appropriate for the question.
 

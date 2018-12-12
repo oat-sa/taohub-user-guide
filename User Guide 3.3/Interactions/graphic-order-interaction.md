@@ -37,11 +37,11 @@ This should cover such important information as what the background graphic repr
 To insert a rectangle, click on one corner and drag it across the intended area the Hotspot is supposed to cover. To insert a circle or ellipse, select its center and drag outward or inward until the Hotspot is the right size. To insert a polygon, begin at one corner, then click on each corner in succession until the Hotspot is complete. You can make all the shapes bigger or smaller (or in the case of polygons change the shape), but if necessary, click on the problem Hotspot, then click the trash can to delete it, and then try again.
 
 <aside class="optional-extras">
-##Optional Extras when Creating a Task
+## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#int-prop-panel) on the right.
 
-###Specifying correct number of answers 
+## #Specifying correct number of answers 
 
 You can specify the minimum and maximum number of Hotspot choices that the test-taker will be asked to provide (before he can continue to the next question) in the *Allowed Choices* boxes. By default, these are empty, which means the test-taker can include as many (or as few) of the answer options as he likes. (Setting the minimum to 0 allows the test-taker to skip the question.)
 </aside>
@@ -51,11 +51,11 @@ You can specify the minimum and maximum number of Hotspot choices that the test-
 This will bring up the same screen, but you can now numerically categorize the selected Hotspots. To do this, click on the number, then the Hotspot. Repeat until all numbers are assigned to Hotspots.
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following option is available in the [Response Properties Panel](../appendix/glossary.md#resp-prop-panel) on the right.
 
-###Inserting modal feedback
+## #Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md). 
 

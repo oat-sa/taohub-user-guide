@@ -41,19 +41,19 @@ Repeat as many times as is needed to adequately assess the test-taker's knowledg
 Placing additional words into the match word field may prevent test-takers from successfully using "process of elimination" as a strategy.
 
 <aside class="optional-extras">
-##Optional Extras when Creating a Task
+## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-###Shuffling the choices 
+## #Shuffling the choices 
 
 Check the *Shuffle choices* box. The sequence of the match word options will then be randomized. This is recommended if the order of presentation of the match words is not important.
 
-###Limiting the use of a choice
+## #Limiting the use of a choice
 
 If you want to limit the number of times a particular element is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Allowed number of uses*. Setting this to a maximum of 1, for example, will mean that the test-taker can only use that element in one match. 
 
-###Obliging the test-taker to give an answer
+## #Obliging the test-taker to give an answer
 
 If you want to prevent test-takers from continuing to the next question without providing an answer, check the *required* box for that gap match. This box appears after you have inserted the gaps in the text. 
 
@@ -64,11 +64,11 @@ If you want to prevent test-takers from continuing to the next question without 
 To define the correct answers, drag and drop the correct match words from the match word field onto the corresponding gaps in your text. 
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-###Modifying the scoring method
+## #Modifying the scoring method
 
 By default, a test-taker receives one point per completely correct interaction, so in the case of Gap Match interactions, the test-taker has to select all the correct matches in order for the answer to be considered correct.
 
@@ -81,7 +81,7 @@ First, assign a weight for each correct match in the *Pair Scoring* box below th
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the associated properties.
 
 
-###Inserting modal feedback
+## #Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 

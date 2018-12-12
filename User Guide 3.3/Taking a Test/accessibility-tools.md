@@ -32,7 +32,7 @@ Answer Masking allows the test-taker to mask and unmask answers in choice intera
 Area Masking allows the test-taker to mask parts of the item with a movable mask.
 ![Area Masking](../resources/delivery/features/test-taker-tools/area-masking.png)
 
-##Flag
+## Flag
 Flagging an answer to a particular question allows the test-taker to review the answer at a later stage. Flagged items are marked in the review panel on the left. The test-taker can return to flagged items by clicking on the flag in the review panel.
 <!-- Missing Screenshot: Flagging an item for Review -->
 

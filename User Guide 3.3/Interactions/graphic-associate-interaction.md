@@ -38,15 +38,15 @@ After the Hotspots are inserted, set the number of Hotspot matches that the test
 
 
 <aside class="optional-extras">
-##Optional Extras when Creating a Task
+## Optional Extras when Creating a Task
 
 The following options are available in the Interaction Properties panel on the right.
 
-###Limiting the use of a choice
+## #Limiting the use of a choice
 
 You can limit the number of times a particular element is used by clicking on it. When it appears in the *Identifier* box in the right-hand panel, set the *Allowed number of matches*. 
 
-###Specifying the correct number of associations
+## #Specifying the correct number of associations
 
 You can specify the minimum and maximum number of associations that the test-taker will be asked to provide (before he can continue to the next question) in the *Number of Associations* boxes in the Interaction Properties panel. By default, these are empty, which means the test-taker can include as many (or as few) associations as he likes. (Setting the minimum to 0 allows the test-taker to skip the question.)
 
@@ -59,11 +59,11 @@ By default, a test-taker receives one point per completely correct interaction, 
 See Optional Extras below for other scoring methods.
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-###Modifying the scoring method
+## #Modifying the scoring method
 
 You may want to modify the scoring method if, for example, you want the test-taker to receive partial credit for selecting some, but not all, of the correct Hotspot pairs. Or you may wish to give a higher weight to some of the Hotspot pairs than to others.
 
@@ -73,7 +73,7 @@ First, assign a weight for each Hotspot pair. In the Pair Scoring panel below th
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the other associated properties.
 
-###Inserting modal feedback
+## #Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 </aside>

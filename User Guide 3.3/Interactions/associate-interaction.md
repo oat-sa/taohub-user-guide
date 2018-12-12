@@ -33,19 +33,19 @@ You will need more than two, so select *Add choice* as many times as is needed t
 *Note: We recommend adding the appropriate matches first (e.g. the correct countries and capitals) in separate tiles first, and then adding the incorrect (unmatched) options.* 
 
 <aside class="optional-extras">
-##Optional Extras when Creating a Task
+## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-###Shuffling the choices
+## #Shuffling the choices
 
 Check the *Shuffle choices* box. This will help disguise the matched pairs you have entered for the question. If this is not clicked, how you've entered the tiles will be how they will appear to the test-taker.
 
-###Limiting the use of a choice
+## #Limiting the use of a choice
 
 If you want to limit the number of times a particular element is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Allowed number of uses*. Setting this to a maximum of 1, for example, will mean that the test-taker can only use that element in one association. 
 
-###Specifying the correct number of associations
+## #Specifying the correct number of associations
 
 You can specify the minimum and maximum number of associations the test-taker will be asked to provide (before he can continue to the next question) in the *Number of associations* boxes in the Interaction properties panel. By default these are empty, which means the test-taker can include as many (or as few) associations as he likes. Setting the minimum to 0 allows the test-taker to skip the question.
 
@@ -60,11 +60,11 @@ This will provide all the answer tiles created in the previous step, and a serie
 This will provide the first set of correct responses. Continue with this procedure until all association pairs have been linked in the association boxes, leaving the incorrect associations unmatched. 
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right:
 
-###Modifying the scoring method
+## #Modifying the scoring method
 
 
 By default, a test-taker receives one point per completely correct interaction, so in the case of Associate interactions, the test-taker has to select all the correct associations in order for the answer to be considered correct.
@@ -77,7 +77,7 @@ First, assign a weight for each association in the boxes next to each one.
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the associated properties.
 
-###Inserting modal feedback 
+## #Inserting modal feedback 
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, [see the *Modal Feedback* section](../items/modal-feedback.md).
 

@@ -27,19 +27,19 @@ This should describe the match task expected of the test-taker.
 Using the *Add new row* and *Add new column* buttons, add as many rows and columns as will be needed to cover all the matches. If desired, add some unmatched elements in either the rows or the columns to provide an additional challenge for the Test-taker.
 
 <aside class="optional-extras">
-##Optional Extras when Creating a Task
+## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-###Shuffling the choices
+## #Shuffling the choices
 
 Check the *Shuffle choices* box. The sequence of the row and column options will then be randomized. This is recommended if the order of presentation of either set of elements is not important.
 
-###Limiting the use of a choice
+## #Limiting the use of a choice
 
 If you want to limit the number of times a particular row or column is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Allowed number of uses*. Setting this to a maximum of 1, for example, will mean that the Test-taker can only use that element in one associated match.
 
-###Specifying the correct number of associations
+## #Specifying the correct number of associations
 
 You can specify the minimum and maximum number of associations the test-taker will be asked to provide (before he can continue to the next question) in the *Number of associations* boxes in the Interaction properties panel. By default these are empty, which means the test-taker can include as many (or as few) matches, or  associations, as he likes. Setting the minimum to 0 allows the test-taker to skip the question.
 </aside>
@@ -47,11 +47,11 @@ You can specify the minimum and maximum number of associations the test-taker wi
 **4.** Click *Response* on the right of blue interaction header to define the correct answer(s).
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-###Modifying the scoring method
+## #Modifying the scoring method
 
 By default, a test-taker receives one point per completely correct interaction, so in the case of Match interactions, the test-taker has to select all the correct matches in order for the answer to be considered correct.
 
@@ -63,7 +63,7 @@ First, assign a weight for each match in the boxes next to each one.
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the associated properties.
 
-###Inserting modal feedback
+## #Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md). 
 </aside>

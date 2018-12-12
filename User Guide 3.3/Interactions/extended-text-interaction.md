@@ -25,19 +25,19 @@ The test-taker will be expected to remember the answer exactly, without any vari
 *Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
 <aside class="optional-extras">
-##Optional Extras when Creating a Task
+## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-###Defining a certain format
+## #Defining a certain format
 
 Plain text format is the default which is expected as input from the test-taker. If desired, you can specify the type of text format as either *[preformatted text](../appendix/glossary.md#preformatted-text)* or *XHTML* in the *Format* box. 
 
-###Placing constraints on the answer
+## #Placing constraints on the answer
 
 You can limit the length of text the test-taker enters in the answer field by setting a maximum length or word count. Alternatively, you can specify a certain [pattern](../appendix/glossary.md#pattern) in *Constraints*.
  
-###Giving hints about the text length
+## #Giving hints about the text length
 
 You can provide hints for the test-taker about the length of the text by filling in the *Recommendations* fields.
 This provides the test-taker with an expected length, in either characters or number of lines. (This can also be done after you have entered the answered expected in *Step 4*.)
@@ -48,11 +48,11 @@ This provides the test-taker with an expected length, in either characters or nu
 Enter the expected answer in the answer field. Again, the test-taker is expected to answer exactly. Any variation(s) will result in the answer being marked as incorrect.
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-###Inserting modal feedback
+## #Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 

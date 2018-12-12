@@ -64,24 +64,24 @@ Two settings can be chosen for your new item in the [Item Properties](../appendi
 *Note: Items are 'locked' when you (or another user) are working on them.*
 
 <aside class="optional-extras">
-##Optional Extras
+## Optional Extras
 
 
-###Duplicating an existing item
+## #Duplicating an existing item
 
 You can make a copy of an already existing item by clicking on the *Duplicate* icon in the button bank under the library. A duplicate will then be created in the folder of the item you have duplicated, with the same name but with "bis" on the end.
 
-###Copying an existing item
+## #Copying an existing item
 
 You can make a copy of an already existing item by clicking on the *Copy to* icon in the button bank under the library. 
 
 A dialog box will appear on the canvas. Select a destination folder, and click on *Copy*. A copy of the item will then be created in the folder you have selected, with the same name but with "bis" on the end.
 
-###Translating your item
+## #Translating your item
 
 You can translate an existing item by clicking on the *Translate* icon in the action bar. This will bring up a dialog box in which select the translation information. Select a language from the drop-down menu, and then label your translated item in the *Translate Label* box.
 
-###Granting user access
+## #Granting user access
 
 As an administrator, you can permit a user certain access rights to specific folders (classes), items or tests. To do this, select a folder and then click on the *Access Control* icon in the button bank under the library.  
 

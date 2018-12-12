@@ -42,7 +42,7 @@ To insert a rectangle, click on one corner and drag it across the intended area 
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-## #Specifying correct number of answers 
+### Specifying correct number of answers 
 
 Specify the minimum and maximum number of Hotspot choices that the test-taker will be asked to provide (before he can continue to the next question) in the *Allowed Choices* boxes. By default, these are empty, which means the test-taker can include as many (or as few) of the answer options as he likes. (Setting the minimum to 0 allows the test-taker to skip the question.)
 </aside>
@@ -60,7 +60,7 @@ See Optional Extras below for other scoring methods.
 
 The following option is available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-## #Modifying the scoring method
+### Modifying the scoring method
 
 You may want to modify the scoring method if, for example, you want the test-taker to receive partial credit for selecting some, but not all, of the correct Hotspots. Or you may wish to give a higher weight to some of the Hotspots than to others. 
 
@@ -70,7 +70,7 @@ First, assign a weight for each Hotspot in the boxes next to each Hotspot elemen
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the other associated properties. 
 
-## #Inserting modal feedback
+### Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 </aside>

@@ -38,13 +38,13 @@ Repeat the above for each place in the text where you would like to the test-tak
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-## #Shuffling the choices
+### Shuffling the choices
 
 Check the *Shuffle choices* box. This will randomize the order in which answer choices appear for each test-taker. In this manner, guessing or copying strategies is rendered useless.
 
 *Note: Remember that if you use this option, avoid choosing an ordinal list style, e.g. A,B,C or 1,2,3.*
 
-## #Obliging the test-taker to give an answer
+### Obliging the test-taker to give an answer
 
 If you want to prevent test-takers from continuing to the next question without providing an answer, check the *required* box.
 
@@ -59,7 +59,7 @@ This produces the same selection of options that the Test-taker will see. Simply
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-## #Modifying the scoring method
+### Modifying the scoring method
 
 By default, a test-taker receives one point per completely correct interaction, so in the case of Inline Choice interactions, the test-taker has to select all the correct choices in order for the answer to be considered correct.
 
@@ -71,11 +71,11 @@ First, assign a weight for each choice in the boxes next to each one.
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the other associated properties.
 
-## #Inserting modal feedback 
+### Inserting modal feedback 
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 
-## #Limiting the duration of the test
+### Limiting the duration of the test
 
 Click anywhere outside of the Text Space. This will give you the option of setting the interaction as *Time dependent* (to be completed within a certain interval), by checking the check box. This option is covered in greater detail in [Test Settings](../tests/tests-settings.md).
 

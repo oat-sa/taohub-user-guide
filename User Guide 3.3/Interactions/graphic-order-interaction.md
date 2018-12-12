@@ -41,7 +41,7 @@ To insert a rectangle, click on one corner and drag it across the intended area 
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#int-prop-panel) on the right.
 
-## #Specifying correct number of answers 
+### Specifying correct number of answers 
 
 You can specify the minimum and maximum number of Hotspot choices that the test-taker will be asked to provide (before he can continue to the next question) in the *Allowed Choices* boxes. By default, these are empty, which means the test-taker can include as many (or as few) of the answer options as he likes. (Setting the minimum to 0 allows the test-taker to skip the question.)
 </aside>
@@ -55,7 +55,7 @@ This will bring up the same screen, but you can now numerically categorize the s
 
 The following option is available in the [Response Properties Panel](../appendix/glossary.md#resp-prop-panel) on the right.
 
-## #Inserting modal feedback
+### Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md). 
 

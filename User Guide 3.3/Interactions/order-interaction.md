@@ -33,19 +33,19 @@ There are three default options, but you can add more by clicking the blue *Add 
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-## #Shuffling the choices
+### Shuffling the choices
 
 Check the *Shuffle choices* box. This means that the order in which the answer options are presented will be randomized (recommended if the order of presentation is not important).
 
-## #Specifying correct number of answers
+### Specifying correct number of answers
 
 Specify the minimum and maximum number of answer options that the test-taker will be asked to provide (before he can continue to the next question) in the *Allowed Choices* boxes. By default these are empty, which means the test-taker can include as many (or as few) of the answer options as he likes. (Setting the minimum to 0 allows the test-taker to skip the question.)
 
-## #Presenting the answer options in list format
+### Presenting the answer options in list format
 
 The answer options can be presented as a list. To choose a [List Style](../appendix/glossary.md#list-style), select one of the options in *List style*, located below the *Allowed Choices* in the Interaction Properties panel.
 
-## #Present the answer options horizontally
+### Present the answer options horizontally
 
 Below the *List style* option is the *Orientation* option. Answer options can be presented either vertically or horizontally using this option. The default is vertical.
 </aside>
@@ -59,7 +59,7 @@ Then click on each option in the left-hand box in the desired order. The options
 
 The following option is available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-## #Inserting modal feedback
+### Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 </aside>

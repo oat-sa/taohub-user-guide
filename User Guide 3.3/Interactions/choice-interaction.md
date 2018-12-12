@@ -38,17 +38,17 @@ To set up a [radio button](../appendix/glossary.md#radio-button) test interactio
 
 The following options are available in the Interaction Properties panel on the right.
 
-## #Presenting the answer choices in list format
+### Presenting the answer choices in list format
 
 To present the choices as a list, select one of the options in *[List style](../appendix/glossary.md#list-style)*, which is located below the *Allowed Choices*.
 
-## #Shuffling the choices 
+### Shuffling the choices 
 
 Check the *Shuffle choices* box. This will randomize the order in which answer choices appear for each test-taker. In this manner, guessing or copying strategies is rendered useless. Where the order of items is unimportant, this is recommended. 
 
 *Note: Remember that if you use this option, avoid choosing an ordinal list style, eg. A,B,C or 1,2,3.*
 
-## #Presenting the answer options horizontally
+### Presenting the answer options horizontally
 
 Answer choices can be presented either vertically or horizontally. This can be defined in the *Orientation* option. The default is vertical.
 </aside>
@@ -66,7 +66,7 @@ You can select more than one answer.
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-## #Modifying the scoring method
+### Modifying the scoring method
 
 By default, a test-taker receives one point per completely correct interaction, so in the case of Choice interactions, the test-taker has to select all the correct choices in order for the answer to be considered correct.
 
@@ -78,7 +78,7 @@ First, assign a weight to each choice in each of the corresponding Interaction b
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the associated properties.
 
-## #Inserting modal feedback
+### Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, [see the *Modal Feedback* section](../items/modal-feedback.md).
 </aside>

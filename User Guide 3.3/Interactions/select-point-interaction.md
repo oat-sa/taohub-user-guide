@@ -35,7 +35,7 @@ This should cover such important information as what the background graphic repr
 
 The following option is available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-## #Specifying correct number of answers 
+### Specifying correct number of answers 
 
 You can specify the number minimum and maximum of points that the test-taker will be asked to select (before he can continue to the next question) in the *Allowed Choices* boxes. By default, these are empty, which means the test-taker can include as many (or as few) of the answer options as he likes. (Setting the minimum to 0 allows the Test-taker to skip the question.)
 </aside> 
@@ -65,11 +65,11 @@ By clicking on each Hotspot, a pop-up window appears next to it, which allows yo
 
 The following options are available in the Response Properties panel on the right.
 
-## #Inserting modal feedback
+### Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 
-## #Limiting the duration of the test
+### Limiting the duration of the test
 
 Click anywhere outside of the Text Space. This will give you the option of setting the Interaction as *Time dependent* (to be completed within a certain interval), by checking the check box. This option is covered in greater detail in [Test Settings](../tests/tests-settings.md).
 

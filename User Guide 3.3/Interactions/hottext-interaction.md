@@ -35,7 +35,7 @@ This will create a Hottext element within the text. Typically, there will be one
 
 The following option is available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-## #Specifying the correct number of answers 
+### Specifying the correct number of answers 
 
 You can specify the minimum and maximum number of Hottext choices the Test-taker will be asked to provide (before he can continue to the next question) in the Allowed Choices boxes. By default these are empty, which means the test-taker can include as many (or as few) answer options as he likes. Setting the minimum to 0 allows the test-taker to skip the question.
 </aside> 
@@ -49,7 +49,7 @@ This will produce the same window as before, but you now have the possibility of
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-## #Modifying the scoring method
+### Modifying the scoring method
 
 By default, a test-taker receives one point per completely correct interaction, so in the case of Hottext interactions, the test-taker has to select all the correct Hottext elements in order for the answer to be considered correct.
 
@@ -61,7 +61,7 @@ First, assign a weight for each Hottext element in the boxes next to each one.
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the associated properties.
 
-## #Inserting modal feedback 
+### Inserting modal feedback 
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 </aside>

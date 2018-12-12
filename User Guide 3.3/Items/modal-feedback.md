@@ -12,7 +12,7 @@ After you have created your [Interaction](../appendix/glossary.md#interaction), 
 
 **1.** Many of the interaction types have the option of giving *Modal Feedback*. If this is available, click on the *Add a Modal Feedback* button in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-<!-- Missing Screenshot: Adding Modal Feedback to your Interaction -->
+![Adding Modal Feedback to your Interaction](../resources/backend/items/authoring/feedback.png)
 
 This opens a modal feedback panel in which you can insert the feedback and specify when it should be given.
 

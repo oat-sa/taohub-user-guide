@@ -17,6 +17,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 **1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Hotspot* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 <!-- Missing Screenshot: Hotspot Interaction -->
+![Hotspot Interaction](../resources/backend/items/authoring/done-3.png)
 
 **2.** Choose the desired background graphic.
 

@@ -6,11 +6,11 @@ authors:
 
 # Select Point Interaction
 
->The Select Point Interaction gives Test-Takers the opportunity to demonstrate their knowledge by selecting an invisibly-defined portion of an image (region on a map, person in a line-up, etc.).
+>The Select Point Interaction gives Test-takers the opportunity to demonstrate their knowledge by selecting an invisibly-defined portion of an image (region on a map, person in a line-up, etc.).
 
 >This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library. 
 
-[![Select Point Interaction]()](https://www.youtube.com/watch?v=5OYeuVPxK_o)
+[![Select Point Interaction](https://img.youtube.com/vi/5OYeuVPxK_o/hqdefault.jpg)](https://youtube.com/watch?v=5OYeuVPxK_o&rel=0 "Select Point Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Select Point Interaction:
 

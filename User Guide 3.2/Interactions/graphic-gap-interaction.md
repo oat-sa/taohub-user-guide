@@ -6,11 +6,11 @@ authors:
 
 # Graphic Gap Interaction
 
->The Graphic Gap Interaction gives Test-Takers the opportunity to demonstrate their knowledge about geographical regions, identify facts about portions of images (people in a group photo, etc.), or show other similar capabilities in picture matching.
+>The Graphic Gap Interaction gives Test-takers the opportunity to demonstrate their knowledge about geographical regions, identify facts about portions of images (people in a group photo, etc.), or show other similar capabilities in picture matching.
 
 >This interaction is one of a series of *[Graphic](../appendix/glossary.md#graphic)* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library.
 
-[![Graphic Gap Interaction]()](https://www.youtube.com/watch?v=gF0hXkP03D4)
+[![Graphic Gap Interaction](https://img.youtube.com/vi/gF0hXkP03D4/hqdefault.jpg)](https://youtube.com/watch?v=gF0hXkP03D4&rel=0 "Graphic Gap Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Gap Interaction:
 
@@ -36,6 +36,8 @@ This should cover such important information as what the graphic represents, and
 To insert a rectangle, click on one corner and drag it across the intended area the Hotspot is supposed to cover. To insert a circle or ellipse, select its center and drag outward or inward until the Hotspot is the right size. To insert a polygon, begin at one corner, then click on each corner in succession until the Hotspot is complete. You can make all the shapes bigger or smaller (or in the case of polygons change the shape), but if necessary, click on the problem Hotspot, then click the trash can to delete it, and then try again.
 
 After inserting the Hotspots, enter the answer graphics will in the gap match field below the background graphic.
+
+*Note: Drag-and-drop is enabled for this type of interaction.*
 
 **5.** Click the plus sign (+) within the gap match field as many times as is needed to create the correct number of gap match slots.
 

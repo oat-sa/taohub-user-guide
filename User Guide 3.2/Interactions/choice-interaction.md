@@ -8,13 +8,7 @@ authors:
 
 >Choice Interaction, most frequently referred to as the multiple choice question (MCQ), presents a test type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where a large quantity of test questions need to be covered in a short exam period. Where time is of the essence, this type of testing interaction is particularly useful.
 
-
-[![Choice Interaction]()](http://www.youtube.com/watch?v=8upgdOSTKK0)
-
-
-<div class="hidden-video">[![Extended Text Interaction][media_extended-text-interaction]](https://www.youtube.com/watch?v=jjbBWuvsK3s)</div>
-<div class="embed-container"><iframe frameborder="0" src="https://www.youtube.com/embed/jjbBWuvsK3s?rel=0" style="border:none" allowfullscreen="true"></iframe>
-</div>
+[![How to Create a Multiple-Choice Item Using TAO](https://img.youtube.com/vi/8upgdOSTKK0/hqdefault.jpg)](https://youtube.com/watch?v=8upgdOSTKK0&rel=0 "How to Create a Multiple-Choice Item Using TAO")
 
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Choice Interaction: 

@@ -32,6 +32,7 @@ Above the names are three buttons which you can toggle between, depending on the
 
 A *filter* control sits between these buttons and the table, and can be used to display the results based on the order in which the settings above (i.e. the variables relating to test-takers' names, scores and responses) were received. For example, you may wish to display all the variables on your screen, and then select a subset of the data to be exported using the filter.
 
+<!-- Missing Screenshot: Exporting Results -->
 
 **4.** Click the *Export CSV File* button below the Results Table.
 

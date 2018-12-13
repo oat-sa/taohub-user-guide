@@ -1,73 +1,79 @@
-meta: []
+---
 toc:
-    'Introduction':
-        - 'What is TAO'
-        - 'Downloading TAO'
-        - 'Installing TAO'
-        - 'Take a tour'
-    'Items':
-        - 'What is an item?'
-        - 'Items: An Overview'
-        - 'Creating a new item'
-        - 'Importing items'
-        - 'Exporting items'
-        - 'Adding media'
-        - 'Item scoring rules'
-        - 'Modal feedback'
-        - 'Preview'
-        - 'Style Editor'
-        - 'Media Manager'
-    'Interactions':
-        - 'What is an interaction?'
-        - 'Interactions: An Overview'
-        - 'Choice Interaction'
-        - 'Order Interaction'
-        - 'Associate Interaction'
-        - 'Match Interaction'
-        - 'Hottext Interaction'
-        - 'Gap Match Interaction'
-        - 'Slider Interaction'
-        - 'Extended Text Interaction'
-        - 'File Upload Interaction'
-        - 'Media Interaction'
-        - 'Inline Choice Interaction'
-        - 'Text Entry Interaction'
-        - 'Hotspot Interaction'
-        - 'Graphic Order Interaction'
-        - 'Graphic Associate Interaction'
-        - 'Graphic Gap Interaction'
-        - 'Select Point Interaction'
-        - 'Text Block'
-        - 'End Attempt'
-    'Tests':
-        - 'What is a test?'
-        - 'Tests: An Overview'
-        - 'Creating a new test'
-        - 'Importing a test'
-        - 'Exporting tests'
-        - 'Tests settings'
-    'Test-takers':
-        - 'Test-takers: An Overview'
-        - 'Creating test-taker'
-        - 'Importing test-takers'
-        - 'Exporting test-takers'
-    'Groups':
-        - 'Groups: An Overview'
-        - 'Creating a new group'
-        - 'Importing groups'
-        - 'Exporting groups'
-    'Deliveries':
-        - 'What is a delivery?'
-        - 'Deliveries: An Overview'
-        - 'Create a new delivery'
-    'Results':
-        - 'Results: An Overview'
-        - 'Viewing Results'
-        - 'Exporting Results'
-    'Advanced features':
-        - 'Metadata'
-        - 'User Management'
-        - 'Add an extension'
-        - 'LTI Applications'
-    'Appendix':
-        - 'Glossary'
+  Introduction:
+    - What is TAO?
+    - Downloading TAO
+    - Installing TAO
+    - Take a tour
+  Items:
+    - What is an item?
+    - "Items: An Overview"
+    - Creating a new item
+    - Importing items
+    - Exporting items
+    - Adding media
+    - Item scoring rules
+    - Modal feedback
+    - Preview
+    - Style Editor
+    - Math Expressions
+    - Media Manager
+  Interactions:
+    - What is an interaction?
+    - "Interactions: An Overview"
+    - Choice Interaction
+    - Order Interaction
+    - Associate Interaction
+    - Match Interaction
+    - Hottext Interaction
+    - Gap Match Interaction
+    - Slider Interaction
+    - Extended Text Interaction
+    - File Upload Interaction
+    - Media Interaction
+    - Inline Choice Interaction
+    - Text Entry Interaction
+    - Hotspot Interaction
+    - Graphic Order Interaction
+    - Graphic Associate Interaction
+    - Graphic Gap Interaction
+    - Select Point Interaction
+    - Portable Custom Interactions
+    - Text Block
+    - End Attempt
+  Tests:
+    - What is a test?
+    - "Tests: An Overview"
+    - Creating a new test
+    - Importing a test
+    - Exporting tests
+    - Tests settings
+    - Test-Taker Tools
+    - Test Scoring and Outcome Declarations
+  Test-takers:
+    - "Test-takers: An Overview"
+    - Creating test-taker
+    - Importing test-takers
+    - Exporting test-takers
+  Groups:
+    - "Groups: An Overview"
+    - Creating a new group
+    - Importing groups
+    - Exporting groups
+  Deliveries:
+    - What is a delivery?
+    - "Deliveries: An Overview"
+    - Create a new delivery
+    - Running a delivery
+  Results:
+    - "Results: An Overview"
+    - Viewing Results
+    - Exporting Results
+  Advanced features:
+    - Metadata
+    - User Management
+    - Add an extension
+    - Proctoring
+    - LTI Applications
+  Appendix:
+    - Glossary

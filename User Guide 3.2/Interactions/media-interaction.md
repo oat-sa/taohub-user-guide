@@ -6,9 +6,9 @@ authors:
 
 # Media Interaction
 
->The Media Interaction allows the Test-Taker to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction.
+>The Media Interaction allows the Test-taker to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction.
 
-[![Media Interaction]()](https://www.youtube.com/watch?v=kyIOzLQJVPA)
+[![Media Interaction](https://img.youtube.com/vi/kyIOzLQJVPA/hqdefault.jpg)](https://youtube.com/watch?v=kyIOzLQJVPA&rel=0 "Media Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Media Interaction:
 

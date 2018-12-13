@@ -6,13 +6,13 @@ authors:
 
 # Inline Choice Interaction
 
->Inline Choice allows the Test-Taker to complete a "Fill  in the Blank" question with one choice taken from a selected list of answers. This is usually combined with other interactions (note that there is no question line for either *block* interaction).
+>Inline Choice allows the Test-taker to complete a "Fill  in the Blank" question with one choice taken from a selected list of answers. This is usually combined with other interactions (note that there is no question line for either *block* interaction).
 
 >This interaction is one of two *Block*-related interactions, the other being *Text Entry* (covered in its own section).
 
 For a quick glimpse of how to create an Inline Choice Interaction in TAO, please watch the following video.
 
-[![Inline Interactions]()](http://www.youtube.com/watch?v=qdpX6MGrAAM)
+[![How to Create an Inline Choice Interaction Using TAO](https://img.youtube.com/vi/qdpX6MGrAAM/hqdefault.jpg)](https://youtube.com/watch?v=qdpX6MGrAAM&rel=0 "How to Create an Inline Choice Interaction Using TAO")
 
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Inline Choice Interaction:

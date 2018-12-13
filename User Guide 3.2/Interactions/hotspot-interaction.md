@@ -6,7 +6,7 @@ authors:
 
 # Hotspot Interaction
 
->The Hotspot Interaction gives Test-Takers the opportunity to demonstrate their knowledge by selecting portions of an image (regions on a map, people in a line-up, etc.).
+>The Hotspot Interaction gives Test-takers the opportunity to demonstrate their knowledge by selecting portions of an image (regions on a map, people in a line-up, etc.).
 
 >This interaction is one of a series of *Graphic* interactions (the others are covered in their own sections). All graphic interactions can be found in the Graphic Interactions menu in the Library. 
 
@@ -15,6 +15,8 @@ authors:
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Hotspot Interaction:
 
 **1.** From the [Graphic Interactions library](../appendix/glossary.md#graphic-interactions-library) near the bottom of the *Interactions library* on the left, drag the *Hotspot* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+
+<!-- Missing Screenshot: Hotspot Interaction -->
 
 **2.** Choose the desired background graphic.
 

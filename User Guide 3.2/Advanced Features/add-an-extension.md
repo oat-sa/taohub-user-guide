@@ -15,6 +15,8 @@ You can find the Extensions manager by hovering over the *Settings* icon, which 
 
 The *Extensions manager* is one of several Settings options (the others are: File Sources, Result Server Manager, and LTI Consumers). When it is open, the screen shows a Settings canvas with the *Extensions manager* as the active tab in the row of tabs above that canvas. If a different Settings screen is shown instead, click on the tab that reads *Extensions Manager* to get to that particular canvas.
 
+![Extensions Manager](../resources/backend/settings/extension-manager.png)
+
 **2.** Review the *Installed Extensions* list and the *Available Extensions* list.
 
 *Installed Extensions* are those extensions which are active and ready for use. *Available Extensions* are extensions on your server which are currently inactive - i.e. not installed.

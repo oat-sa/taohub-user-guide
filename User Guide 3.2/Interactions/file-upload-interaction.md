@@ -6,9 +6,9 @@ authors:
 
 # File Upload Interaction
 
->The File Upload Interaction provides an interface in which Test-Takers can upload a pre-written essay, completed artwork, or other form of submission. 
+>The File Upload Interaction provides an interface in which Test-takers can upload a pre-written essay, completed artwork, or other form of submission. Usually, these items are scored manually by a human scorer.
 
-[![File Upload Interaction]()](https://www.youtube.com/watch?v=xPIdLTR5mJ8)
+[![File Upload Interaction](https://img.youtube.com/vi/xPIdLTR5mJ8/hqdefault.jpg)](https://youtube.com/watch?v=xPIdLTR5mJ8&rel=0 "File Upload Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new File Upload Interaction.
 

@@ -18,7 +18,9 @@ A pop-up window will appear with which you can save your Interaction (the window
 
 **2.** Click the blue *Save* button in the pop-up window.
 
-This brings up the Interaction as it will appear to the Test-taker. 
+This brings up the Interaction as it will appear to the Test-taker.
+
+![Previewing an Item](../resources/backend/items/preview/actual-size.png)
 
 Answer the question correctly or incorrectly to see if the Interaction performs as expected. Clicking *Submit* will bring up a black screen below the demonstrated Interaction which shows the score for the answer you have given.
 

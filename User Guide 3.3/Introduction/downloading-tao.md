@@ -14,8 +14,8 @@ While connected to the internet, click on the corresponding button for your syst
 
 Curious to see how TAO works? Take our latest version for a [test drive](http://www.taotesting.com/get-tao/take-test-drive/), without downloading or subscribing to the TAO Cloud, by logging in as follows:
 
-   Login:   demo
-<br>Password:   testdrive
+   Login:   *demo*
+<br>Password:   *testdrive*
 
 During your test drive, you can preview the look and feel of TAO from a test-taking perspective, and observe how easy it is create test items and prepare assessments in executing workflows. For more information, contact: 
 

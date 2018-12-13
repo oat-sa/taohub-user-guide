@@ -15,15 +15,15 @@ The videos below will demonstrate how to easily create some of the most popular 
 How to create an item with a [Choice (multiple-choice) Interaction](../interactions/choice-interaction.md) using TAO:
 
 
-[![Choice Interaction]()](http://www.youtube.com/watch?v=a3WM6yMfiGs)
+[![Choice Interaction](https://img.youtube.com/vi/a3WM6yMfiGs/hqdefault.jpg)](http://www.youtube.com/watch?v=a3WM6yMfiGs)
 
 How to create an item with an [Inline Interaction](../interactions/inline-choice-interaction.md) using TAO:
 
-[![Inline Interactions]()](http://www.youtube.com/watch?v=5vplITM3Ah4)
+[![Inline Interactions](https://img.youtube.com/vi/5vplITM3Ah4/hqdefault.jpg)](http://www.youtube.com/watch?v=5vplITM3Ah4)
 
 How to create an item with an [Associate Interaction](../interactions/associate-interaction.md) using TAO:
 
-[![Associate Interaction]()](http://www.youtube.com/watch?v=qIX3HVNq5L0)
+[![Associate Interaction](https://img.youtube.com/vi/qIX3HVNq5L0/hqdefault.jpg)](http://www.youtube.com/watch?v=qIX3HVNq5L0)
 
 
 Now, let's walk through the steps of creating an item.

@@ -8,7 +8,8 @@ authors:
 
 *"Interactions allow the candidate to interact with the item. Through an interaction, the candidate selects or constructs a response. The candidate's responses are stored in the response variables. Each interaction is associated with (at least) one response variable."* - Question and Test Interoperability standard, published by IMS Global
 
-![Term Interaction]()
+![Term Interaction](../resources/backend/items/preview/actual-size.png)
+
 
 >[Interactions](../appendix/glossary.md#interaction) serve as a basic unit of [Test-taker](../appendix/glossary.md#test-taker) response. Items may be made up of one interaction, or several related interactions. As such, the term *Interaction* should not be considered interchangeable with the term [Item](../items/what-is-an-item.md). 
 

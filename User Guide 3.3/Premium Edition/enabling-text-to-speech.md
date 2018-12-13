@@ -24,5 +24,4 @@ Open the drop-down menu [Test-taker Tools](../appendix/glossary.md#test-taker-to
 
 The text-to-speech functionality is now enabled, and will be available to test-takers for the relevant sections or items of your test.
 
-<!-- Missing Screenshot: Text-to-Speech --> 
-![Text to Speech](../resources/delivery/features/test-taker-tools/text-to-speech.png)
+![Text to Speech](../resources/backend/premium/text-to-speech.png)

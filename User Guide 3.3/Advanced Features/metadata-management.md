@@ -11,7 +11,7 @@ authors:
 
 *Note: Although this section only covers Metadata that apply to Items, the procedures for applying Metadata to Tests, Test-takers, Groups, and Deliveries are very similar.*
 
-[Properties]](../appendix/glossary.md#properties) define the metadata entered for your items, and can be added to any item. Metadata is useful as it can help identify items used in a specific course, for a specific instructor, within a specific Test, etc. Searches identify these specific items so that they can be easily accessed.
+[Properties](../appendix/glossary.md#properties) define the metadata entered for your items, and can be added to any item. Metadata is useful as it can help identify items used in a specific course, for a specific instructor, within a specific Test, etc. Searches identify these specific items so that they can be easily accessed.
 
 *Note: The Search option is only available for advanced installations, and does not form part of the standard release.*
 

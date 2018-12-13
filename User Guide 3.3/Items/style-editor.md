@@ -12,7 +12,8 @@ authors:
 
 This will turn the Properties Panel into a Style Editor panel. There are two parts to the editor, the *Style Sheet Manager* at the top, and the *Style Editor* below this.
 
-![Style Editor](../resources/backend/items/authoring/authoring-206.png)
+![Style Editor](../resources/backend/items/authoring-206.png)
+
 
 **2.** If you have a style sheet ready for upload, click on the *Add Style Sheet* button. 
 

@@ -9,7 +9,6 @@ authors:
 
 *"A delivery is the process that coordinates the rendering and delivery of tests and the evaluation of responses to interactions to produce scores and feedback."* - Based on the Question and Test Interoperability standard, published by IMS Global.
 
-![Term Delivery]()
 
 >A [Delivery](../appendix/glossary.md#delivery) is a published [Test](../appendix/glossary.md#test), and as such is immutable. Comparable to a physically published text (such as a pdf file) and its source (e.g. Word) document, consequent changes in the test do not impact a delivery. An author would need to create a new delivery, i.e. re-publish the test, for the changes made to a particular test to take effect for the [Test-takers](../appendix/glossary.md#test-taker) assigned to the new delivery.
 

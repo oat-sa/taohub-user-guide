@@ -37,4 +37,4 @@ There are three roles which need to be assigned within a test center:
 
 See the section [Licensing a Delivery to a Test Center](../test-centers/licensing-a-delivery-to-a-test-center.md) for details on how a test center can deliver tests to test-takers.
 
-<!-- Missing Screenshot: Creating a new Test Center -->
+![Creating a new Test Center](../resources/backend/features/test-centers/new-test-center.png)

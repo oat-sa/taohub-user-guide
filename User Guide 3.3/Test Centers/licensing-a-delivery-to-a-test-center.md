@@ -44,5 +44,4 @@ See the section on [Proctoring](../test-centers/proctoring.md) for more informat
 
 **Remove:** Clicking on *Remove* will remove this delivery from the list of eligible deliveries of that test center.
 
-
-<!-- Missing Screenshot: Licensing a Delivery to a Test Center -->
+![Licensing a Delivery to a Test Center](../resources/backend/test-centers/new-test-center/tree-item.png)

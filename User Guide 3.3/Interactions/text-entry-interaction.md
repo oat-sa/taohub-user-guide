@@ -27,23 +27,23 @@ This creates a pop-up window containing the blank, which is to be filled by the 
 *Note: Remember to remove the actual words from the text that the Text Entry blanks are designed to replace.*
 
 <aside class="optional-extras">
-##Optional Extras when Creating a Task
+## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-###Inserting a 'placeholder' text in the blanks 
+### Inserting a 'placeholder' text in the blanks 
 
 If you would like to put a text in the fields the test-taker is supposed to fill in, such as "Write your answer here", enter it in the *Placeholder Text* field.
  
-###Placing constraints on the answer
+### Placing constraints on the answer
 
 You can specify a certain [Pattern](../appendix/glossary.md#pattern) which should be used in the answer. This can be done in the *Pattern Mask* box.
  
-###Giving hints about the text length
+### Giving hints about the text length
 
 You can provide a hint for the test-taker about the length of the text by filling in the *Expected Length* field. This tells the test-taker the number of words expected.
 
-###Changing the base of numerical values
+### Changing the base of numerical values
 
 The *Base* feature is used to set the number base for the interpretation of numerical values entered by the test-taker. By default this is 10, i.e. its interpretation is based on the decimal system. If it uses a different system, change this here. 
 
@@ -56,11 +56,11 @@ This opens the response entry window, in which you can enter the correct answers
 Repeat steps 2 and 3 until all the desired Text Entry blanks have been inserted into the text.
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-###Modifying the scoring method
+### Modifying the scoring method
 
 By default, a test-taker receives one point per completely correct interaction, so in the case of Text Entry interactions, the test-taker has to select all the correct answers in order for the answer to be considered correct.
 
@@ -73,11 +73,11 @@ First, assign a weight for each response in the boxes next to each one.
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the other associated properties.
 
 
-###Inserting modal feedback 
+### Inserting modal feedback 
 
 If you wish, you can insert [modal feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on Modal Feedback, see the [section on Modal Feedback](../items/modal-feedback.md).
 
-###Limiting the duration of the test
+### Limiting the duration of the test
 
 Click anywhere outside of the Text Space. This will give you the option of setting the interaction as *Time dependent* (to be completed within a certain interval), by checking the check box. This option is covered in greater detail in [Test Settings](../tests/tests-settings.md).
 

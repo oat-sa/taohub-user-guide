@@ -38,11 +38,11 @@ Next, adjust the intervals on the slider in the *Step* box. By default, the *Ste
 This provides access to the actual slider, so that the answer can be set. You can do this by moving the indicator to the correct value. 
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following option is available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-###Inserting modal feedback
+### Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 </aside>

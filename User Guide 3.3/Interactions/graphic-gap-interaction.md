@@ -50,11 +50,11 @@ Once all the images are the correct size, click on the blue *Add file(s)* button
 After uploading the images, select the first answer graphic for the first slot, and repeat for all subsequent slots.
 
 <aside class="optional-extras">
-##Optional Extras when Creating a Task
+## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-###Limiting the use of a choice
+### Limiting the use of a choice
 
 If you want to limit the number of times a particular answer graphic is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Max number of matches*. 
 </aside>
@@ -64,11 +64,11 @@ If you want to limit the number of times a particular answer graphic is used, cl
 You can now select the correct associations between the answer graphics and the Hotspots on the graphic. To do this, drag and drop each answer graphic onto its corresponding Hotspot.
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-###Modifying the scoring method
+### Modifying the scoring method
 
 By default, a test-taker receives one point per completely correct interaction, so in the case of Graphic Gap interactions, the test-taker has to select all the correct matches in order for the answer to be considered correct.
 
@@ -81,7 +81,7 @@ First, assign a weight for each correct match in the *Pair Scoring* box below th
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the other associated properties.
 
 
-###Inserting modal feedback
+### Inserting modal feedback
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more details on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 

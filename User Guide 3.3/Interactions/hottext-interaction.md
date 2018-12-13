@@ -31,11 +31,11 @@ The test-taker will choose the best option Hottext elements.
 This will create a Hottext element within the text. Typically, there will be one word or phrase that matches the type being sought, and several additional words or phrases that might be similar to the type being sought. There might be cases where more than one option is correct, or where none of the options are correct. At the end of the text, you can add a final Hottext element which allows the test-taker to state that there is no correct selection (e.g. "No error.")
 
 <aside class="optional-extras">
-##Optional Extras when Creating a Task
+## Optional Extras when Creating a Task
 
 The following option is available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
 
-###Specifying the correct number of answers 
+### Specifying the correct number of answers 
 
 You can specify the minimum and maximum number of Hottext choices the Test-taker will be asked to provide (before he can continue to the next question) in the Allowed Choices boxes. By default these are empty, which means the test-taker can include as many (or as few) answer options as he likes. Setting the minimum to 0 allows the test-taker to skip the question.
 </aside> 
@@ -45,11 +45,11 @@ You can specify the minimum and maximum number of Hottext choices the Test-taker
 This will produce the same window as before, but you now have the possibility of placing checkmarks by the right answer(s). Check all that apply.
 
 <aside class="optional-extras">
-##Optional Extras when Processing a Response
+## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.
 
-###Modifying the scoring method
+### Modifying the scoring method
 
 By default, a test-taker receives one point per completely correct interaction, so in the case of Hottext interactions, the test-taker has to select all the correct Hottext elements in order for the answer to be considered correct.
 
@@ -61,7 +61,7 @@ First, assign a weight for each Hottext element in the boxes next to each one.
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the associated properties.
 
-###Inserting modal feedback 
+### Inserting modal feedback 
 
 If you wish, you can insert [Modal Feedback](../appendix/glossary.md#modal-feedback) into this Interaction. For more information on how to do this, see the [section on Modal Feedback](../items/modal-feedback.md).
 </aside>

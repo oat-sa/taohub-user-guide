@@ -58,23 +58,23 @@ From the library, select the item you wish to add, and then click on the blue bu
 See the [Test Settings section](../tests/tests-settings.md) for information on adjusting assessment settings such as the time/attempts to be allowed.
 
 <aside class="optional-extras">
-##Optional Extras
+## Optional Extras
 
-###Duplicating an existing test
+### Duplicating an existing test
 
 You can duplicate an already existing test by clicking on the *Duplicate* icon in the button bank under the library. A copy will then be created in the folder of the test you have duplicated, with the same name but with "bis" on the end.
 
-###Copying an existing test
+### Copying an existing test
 
 You can make a copy of an already existing test by clicking on the *Copy to* icon in the button bank under the library. 
 
 A dialog box will appear on the canvas. Select a destination folder, and click on *Copy*. A copy of the test will then be created in the folder you have selected, with the same name but with "bis" on the end.
 
-###Finding an existing test
+### Finding an existing test
 
 You can use the *Search Test* button on the right of the Action Bar to look for already existing tests. A list of tests with that name will appear. Click on *Open* if you want to open one of them.
 
-###Publishing a test
+### Publishing a test
 
 If you would like to assemble a delivery once your test is complete, you can publish it directly from the Tests page, rather than going to the Deliveries page to assemble it.
 
@@ -87,7 +87,7 @@ A dialog box will appear on the canvas. Select a destination folder, and click o
 Open the delivery you have created to set the delivery properties in the same way you would when you create a delivery on the Deliveries page.
 
 
-###Granting user access
+### Granting user access
 
 As an administrator, you can permit a user certain access rights to specific folders (classes), items or tests. To do this, select a folder and then click on the *Access Control* icon in the button bank under the *library*.  
 

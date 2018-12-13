@@ -17,7 +17,7 @@ authors:
 
 
 
-##Administrative Roles
+## Administrative Roles
 
 **Tenant Administrator/Global Manager:** This functional role allows full access to a TAO tenant. This account (Tenant Administrator for the Premium Edition and Global Manager for the Community Edition) is provided to clients; the tenant administrator (or global manager) can create others from there. 
 
@@ -33,13 +33,13 @@ authors:
 **Lock Manager:** This additional role allows the removal of locks when the Workspaces extension is installed.
 
 
-##Authoring Roles:
+## Authoring Roles:
 
 **Item Author:** This functional role allows the authoring and management of items and [Media](../media/media-manager.md).
 
 **Test Author:** This additional role allows the authoring and management of tests. *Note: It needs to be used in combination with the Item Author role to be able to select items and assemble tests.*
 
-##Roles for Conducting Assessments:
+## Roles for Conducting Assessments:
 
 **Test Center Administrator:** This functional role can manage [Proctors](../appendix/glossary.md#proctor) (create, remove, authorize) and can also [proctor](../test-center/proctoring.md) a delivery.
 
@@ -49,11 +49,11 @@ authors:
 
 **Reviewer:** This functional role is for reviewing test [Results](../appendix/glossary.md#results). It grants access to the Results panel only.
 
-##Test-taking Role:
+## Test-taking Role:
 
 **Test-taker:** This functional role allows a [Test-taker](../appendix/glossary.md#test-taker) to take a test, if eligible by Test Center association.
 
-##Technical Roles:
+## Technical Roles:
 
 **REST Publisher:** This technical role allows use of the Publishing API, for system-to-system publication processes.
 

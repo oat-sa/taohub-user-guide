@@ -273,7 +273,7 @@ The process by which Response Variable values are scored and Item Outcome values
 The panel on the right of the Interaction being edited, where it is possible to define the properties pertaining to the Response to this Interaction.
 
 ## Response Variable
-Variables taken from Response declarations and bound to [Interactions](.../interactions/what-is-an-interaction.md) in the [Item body](../items/what-is-an-item.md), they record the candidate's Responses.
+Variables taken from Response declarations and bound to [Interactions](../interactions/what-is-an-interaction.md) in the [Item body](../items/what-is-an-item.md), they record the candidate's Responses.
 
 ## Results
 

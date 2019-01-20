@@ -4,7 +4,7 @@ authors:
     - "Catherine Pease"
 --> 
 
-# What is TAO
+# What is TAO?
 
 >TAO is, simply stated, the future of online assessment development.
 

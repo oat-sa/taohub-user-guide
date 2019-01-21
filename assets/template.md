@@ -1,9 +1,0 @@
-<!--
-tags: []
-
---> 
-
-# Title
-
-> Synopsis
-

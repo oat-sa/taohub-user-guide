@@ -36,7 +36,7 @@ A list of all the deliveries which require a proctor will appear.
 **4.** Click on *monitor* for the delivery you wish to proctor.
 
 A list of all the test-takers who are logged in for this session will appear. You can filter the test-takers either by date or by status (started, terminated, etc):
-![Filtering test-takers according to date](../resources/proctoring/proctor-view/test-takers/filter/by-date.png)
+![Filtering test-takers according to date](../resources/proctoring/proctor-view/test-takers/filters/by-date.png)
 
 *Note: You will need to click on 'refresh' to see test-takers who have logged in since you logged in as proctor. If none are logged in, and you wish to continue, proceed to step 5.*
 

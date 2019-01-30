@@ -25,9 +25,13 @@ There are four methods for scoring a test, or "outcome processing" as this is ca
 
 - **Custom**: This option is only applicable when a test with custom outcome processing rules is imported - thus the processing rules are defined outside of TAO. In this case - for example if the assessmentTest XML is modified outside of TAO and imported back into the system - the rules cannot be authored in TAO, so the existing rules are left untouched.
 
-- **Total Score**. If you select this as your chosen method, all scores from all parts of the Test will be added together, and outcome variables for the test-taker's score (SCORE_TOTAL), the maximum score of all items (SCORE_TOTAL_MAX) and the ratio of correct responses (SCORE_RATIO) will be generated. ![Scoring: Total Score](../resources/backend/tests/authoring/settings/test/scoring/total-score.png)
+- **Total Score**. If you select this as your chosen method, all scores from all parts of the Test will be added together, and outcome variables for the test-taker's score (SCORE_TOTAL), the maximum score of all items (SCORE_TOTAL_MAX) and the ratio of correct responses (SCORE_RATIO) will be generated. 
 
-- **Cut Score**: If you choose this option, a cut-off point for passing the test will be fixed. Enter the score which is to be used as the cut-off point in the *Cut Score* box. This is set as a ratio of the total score. A PASS variable is then generated, indicating if the student has passed the test. When "Category Score" is active (see below), PASS variables for all categories are generated, all using the same cut-off point. ![Scoring: Cut Score](../resources/backend/tests/authoring/settings/test/scoring/cut-score.png)
+![Scoring: Total Score](../resources/backend/tests/authoring/settings/test/scoring/total-score.png)
+
+- **Cut Score**: If you choose this option, a cut-off point for passing the test will be fixed. Enter the score which is to be used as the cut-off point in the *Cut Score* box. This is set as a ratio of the total score. A PASS variable is then generated, indicating if the student has passed the test. When "Category Score" is active (see below), PASS variables for all categories are generated, all using the same cut-off point. 
+
+![Scoring: Cut Score](../resources/backend/tests/authoring/settings/test/scoring/cut-score.png)
 
 
 If you choose either of the latter methods (*Total Score* or *Cut Score*), some additional information is required.

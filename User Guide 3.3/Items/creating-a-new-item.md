@@ -64,8 +64,8 @@ Two settings can be chosen for your new item in the [Item Properties](../appendi
 *Note: Items are 'locked' when you (or another user) are working on them.*
 
 <aside class="optional-extras">
-## Optional Extras
 
+## Optional Extras
 
 ### Duplicating an existing item
 

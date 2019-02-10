@@ -8,7 +8,7 @@ authors:
 
 *"A test is a group of Items with an associated set of rules that determine which of the items the candidate sees, in what order, and in what way the candidate interacts with them. The rules describe the valid paths (order of questions) through the test, when responses are submitted for response processing (grading), and when (if at all) feedback is to be given."* - Question and Test Interoperability standard, published by IMS Global
 
-![Term Test]()
+![Term Test](../resources/bma184.jpg)
 
 >Tests, or assessments, define the continuity between [Items](../items/what-is-an-item.md), how they are ordered, and how they are presented to the Test-taker. They also define the constraints and settings, including those related to time and navigation policies. Tests may be built from building blocks called *Item Sections* that logically sort Items into groups, making configuring a Test easier.
 

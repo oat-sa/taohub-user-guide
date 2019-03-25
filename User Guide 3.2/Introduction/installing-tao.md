@@ -1,32 +1,35 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
+<!-- created_at: 2016-12-15 authors: - "Catherine Pease" -->
 
-# Installing TAO
+ # Installing TAO
 
->There are currently two TAO installation packages available on the OAT server: Automatic and Manual. Automatic installation involves setting up a permanent connection to TAO's own server. This affords greater ease of operation, leaving all technical issues to OAT. Manual installation involves setting up a web server and installing TAO on it. This affords a greater degree of flexibility and control.
+> There are currently two TAO installation packages available on the OAT server: Automatic and Manual. Automatic installation involves setting up a permanent connection to TAO's own server. This affords greater ease of operation, leaving all technical issues to OAT. Manual installation involves setting up a web server and installing TAO on it. This affords a greater degree of flexibility and control.
 
 **1.** On the [OAT download page](http://www.taotesting.com/get-tao/official-tao-packages/), click on the package appropriate for the computer on which you'll be using TAO.
 
 - Automatic Package: Downloads a clickable, executable file.
 - Manual Package: Downloads a ZIP file.
 
-By carrying out this step you will initiate the download. Select the target system and/or folder for the installation file, and click *save*.
+By carrying out this step you will initiate the download. Select the target system and/or folder for the installation file, and click _save_.
 
 **2.** When the selected extractable is downloaded, double-click on it to begin the extraction.
 
 This may take a few minutes to complete.
 
-For users installing the automatic or manual package on Windows, the next step is to activate the UniController executable installer. This can be found in the TAO_2.3_with_server folder. Applications such as Skype will need to be closed during the installation, which begins after clicking the *Start All* button. This will create a TAO Back Office on your computer, which can be accessed through your preferred browser at http://localhost/tao (login:tao, password: tao).
+**3.** Installing on your machine.
+
+**Windows installation**
+
+_Note: Applications such as Skype will need to be closed during the installation._
+
+After downloading, the installer can be found in the Downloads folder if no other location was chosen. The installation will begin after double-clicking the file and the wizard will walk you through accepting the agreement, selecting the installation location, and shortcuts. Once completed you will have a TAO Back Office on your computer, which can be accessed through your preferred browser at <http://localhost/:89> or using the 'TAO login' shortcut (login:demo, password: demo).
+
+**Linux Installation**
 
 For users installing the manual package on Linux, follow the additional steps below.
 
-**3.** (Linux only) Install the latest versions of the following applications: Apache 2 server, PHP server configuration, MySQL server configuration and PostgreSQL.
+Install the latest versions of the following applications: Apache 2 server, PHP server configuration, MySQL server configuration and PostgreSQL.
 
-*Note: The recommended versions are as follows: Apache 2: version 2.4; PHP server configuration: version 5.5 or later; MySQL server configuration: version 5.0 or later; PostgreSQL: version 7.0 or later.*
-
+_Note: The recommended versions are as follows: Apache 2: version 2.4; PHP server configuration: version 7.3 or later; MySQL server configuration: version 5.0 or later or PostgreSQL: version 7.0 or later._
 
 These are used to create your own web server, upon which TAO will be installed.
 
@@ -38,9 +41,9 @@ Once the Apache 2 server is installed, ensure that the rewrite and PHP 5 modules
 4. `filemanager/views/data`
 5. `taoResults/views/genpics`
 
-Once the PHP server configuration is installed, ensure that `register_globals` and `magic_quotes_gpc` are both off, and `short_open_tag` is on. 
+Once the PHP server configuration is installed, ensure that `register_globals` and `magic_quotes_gpc` are both off, and `short_open_tag` is on.
 
-The following extensions will be required: 
+The following extensions will be required:
 
 - `mysql`
 - `mysqli`

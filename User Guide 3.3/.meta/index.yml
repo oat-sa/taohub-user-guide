@@ -1,9 +1,9 @@
+# User Guide
 toc:
     Introduction:
         - 'What is TAO?'
-        - 'Downloading TAO'
-        - 'Installing TAO'
         - 'Take a tour'
+        - 'Installing and operating TAO'
     Items:
         - 'What is an item?'
         - 'Items: An Overview'
@@ -88,17 +88,9 @@ toc:
         - 'Results: An Overview'
         - 'Viewing Results'
         - 'Exporting Results'
-    'Administrative Features':
-        - 'User Management'
-        - 'Roles and Permissions'
-        - 'Item and Test Versioning'
-        - 'Background Tasks'
-    'Advanced Features':
-        - 'Metadata Management'
-        - 'LTI Consumer Management'
-        - 'Add an Extension'
-        - 'Event Log'
-        - 'Resource Identifiers'
+    User Settings:
+        - My Settings
+        - Change Password
     'Premium Edition':
         - 'Customization in TAO'
         - 'Enabling Text to Speech'

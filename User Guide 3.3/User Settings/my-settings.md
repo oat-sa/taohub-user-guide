@@ -1,4 +1,0 @@
-# My Settings
-
-> Synopsis
-

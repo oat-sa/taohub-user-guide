@@ -88,9 +88,8 @@ toc:
         - 'Results: An Overview'
         - 'Viewing Results'
         - 'Exporting Results'
-    User Settings:
-        - My Settings
-        - Change Password
+    Proctoring:
+        - Proctoring
     'Premium Edition':
         - 'Customization in TAO'
         - 'Enabling Text to Speech'

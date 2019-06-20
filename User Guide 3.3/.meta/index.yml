@@ -1,99 +1,99 @@
 # User Guide
 toc:
-    Introduction:
-        - 'What is TAO?'
-        - 'Take a tour'
-        - 'Installing and operating TAO'
-    Items:
-        - 'What is an item?'
-        - 'Items: An Overview'
-        - 'Creating a new item'
-        - 'Authoring Workflow'
-        - 'Importing items'
-        - 'Exporting items'
-        - 'Adding media'
-        - 'Item scoring rules'
-        - 'Modal feedback'
-        - Preview
-        - 'Style Editor'
-        - 'Math Expressions'
-    Interactions:
-        - 'What is an interaction?'
-        - 'Interactions: An Overview'
-        - 'Interaction Authoring Tools'
-        - 'Choice Interaction'
-        - 'Order Interaction'
-        - 'Associate Interaction'
-        - 'Match Interaction'
-        - 'Hottext Interaction'
-        - 'Gap Match Interaction'
-        - 'Slider Interaction'
-        - 'Extended Text Interaction'
-        - 'File Upload Interaction'
-        - 'Media Interaction'
-        - 'Inline Choice Interaction'
-        - 'Text Entry Interaction'
-        - 'Hotspot Interaction'
-        - 'Graphic Order Interaction'
-        - 'Graphic Associate Interaction'
-        - 'Graphic Gap Interaction'
-        - 'Select Point Interaction'
-        - 'Portable Custom Interactions'
-        - 'Text Block'
-        - 'End Attempt'
-    Tests:
-        - 'What is a test?'
-        - 'Tests: An Overview'
-        - 'Creating a new test'
-        - 'Importing a test'
-        - 'Exporting tests'
-        - 'Test settings'
-        - 'Providing Test-level Instant Feedback'
-        - 'Test-taker Tool Configuration'
-        - 'Test Scoring and Outcome Declarations'
-    Media:
-        - 'Media Manager'
-        - 'Shared Stimuli'
-    Test-takers:
-        - 'Test-takers: An Overview'
-        - 'Creating a test-taker'
-        - 'Importing test-takers'
-        - 'Exporting test-takers'
-    Groups:
-        - 'Groups: An Overview'
-        - 'Creating a new group'
-        - 'Importing groups'
-        - 'Exporting groups'
-    Deliveries:
-        - 'What is a delivery?'
-        - 'Deliveries: An Overview'
-        - 'Create a new delivery'
-    'Test Centers':
-        - 'Test Centers: An Overview'
-        - 'Creating a new Test Center'
-        - 'Importing a Test Center'
-        - 'Licensing a Delivery to a Test Center'
-        - Proctoring
-        - 'Removing a Test Center'
-    'Taking a Test':
-        - 'Accessibility Tools'
-        - 'Color Contrast'
-        - 'Review Panel'
-        - 'Test Navigation'
-        - 'Keyboard Navigation'
-        - Text-to-Speech
-        - 'Hide Time Limits'
-        - 'Connection Indicator'
-    Results:
-        - 'Results: An Overview'
-        - 'Viewing Results'
-        - 'Exporting Results'
-    User Settings:
-        - My Settings
-        - Change Password
-    'Premium Edition':
-        - 'Customization in TAO'
-        - 'Enabling Text to Speech'
-    Appendix:
-        - Glossary
+  Introduction:
+    - 'What is TAO?'
+    - 'Take a tour'
+    - 'Installing TAO'
+  Items:
+    - 'What is an item?'
+    - 'Items: An Overview'
+    - 'Creating a new item'
+    - 'Authoring Workflow'
+    - 'Importing items'
+    - 'Exporting items'
+    - 'Adding media'
+    - 'Item scoring rules'
+    - 'Modal feedback'
+    - Preview
+    - 'Style Editor'
+    - 'Math Expressions'
+  Interactions:
+    - 'What is an interaction?'
+    - 'Interactions: An Overview'
+    - 'Interaction Authoring Tools'
+    - 'Choice Interaction'
+    - 'Order Interaction'
+    - 'Associate Interaction'
+    - 'Match Interaction'
+    - 'Hottext Interaction'
+    - 'Gap Match Interaction'
+    - 'Slider Interaction'
+    - 'Extended Text Interaction'
+    - 'File Upload Interaction'
+    - 'Media Interaction'
+    - 'Inline Choice Interaction'
+    - 'Text Entry Interaction'
+    - 'Hotspot Interaction'
+    - 'Graphic Order Interaction'
+    - 'Graphic Associate Interaction'
+    - 'Graphic Gap Interaction'
+    - 'Select Point Interaction'
+    - 'Portable Custom Interactions'
+    - 'Text Block'
+    - 'End Attempt'
+  Tests:
+    - 'What is a test?'
+    - 'Tests: An Overview'
+    - 'Creating a new test'
+    - 'Importing a test'
+    - 'Exporting tests'
+    - 'Test settings'
+    - 'Providing Test-level Instant Feedback'
+    - 'Test-taker Tool Configuration'
+    - 'Test Scoring and Outcome Declarations'
+  Media:
+    - 'Media Manager'
+    - 'Shared Stimuli'
+  Test-takers:
+    - 'Test-takers: An Overview'
+    - 'Creating a test-taker'
+    - 'Importing test-takers'
+    - 'Exporting test-takers'
+  Groups:
+    - 'Groups: An Overview'
+    - 'Creating a new group'
+    - 'Importing groups'
+    - 'Exporting groups'
+  Deliveries:
+    - 'What is a delivery?'
+    - 'Deliveries: An Overview'
+    - 'Create a new delivery'
+  'Test Centers':
+    - 'Test Centers: An Overview'
+    - 'Creating a new Test Center'
+    - 'Importing a Test Center'
+    - 'Licensing a Delivery to a Test Center'
+    - Proctoring
+    - 'Removing a Test Center'
+  'Taking a Test':
+    - 'Accessibility Tools'
+    - 'Color Contrast'
+    - 'Review Panel'
+    - 'Test Navigation'
+    - 'Keyboard Navigation'
+    - Text-to-Speech
+    - 'Hide Time Limits'
+    - 'Connection Indicator'
+  Results:
+    - 'Results: An Overview'
+    - 'Viewing Results'
+    - 'Exporting Results'
+  User Settings:
+    - My Settings
+    - Change Password
+  'Premium Edition':
+    - 'Customization in TAO'
+    - 'Enabling Text to Speech'
+  Appendix:
+    - Glossary
 

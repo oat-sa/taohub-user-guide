@@ -1,20 +1,9 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Glossary
 
 > The following are specialized terms which users of TAO may frequently run into while using the program to author tests, administrate them, or generate assessment reports.
 
 ## Action Bar
 The menu, in the form of a blue bar, situated under the black Assessment Builder Bar, which appears across the top of all TAO web pages.
-
-<!--
-## Adaptive Item
-An [Item](../items/what-is-an-item.md) which changes either its Interaction, its scoring, or both, following unsatisfactory attempts by the Test-taker to provide a correct response. Adaptivity is usually used to adapt assessment questions to learning experiences for the candidate, guiding him or her through the Item while scoring performance. Advanced.
--->
 
 ## Adaptive Test
 A Test which changes the presentation of [Items](../items/what-is-an-item.md) based on Test-taker response. Generally achieved through the use of pre-conditions and branching. Advanced.
@@ -54,11 +43,6 @@ The main area in the middle of the screen for the user to define the contents of
 
 ## Class
 A group of related Items, Tests, etc. Folders in the Library represent Classes.
-
-<!--
-## Cloning Engine
-A system for creating multiple similar items (or Item Clones) from an Item Template. [TAO](../introduction/take-a-tour.md) uses a Cloning Engine to assist users in authoring Items.
--->
 
 ## Common Interactions
 An Interaction type which covers many of the simple interactions that are commonly used in testing.
@@ -150,14 +134,6 @@ The smallest exchangeable object in an assessment. An Item is more than a 'Quest
 ## Item Author
 A person who authors and manages items and media to be used in TAO, typically a teacher.
 
-<!--
-## Item Clone
-An [Item](../items/what-is-an-item.md) which is similar to others created by an Item Template. These are identical except for designated variables called Template Variables.
-
-## Item Fragment
-Part of an [Item](../items/what-is-an-item.md) managed independently from other parts. If it introduces all Items in a set, such a fragment is often referred to as a set leader.
--->
-
 ## Item Properties
 Item Properties define attributes, or characteristics, pertaining to [Items](../items/what-is-an-item.md).
 
@@ -169,14 +145,6 @@ The accumulation of all Test-taker Attempts at a particular [Item](../items/what
 
 ## Item Session Control Panel
 The Item Session Control Panel contains settings for items in a particular test such as the time allowed for that item. See [Test Settings](../tests/test-settings) for the properties which can be set in this panel. 
-
-<!--
-## Item Set
-A group of [Items](../items/what-is-an-item.md) which share common characteristics.
-
-## Item Template
-A template used for producing large numbers of similar [Items](../items/what-is-an-item.md), often called Cloned Items. These will have one or more designated Template Variables, and will be governed by a set of Template processing rules which are assigned these values. These may be produced by a special purpose Cloning Engine, such as [TAO](../introduction/take-a-tour.md).
--->
 
 ## Item Variable
 A variable which records Test-taker responses and any outcomes assigned during [response processing](../items/item-scoring-rules.md) during an Item Session. As a special kind of Assessment Variable, Item Variables are also used to define Item Templates.
@@ -211,14 +179,6 @@ Feedback which is not integrated into an [Item's](../items/what-is-an-item.md) b
 ## Multiple Response
 A Response Variable that serves as a container for multiple values taken from a value set defined by a base-type. These are processed as an unordered list, and may be empty.
 
-<!--
-## Non-adaptive Item
-An [Item](../items/what-is-an-item.md) which does not change following attempts made by a Test-taker.
-
-## Object Bank
-A collection of objects used during an assessment, including [Items](../items/what-is-an-item.md), Item Fragments, or Test parts.
--->
-
 ## Ordered Response
 A Response Variable which is a Container for multiple values taken from a value set defined by a Base-type. These are processed as an ordered list (sequence) of values, but may be empty.
 
@@ -233,11 +193,6 @@ Variables taken from outcome declarations. Values are set either from a default 
 
 ## Pattern
 Patterns can be set using regular expressions in the QTI creator. If the Test-taker's Response does not match the Pattern, an error is shown. The Response cannot be submitted until the input is corrected in line with the pattern.
-
-<!--
-## Pool
-A special type of Object Bank which includes related [Items](../items/what-is-an-item.md) transported together with metadata which describes the group as a whole.
--->
 
 ## Pre-formatted Text
 Indicates that the text to be entered by the Test-taker is pre-formatted and should be rendered in a way consistent with the definition of pre in XHTML.
@@ -295,14 +250,6 @@ A Response Variable which takes a single value from the value set defined by a B
 ## Shared Stimulus
 A stimulus is a piece of information which sets the context for a question or a series of questions. A Shared Stimulus is one that is shared between multiple Items.
 
-<!--
-## Template Processing
-Rules used to set values for Template Variables. These are typically set by a random process which selects a specific clone to be used for an Item Session.
-
-## Template Variable
-Variables taken from template declarations which record values which render an Item Template unique. These values determine the clone within a set defined by an Item Template which will be used for a given Item Session.
--->
-
 ## Tenant Administrator 
 This functional role allows full access to a TAO tenant, on the basis of a single account provided to clients. The Tenant Administrator can create other accounts from this single account, but does not have access to Role and Permissions management.
 
@@ -321,18 +268,8 @@ The Library of existing Tests, which appears in the panel on the left when you s
 ## Test Library Panel
 See [Test Library](../appendix/test-library).
 
-<!--
-## Test Fragment
-Part of a [Test](../tests/what-is-a-test.md) managed independently.
--->
-
 ## Test Part
 Part of a [Test](../tests/what-is-a-test.md), which can be managed independently. The navigation mode (linear or non-linear) is defined at the test part level.
-
-<!--
-## Test Report
-A report describing a [Test](../tests/what-is-a-test.md) Session.
--->
 
 ## Test Session
 The Interaction of a Candidate with a [Test](../tests/what-is-a-test.md) and the [Items](../items/what-is-an-item.md) it contains.

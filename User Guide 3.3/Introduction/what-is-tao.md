@@ -1,14 +1,8 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # What is TAO?
 
->TAO is, simply stated, the future of online assessment development.
+> TAO is an Open Source e-Testing platform that empowers you to build, deliver, and share innovative and engaging assessments online – in any language or subject matter.
 
-[Open Assessment Technologies (OAT)](http://www.taotesting.com/) takes pride in having developed TAO ("Computer-Based Testing" or *Testing Assisté par Ordinateur* in French), one of the most advanced test authoring tools on the market using the [Question and Test Interoperability (QTI) standard](http://www.imsglobal.org/question/qtiv2p1/imsqti_implv2p1.html) for E-test development. The company, OAT, and product, TAO, form together what is soon to become one of the best remembered palindromes among teachers and test authors. TAO, after all, represents one of the first great steps beyond the domination of expensive and inflexible proprietary testing software.
+[Open Assessment Technologies (OAT)](http://www.taotesting.com/) takes pride in having developed TAO ("Computer-Based Testing" or *Testing Assisté par Ordinateur* in French), one of the most advanced test authoring tools on the market using the [Question and Test Interoperability (QTI) standard](http://www.imsglobal.org/question/qtiv2p1/imsqti_implv2p1.html) for E-test development. The company, OAT, and the product, TAO, form together what is soon to become one of the best remembered palindromes among teachers and test authors. TAO, after all, represents one of the first great steps beyond the domination of expensive and inflexible proprietary testing software.
 
 Almost as easy as putting pen to paper, and with results that are a lot more impressive, TAO enables educators and other test-writers to create E-tests on the fly, and easily administer them to students - from classroom to nationwide - in just minutes. Furthermore, grades can be ready for review and evaluation moments after the last test is submitted.
 

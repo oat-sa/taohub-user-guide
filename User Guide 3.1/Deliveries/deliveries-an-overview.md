@@ -16,7 +16,7 @@ This section provides an overview of how to manage your Deliveries, including wh
 
 A delivery is the assembly of all information required to assign and send out Tests to selected Test-Takers.
 
-A delivery can only be assembled after the creation of test [items](../appendix/glossary.md#item) containing [interactions](../appendix/glossary.md#interaction), and their subsequent assembly in a [Test](../appendix/glossary.md#test). Profiles of the [Test-takers](../appendix/glossary.md) {#test-taker} also need to be created and then gathered into [Groups](../appendix/glossary.md#group).
+A delivery can only be assembled after the creation of test [items](../appendix/glossary.md#item) containing [interactions](../appendix/glossary.md#interaction), and their subsequent assembly in a [Test](../appendix/glossary.md#test). Profiles of the [Test-takers](../appendix/glossary.md#test-taker#test-taker) also need to be created and then gathered into [Groups](../appendix/glossary.md#group).
 
 A new Delivery can then be put together: see [Creating a new Delivery](../deliveries/create-a-new-delivery.md) for information on how to do this.
 

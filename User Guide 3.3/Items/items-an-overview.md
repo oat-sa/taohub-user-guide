@@ -37,6 +37,6 @@ How will the item be scored? There are various possibilities here: see [Item sco
 Before finalizing your item, it is a good idea to preview it. For more information on how to do this, see:
 [Preview](../items/preview.md).
 
-**5.** Importing and exporting about your items
+**5.** Importing and exporting your items
 
 You can import and export your items to and from different storage devices. For more information on how to do this, see [Importing Items](../items/importing-items.md) and [Exporting Items](../items/exporting-items.md).

@@ -68,13 +68,6 @@ toc:
     - 'What is a delivery?'
     - 'Deliveries: An Overview'
     - 'Create a new delivery'
-  'Test Centers':
-    - 'Test Centers: An Overview'
-    - 'Creating a new Test Center'
-    - 'Importing a Test Center'
-    - 'Licensing a Delivery to a Test Center'
-    - Proctoring
-    - 'Removing a Test Center'
   'Taking a Test':
     - 'Accessibility Tools'
     - 'Color Contrast'
@@ -88,12 +81,17 @@ toc:
     - 'Results: An Overview'
     - 'Viewing Results'
     - 'Exporting Results'
-  User Settings:
-    - My Settings
-    - Change Password
   'Premium Edition':
     - 'Customization in TAO'
     - 'Enabling Text to Speech'
+  'Advanced Tasks':
+    - 'User Settings'
+    - 'Test Centers: An Overview'
+    - 'Creating a new Test Center'
+    - 'Importing a Test Center'
+    - 'Licensing a Delivery to a Test Center'
+    - Proctoring
+    - 'Removing a Test Center'
   Appendix:
     - Glossary
 

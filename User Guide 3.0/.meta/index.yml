@@ -8,7 +8,7 @@ toc:
     - 'What is an interaction?'
     - 'What is a test?'
     - 'What is a delivery?'
-  'Take a tour':
+  'Take a Tour':
     - 'Create your items'
     - 'Build your test'
     - 'Register your test-takers'
@@ -59,7 +59,7 @@ toc:
     - 'Create a new delivery'
   'Results':
     - 'Exporting Results'
-  'Advanced features':
+  'Advanced Features':
     - 'Metadata'
     - 'User Management'
     - 'Role Management'

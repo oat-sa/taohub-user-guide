@@ -6,17 +6,15 @@ authors:
 
 # Interaction Authoring Tools
 
->A [Text Editing Toolbar](../appendix/glossary.md#text-editing-toolbar) is available to the [Item Author](../appendix/glossary.md#item-author), containing various tools for creating new [Interactions](../appendix/glossary.md#interaction).
+A [Text Editing Toolbar](../appendix/glossary.md#text-editing-toolbar) is available to the [Item Author](../appendix/glossary.md#item-author), containing various tools for creating new [Interactions](../appendix/glossary.md#interaction) and only appears when authoring a new [Item](../appendix/glossary.md#item).
 
-The text editing toolbar appears only when authoring a new [Item](../appendix/glossary.md#item).
-
-It will appear below the [Action Bar](../appendix/glossary.md#action-bar) once you have created a blank item, clicked on *Authoring*, and then dragged and dropped the interaction template of your choice from the [Interactions Library](../appendix/glossary.md#interactions-library) on the left onto the [Canvas](../appendix/glossary.md#canvas) in the middle. *Note: See the section [Creating a new Item](../items/creating-a-new-item.md) for details on how to create an item.*
+The toolbar will appear below the [Action Bar](../appendix/glossary.md#action-bar) once you have created a blank item, clicked on *Authoring*, and then dragged and dropped the interaction template of your choice from the [Interactions Library](../appendix/glossary.md#interactions-library) on the left onto the [Canvas](../appendix/glossary.md#canvas) in the middle. *Note: See the section [Creating a new Item](../items/creating-a-new-item.md) for details on how to create an item.*
   
 The toolbar contains two types of aids:
 
 **Style Features:**
 
-The icons towards the left of the bar can be used to make the text of the item bold, change it to italics, or underline it. You can also include the text as a subscript or a superscript here.
+The icons towards the left of the bar can be used to make the text of the item bold, italics, or underline it. You can also include the text as a subscript or a superscript here.
 
 **Feature Insertion:**
 

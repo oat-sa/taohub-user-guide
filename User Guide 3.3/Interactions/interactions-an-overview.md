@@ -8,7 +8,7 @@ authors:
 
 >[Interactions](../appendix/glossary.md#interaction) are the basic building blocks for [Items](../appendix/glossary.md#item), which in turn are the basic building blocks for [Tests](../appendix/glossary.md#test). For a full definition, see [What is an Interaction?](../interactions/what-is-an-interaction.md).
 
-This section provides an overview of how to manage your interactions, including what you need to do to construct them, what the result looks like, the choices you need to make along the way, and what you can do with them once they have been created.
+This section provides an overview of how to manage your interactions, including their creation, what to put in an interaction, viewing them, and their use once created.
 
 ## Using different kinds of interactions
 
@@ -28,7 +28,7 @@ There are four categories of interactions in TAO: simple, text-based, graphic, a
 
 ![Common Interactions](../resources/backend/items/authoring/interactions/common-interactions.png)
 
-**Text-based Interactions** are also known as [Inline Interactions](../appendix/glossary.md#inline-interaction). Inline Interactions are interactions which employ contain text-based elements. In TAO, the following Inline Interactions can be used in the creation of test items:
+**Text-based Interactions** are also known as [Inline Interactions](../appendix/glossary.md#inline-interaction). Inline Interactions are interactions which contain text-based elements. In TAO, the following Inline Interactions can be used in the creation of test items:
 
 - Inline Choice Interaction
 - Text Entry Interaction
@@ -53,4 +53,4 @@ There are four categories of interactions in TAO: simple, text-based, graphic, a
 ## Creating New Interactions
 
 New interactions are created as part of items in a test. With the exception of PCIs (which are project-specific),
-each of the above interactions is described in detail in its own section in the User Guide. 
+each of the above interactions is described in detail in its own section of the User Guide. 

@@ -25,7 +25,7 @@ Let's walk through the steps to create an assessment and manage your assessment 
 
 Test items prepared by other users may be available to you, as well as items you have prepared yourself for previous assessments.
 
-In TAO's [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar), select Items![Items](../resources/_icons/item.png) icon and examine the test items that are already available in the Library on the left.
+In TAO's [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar), select the Items![Items](../resources/_icons/item.png) icon and examine the test items that are already available in the Library on the left.
 
 If you do not have enough ready-to-go items, then you will need to create new ones utilizing TAO's Testing Item templates or PCI components.
 

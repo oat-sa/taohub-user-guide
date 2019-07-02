@@ -9,11 +9,11 @@ authors:
 >[Items](../appendix/glossary.md#item) are the basic building blocks for [Tests](../appendix/glossary.md#test). For a full definition, see [What is an Item?](../items/what-is-an-item.md).
 
 
-This section provides an overview of how to manage your items, including what you need to do to construct them, what the result looks like, the choices you need to make along the way, and what you can do with them once they have been created.
+This section provides an overview of how to manage your items, including their creation, what to put in an item, viewing them , and their use once created.
 
 **1.** Creating a new item 
 
-Items first need to be created, before they can be filled with the information to be used in a test. They are then  populated with the desired [Interactions](../appendix/glossary.md#interaction) and any further material required, before they can be used in assessments. See [Creating a new Item](../items/creating-a-new-item.md) for information on how to do this.
+Items first need to be created, before they are then populated with the desired [Interactions](../appendix/glossary.md#interaction) and any further material required so they can be used in assessments. See [Creating a new Item](../items/creating-a-new-item.md) for information on how to do this.
 
 **2.** What to include in your item
 

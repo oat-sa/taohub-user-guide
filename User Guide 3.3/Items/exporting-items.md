@@ -9,9 +9,9 @@ authors:
 
 >Interactions can be put together into Items on almost any computer that has access to TAO. However, there will be situations in which sharing Items will be useful. For instance, two teachers who teach the same course may collaborate and share the responsibility of creating questions for an upcoming Test. This can be done in a few easy steps.
 
-**1.**  Click on the [Items](../appendix/glossary.md#item) icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
+**1.**  Click on the [Items](../appendix/glossary.md#item) ![Items](../resources/_icons/item.png) icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
-**2.**  Click on either the Item folder (class) you want to export in the Item [Library](../appendix/glossary.md#library) on the left-hand side, OR click on *New class* in the button bank below the Library to create a new folder for the items you would like to export.
+**2.**  Click on either the Item folder (class) ![class](../resources/_icons/folder.png) you want to export in the Item [Library](../appendix/glossary.md#library) on the left-hand side, OR click on *New class* in the button bank below the Library to create a new folder for the items you would like to export.
 
 Creating a new [Class](../appendix/glossary.md#class) (i.e. a new folder) allows you to place items in a distinct location in order to be transferred from one computer to another. 
 
@@ -23,7 +23,7 @@ The item class can be renamed in the "Edit item class" dialog box in the field m
 
 This selects the items that will be exported.
 
-**4.**  After clicking on the class, click *Export* in the button bank below the library.
+**4.**  After clicking on the class, click *Export* ![export](../resources/_icons/export.png) in the button bank below the library.
 
 The dialog box will ask you to choose an export format from the list: QTI, APIP or RDF. If the Item is to be exported as a Question and Test Interoperability (QTI) formatted document, it will save the file(s) as a compressed .zip file.
 

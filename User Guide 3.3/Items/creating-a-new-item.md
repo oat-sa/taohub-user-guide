@@ -28,11 +28,11 @@ How to create an item with an [Associate Interaction](../interactions/associate-
 
 Now, let's walk through the steps of creating an item.
 
-**1.**  Click on the Items icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
+**1.**  Click on the Items ![Items](../resources/_icons/item.png) icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
 This will take you to the Items page. The [Library](../appendix/glossary.md#library) on the left-hand side will show existing items. The last item to be edited (either by you or a previous user) will be highlighted in the library. In this tour, however, you will create a new item.
 
-**2.**  Click on the *New item* icon in the button bank under the library.
+**2.**  Click on the *New item* ![New Item](../resources/_icons/item.png) icon in the button bank under the library.
 
 This will create a new item in the selected folder.
 
@@ -44,7 +44,7 @@ This will create a new item in the selected folder.
 
 Creating a new item will bring up a new dialog box with the option to name (or label) your item. After labeling your item, click *Save*. This produces an empty item, which you can now populate with interactions.
 
-**4.**  Click on the option *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar).
+**4.**  Click on the *Authoring* ![Items](../resources/_icons/edit.png) icon in the [Action Bar](../appendix/glossary.md#action-bar).
 
 This will take you to the empty item you have created. You can now start to fill this with your interactions. In the library on the left, you will see the [Common Interactions](../appendix/glossary.md#common-interactions) catalog. You will find the other types of interaction below this catalog: [Inline Interactions](../appendix/glossary.md#inline-interactions), [Graphic Interactions](../appendix/glossary.md#graphic-interactions) and [Custom Interactions](../appendix/glossary.md#custom-interactions). You can navigate these catalogs to choose the types of interaction you want to use for your item. The [Interactions](../interactions/what-is-an-interaction.md) section will tell you about the different types of interaction which you can use in TAO.
 
@@ -69,11 +69,11 @@ Two settings can be chosen for your new item in the [Item Properties](../appendi
 
 ### Duplicating an existing item
 
-You can make a copy of an already existing item by clicking on the *Duplicate* icon in the button bank under the library. A duplicate will then be created in the folder of the item you have duplicated, with the same name but with "bis" on the end.
+You can make a copy of an already existing item by clicking on the *Duplicate* ![Duplicate](../resources/_icons/copy.png) icon in the button bank under the library. A duplicate will then be created in the folder of the item you have duplicated, with the same name but with "bis" on the end.
 
 ### Copying an existing item
 
-You can make a copy of an already existing item by clicking on the *Copy to* icon in the button bank under the library. 
+You can make a copy of an already existing item by clicking on the *Copy To*  ![Copy To](../resources/_icons/copy.png) icon in the button bank under the library. 
 
 A dialog box will appear on the canvas. Select a destination folder, and click on *Copy*. A copy of the item will then be created in the folder you have selected, with the same name but with "bis" on the end.
 

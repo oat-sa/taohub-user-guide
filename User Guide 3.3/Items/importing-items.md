@@ -6,15 +6,15 @@ authors:
 
 # Importing Items
 
->If both computers have access to TAO, [Items](../appendix/glossary.md#item) and [Interactions](../appendix/glossary.md#interaction) can be imported from one computer to another, using an operation called *Import*.
+> [Items](../appendix/glossary.md#item) and [Interactions](../appendix/glossary.md#interaction) can be imported from one computer to another, using an operation called *Import*.
 
-**1.**  Click on *Items* on the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
+**1.**  Click on *Items* ![Items](../resources/_icons/item.png) on the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
 This will take you to the Item [Library](../appendix/glossary.md#library), which you will see on the left.
 
-**2.**  Click on the Item class (folder) in the library in which you wish to import the new item.
+**2.**  Click on the Item class (folder) ![class](../resources/_icons/folder.png) in the library in which you wish to import the new item.
 
-**3.**  Click on *Import* in the button bank below the library.
+**3.**  Click on *Import* ![class](../resources/_icons/import.png) in the button bank below the library.
 
 This opens a dialog box which asks you to select the format of the item to be imported. The supported input formats are: QTI (Question and Test Interoperability) packages or items, APIP (Accessible Portable Item Protocol) packages, RDF (Resource Description Framework) or CSV (Comma-Separated Values) files. Be sure that the Item to be imported is in this format, or the import won't work. 
 

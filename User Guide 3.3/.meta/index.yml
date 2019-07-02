@@ -1,6 +1,7 @@
 # User Guide
 toc:
   Introduction:
+    - 'About the guide'
     - 'What is TAO?'
     - 'Take a tour'
     - 'Installing TAO'
@@ -8,7 +9,6 @@ toc:
     - 'What is an item?'
     - 'Items: An Overview'
     - 'Creating a new item'
-    - 'Authoring Workflow'
     - 'Importing items'
     - 'Exporting items'
     - 'Moving or copying items'

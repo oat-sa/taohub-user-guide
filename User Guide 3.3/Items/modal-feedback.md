@@ -6,7 +6,7 @@ authors:
 
 # Modal Feedback
 
->Modal feedback can be defined as a message presented to the [Test-taker](../appendix/glossary.md#test-taker) outside of the [Item](../appendix/glossary.md#item), when the test-taker selects an answer. Feedback may be triggered by either a correct or an incorrect answer, depending on the conditions set by the test author. These are optional, but sometimes useful when you want to encourage the test-taker, or give a hint ("Good job!" "Keep trying!" etc.).
+>Modal feedback can be defined as a message presented to the [Test-taker](../appendix/glossary.md#test-taker) outside of the [Item](../appendix/glossary.md#item), when the test-taker selects an answer. Feedback may be triggered by either a correct or an incorrect answer, depending on the conditions set by the test author. 
 
 After you have created your [Interaction](../appendix/glossary.md#interaction), go to the *Response* window and follow the steps below if you would like the test-takers to receive modal feedback during this interaction.
 

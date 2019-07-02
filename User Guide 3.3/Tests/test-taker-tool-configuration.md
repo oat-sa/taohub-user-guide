@@ -1,8 +1,3 @@
-<!--
-tags: []
-
---> 
-
 # Test-taker Tools
 
 > The [Test-taker Tools](../appendix/glossary.md#test-taker-tools) comprise a set of tools designed to aid the [Test-taker](../appendix/glossary.md#test-taker) in various ways when taking [Tests](../appendix/glossary.md#test). Many of them are accommodation tools which aim to improve accessibility. The test-taker tools for a test can be found in the [Properties Panel](../appendix/glossary.md#properties-panel) on the right.
@@ -23,8 +18,10 @@ In each case, the test-taker tools will appear in the properties panel on the ri
 
 The Tools available are as follows:
  
-## Calculator
-This option provides the test-taker with a basic calculator.
+## Calculators
+TAO provides three different calculators, a simple one, a BODMAS and a scientific version. 
+
+_Note: If you select multiple calculators, only the most complex variety will be used!_
 ![Calculator](../resources/delivery/features/test-taker-tools/calculator.png)
  
 ## Answer Eliminator
@@ -57,7 +54,6 @@ The Zoom Tool allows the test-taker to zoom in on an area of an item.
 
 ## Text-to-speech
 The text-to-speech functionality allows the test-taker to hear the questions of a test being read aloud. *Note: This functionality is only available on the Premium Edition of TAO.*
-<!-- Missing Screenshot: Text-to-Speech --> 
 
 Configuration is now complete. Any test-takers taking the test will have access to the selected tools, for the sections or items specified.
 

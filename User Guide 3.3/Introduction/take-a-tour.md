@@ -11,7 +11,7 @@ authors:
 
 **Why use TAO?** 
 
-TAO helps you set up and organize all types of assessments([Deliveries](../appendix/glossary.md#delivery)) quickly and efficiently. TAO's simple architecture allows for the easy navigation of resources which enables you to re-use existing tests or parts of tests. You can also add new assessment material to previous assessments, including those used by other teachers or with other groups.
+TAO helps you set up and organize all types of assessments ([Deliveries](../appendix/glossary.md#delivery)) quickly and efficiently. TAO's simple architecture allows for the easy navigation of resources which enables you to re-use existing tests or parts of tests. You can also add new assessment material to previous assessments, including those used by other teachers or with other groups.
 
 **Putting an Assessment together**
 
@@ -25,7 +25,7 @@ Let's walk through the steps to create an assessment and manage your assessment 
 
 Test items prepared by other users may be available to you, as well as items you have prepared yourself for previous assessments.
 
-In TAO's [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar), select the Items![Items](../resources/_icons/item.png) icon and examine the test items that are already available in the Library on the left.
+In TAO's [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar), select the Items ![Items](../resources/_icons/item.png) icon and examine the test items that are already available in the Library on the left.
 
 If you do not have enough ready-to-go items, then you will need to create new ones utilizing TAO's Testing Item templates or PCI components.
 
@@ -35,7 +35,7 @@ If you do not have enough ready-to-go items, then you will need to create new on
 
 The Items page consists of three parts. On the left is the [Library](../appendix/glossary.md#library), where you can view the inventory of already existing items. In the center is the [Canvas](../appendix/glossary.md#canvas), where you can provide a label for a new Item and then author it, or edit the label, author or preview an exiting Item. And once you are _Authoring_ an item, the [Properties Panel](../appendix/glossary.md#properties-panel) will be on the right, where you can select component settings for your items, interactions, and tests, such as your chosen scoring method. This three-part layout is a common feature of the TAO system. 
 
-To create a new Item, you would select the New Item![New Item](../resources/_icons/item.png) icon on the bottom of the left panel. See the [Creating a new item section](../items/creating-a-new-item.md) for more details.
+To create a new Item, you would select the New Item ![New Item](../resources/_icons/item.png) icon on the bottom of the left panel. See the [Creating a new item section](../items/creating-a-new-item.md) for more details.
 
 **3.** Add interactions to your item.
 
@@ -49,7 +49,7 @@ For each type, the procedure to create interactions will vary. See detailed desc
 
 Once you have populated your item with interactions, you will need to build it into a test before you can use it in an assessment. A test can include one or more items. 
 
-To do this, select the Tests![Tests](../resources/_icons/test.png) icon  on TAO's assessment builder bar. You can add items to a test by selecting them from the Test Library. See the [Creating a new test section](../tests/creating-a-new-test.md) for more details.
+To do this, select the Tests ![Tests](../resources/_icons/test.png) icon  on TAO's assessment builder bar. You can add items to a test by selecting them from the Test Library. See the [Creating a new test section](../tests/creating-a-new-test.md) for more details.
 
 ![Creating a new Test](../resources/backend/tests/new-test.png)
 
@@ -61,7 +61,7 @@ You can try your test by setting up a dummy test-taker account, which you would 
 
 Students need to be registered as Test-takers in TAO before the first assessment. In most cases, this is done by the instructor or course administrator using student rosters. 
 
-To do this, select the Test-takers![Test-takers](../resources/_icons/test-taker.png) icon in the Assessment Builder Bar. See the [Creating test-takers section](../test-takers/creating-test-taker.md) for more details.
+To do this, select the Test-takers ![Test-takers](../resources/_icons/test-taker.png) icon in the Assessment Builder Bar. See the [Creating test-takers section](../test-takers/creating-test-taker.md) for more details.
 
 ![Creating new Test-takers](../resources/backend/test-takers/new-test-taker.png)
 
@@ -69,7 +69,7 @@ To do this, select the Test-takers![Test-takers](../resources/_icons/test-taker.
 
 After entering or uploading the [Test-taker profiles](../test-takers/creating-test-taker.md) of all your students in TAO, you will need to organize them into groups depending on which students are taking which assessments. It may be that an entire class of students is taking the same assessments, or it may be that you need to create smaller groups of test-takers for certain types of assessment.
 
-To do this, select the Groups![Groups](../resources/_icons/test-takers.png) icon in the assessment builder bar. See the [Creating a new group section](../groups/creating-a-new-group.md) for more details.
+To do this, select the Groups ![Groups](../resources/_icons/test-takers.png) icon in the assessment builder bar. See the [Creating a new group section](../groups/creating-a-new-group.md) for more details.
 
 ![Groups](../resources/backend/groups/groups.png)
 
@@ -79,7 +79,7 @@ Before students can take the assessment you have prepared, the test needs to be 
 
 Assembled deliveries only take a few moments to put together and govern when a test will be taken, which selected individuals or groups will take the test, and how long the test will last. 
 
-To do this, you will need to select Deliveries![Deliveries](../resources/_icons/delivery.png) icon in the assessment builder bar. See the [Creating a new delivery section](../deliveries/create-a-new-delivery.md) for more details.
+To do this, you will need to select Deliveries ![Deliveries](../resources/_icons/delivery.png) icon in the assessment builder bar. See the [Creating a new delivery section](../deliveries/create-a-new-delivery.md) for more details.
 
 ![Deliveries](../resources/backend/deliveries/deliveries.png)
 

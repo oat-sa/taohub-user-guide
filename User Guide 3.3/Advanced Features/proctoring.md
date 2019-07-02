@@ -1,8 +1,6 @@
 # Proctoring
 
-> The Proctoring extension allows the administrators of deliveries to monitor a [Delivery](../appendix/glossary.md#delivery). By assuming the role of proctor, a teacher or administrator is able to follow the progress of [Test-takers](../appendix/glossary.md#test-taker) sitting a [Test](../appendix/glossary.md#test), submit a report on the status of the delivery and also intervene if necessary.
- 
-> There are two roles involved: a [proctor](../appendix/glossary.md#proctor) and one or multiple test-takers.
+> The Proctoring extension allows the administrators of deliveries to monitor a [Delivery](../appendix/glossary.md#delivery). By assuming the role of proctor, a teacher or administrator is able to follow the progress of [Test-takers](../appendix/glossary.md#test-taker) sitting a [Test](../appendix/glossary.md#test), submit a report on the status of the delivery and also intervene if necessary. There are two roles involved, a [proctor](../appendix/glossary.md#proctor) and one or multiple test-takers.
  
 Follow the steps below to assign a proctor to a delivery.
 

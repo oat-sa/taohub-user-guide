@@ -11,7 +11,7 @@ authors:
 
 **1.**  Click on the [Items](../appendix/glossary.md#item) ![Items](../resources/_icons/item.png) icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
-**2.**  Click on either the Item folder (class)![class](../resources/_icons/folder.png) you want to export in the Item [Library](../appendix/glossary.md#library) on the left-hand side, OR click on *New class* in the button bank below the Library to create a new folder for the items you would like to export.
+**2.**  Click on either the Item folder (class) ![class](../resources/_icons/folder.png) you want to export in the Item [Library](../appendix/glossary.md#library) on the left-hand side, OR click on *New class* in the button bank below the Library to create a new folder for the items you would like to export.
 
 Creating a new [Class](../appendix/glossary.md#class) (i.e. a new folder) allows you to place items in a distinct location in order to be transferred from one computer to another. 
 

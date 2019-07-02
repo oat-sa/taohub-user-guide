@@ -58,17 +58,20 @@ From the library, select the item you wish to add, and then click on the blue bu
 See the [Test Settings section](../tests/tests-settings.md) for information on adjusting assessment settings such as the time/attempts to be allowed.
 
 <aside class="optional-extras">
+    
 ## Optional Extras
 
 ### Duplicating an existing test
 
 You can duplicate an already existing test by clicking on the *Duplicate* icon in the button bank under the library. A copy will then be created in the folder of the test you have duplicated, with the same name but with "bis" on the end.
 
-### Copying an existing test
+### Copying or moving an existing test
 
-You can make a copy of an already existing test by clicking on the *Copy to* icon in the button bank under the library. 
+You can make a copy of an already existing test by clicking on the *Copy To* icon ![Copy To](../resources/_icons/copy.png) in the button bank under the library. 
 
 A dialog box will appear on the canvas. Select a destination folder, and click on *Copy*. A copy of the test will then be created in the folder you have selected, with the same name but with "bis" on the end.
+
+*Move To* ![Move To](../resources/_icons/move-item.png) works exactly in the same fashion.
 
 ### Finding an existing test
 
@@ -85,28 +88,5 @@ A dialog box will appear on the canvas. Select a destination folder, and click o
 *Note: If the background tasks functionality is installed on your version of TAO, the publishing process will be transferred to it (shown in a circle to the left of the [Properties](../appendix/glossary.md#properties) icon on the assessment builder bar). Clicking on the circle opens the list of tasks, containing information about each one. You can see here when the delivery has been created.*   
  
 Open the delivery you have created to set the delivery properties in the same way you would when you create a delivery on the Deliveries page.
-
-
-### Granting user access
-
-As an administrator, you can permit a user certain access rights to specific folders (classes), items or tests. To do this, select a folder and then click on the *Access Control* icon in the button bank under the *library*.  
-
-This will bring up a window with the following:
-
-- A search bar for users, with a list of users with granted access
-- A search bar for roles, with a list of roles with granted access
-
-You can define the rights of every user or role by checking the relevant boxes below:
-
-- *Read* - allows the user to view the folder/item/test
-- *Write* - allows the user to edit the folder/item/test, or to create new ones in that folder
-- *Grant* - allows both of the above
- 
-Clicking the brown button *Remove* will delete a user or role from the list. 
-
-*Note: Unchecking all the boxes for a specific user/role will also remove them from the list.*
- 
-When you have checked the correct boxes, click the blue *Save* button to save your changes.
-
 
 </aside>

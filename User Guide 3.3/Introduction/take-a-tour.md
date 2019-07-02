@@ -5,7 +5,7 @@
 
 **Why use TAO?** 
 
-TAO helps you set up and organize all types of assessments ([Deliveries](../appendix/glossary.md#delivery)) quickly and efficiently. TAO's simple architecture allows for the easy navigation of resources which enables you to re-use existing tests or parts of tests. You can also add new assessment material to previous assessments, including those used by other teachers or with other groups.
+TAO helps you set up and organize all types of assessments quickly and efficiently. TAO's simple architecture allows for the easy navigation of resources which enables you to re-use existing tests or parts of tests. You can also add new assessment material to previous assessments, including those used by other teachers or with other groups.
 
 **Putting an Assessment together**
 

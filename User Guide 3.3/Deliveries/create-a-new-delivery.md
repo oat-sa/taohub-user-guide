@@ -10,11 +10,11 @@ authors:
 
 Now, let's walk through the steps of creating a delivery.
 
-**1.** Click on the Deliveries icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar). 
+**1.** Click on the _Deliveries icon_ [Delivery](../resources/_icons/delivery.png) in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar). 
 
-This will take you to the Deliveries page, and will show the last delivery which you, or the user before you, created. On the left-hand side of your screen you will see the [Delivery Library](../appendix/glossary.md#delivery-library) of existing deliveries. The last delivery which was created will be highlighted in the library. In this tour, however, you will create a new delivery.
+This will take you to the Deliveries page, and will show the last delivery that has been created. On the left-hand side of your screen you will see the [Delivery Library](../appendix/glossary.md#delivery-library) of existing deliveries. The last delivery which was created will be highlighted in the library. In this tour, however, you will create a new delivery.
 
-**2.**  Click on the *New delivery* icon in the button bank under the library.
+**2.**  Click on the *New delivery* icon [Delivery](../resources/_icons/delivery.png) in the button bank under the library.
 
 This brings up a dialog box entitled *Create a New Delivery*, which asks for a test selection. From the pull-down menu, select the test that is to be sent to test-takers in this delivery. Once selected, click *Publish*. 
 
@@ -42,8 +42,6 @@ As a test-taker you are presented with a list of all the deliveries which are as
 **Access:** If the *Guest Access* box is checked, people who are not registered as test-takers can view the delivery. This enables a test author or an administrator to preview the test without having to assign it to a [Test Center](../appendix/glossary.md#test-center) to try it out.
 
 **Test Runner Features:** Checking the *Security plugins* box ensures restricted access to the delivery by showing it in forced full-screen mode, and detects certain key presses, such as print screen for creating a screenshot. When combined with proctoring, the test will be halted upon detection of the relevant key presses, or of loss of focus (if the test-taker uses alt-tab or exits full screen mode).
-
-**Require Proctoring:** Checking the *Enable* box specifies proctoring as a default setting when the delivery is made eligible to a test center.
 
 **4.** Assign the test to a group of test-takers in the panes on the right of the [Properties Panel](../appendix/glossary.md#properties-panel).
 

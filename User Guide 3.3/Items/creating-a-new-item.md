@@ -67,13 +67,13 @@ Two settings can be chosen for your new item in the [Item Properties](../appendi
 
 ## Optional Extras
 
-### Duplicating an existing item ![Duplicate](../resources/_icons/copy.png)
+### Duplicating an existing item
 
-You can make a copy of an already existing item by clicking on the *Duplicate* icon in the button bank under the library. A duplicate will then be created in the folder of the item you have duplicated, with the same name but with "bis" on the end.
+You can make a copy of an already existing item by clicking on the *Duplicate* ![Duplicate](../resources/_icons/copy.png) icon in the button bank under the library. A duplicate will then be created in the folder of the item you have duplicated, with the same name but with "bis" on the end.
 
-### Copying an existing item ![Copy](../resources/_icons/copy.png)
+### Copying an existing item
 
-You can make a copy of an already existing item by clicking on the *Copy to* icon in the button bank under the library. 
+You can make a copy of an already existing item by clicking on the *Copy To*  ![Copy To](../resources/_icons/copy.png) icon in the button bank under the library. 
 
 A dialog box will appear on the canvas. Select a destination folder, and click on *Copy*. A copy of the item will then be created in the folder you have selected, with the same name but with "bis" on the end.
 

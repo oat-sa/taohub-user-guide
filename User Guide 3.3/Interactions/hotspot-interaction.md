@@ -37,6 +37,7 @@ This should cover such important information as what the background graphic repr
 To insert a rectangle, click on one corner and drag it across the intended area the Hotspot is supposed to cover. To insert a circle or ellipse, select its center and drag outward or inward until the Hotspot is the right size. To insert a polygon, begin at one corner, then click on each corner in succession until the Hotspot is complete. You can make all the shapes bigger or smaller (or in the case of polygons change the shape), but if necessary, click on the problem Hotspot, click the trash can to delete it, and then try again.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
@@ -55,6 +56,7 @@ By default, a test-taker receives one point per completely correct interaction, 
 See Optional Extras below for other scoring methods.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Processing a Response
 
 The following option is available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

@@ -6,9 +6,9 @@ authors:
 
 # Importing Items
 
-> Being able to share items is a great way to have consistency and TAO allows you to import items. Here you will walk through the process.
+> [Items](../appendix/glossary.md#item) and [Interactions](../appendix/glossary.md#interaction) can be imported from one computer to another, using an operation called *Import*. 
 
-[Items](../appendix/glossary.md#item) and [Interactions](../appendix/glossary.md#interaction) can be imported from one computer to another, using an operation called *Import*. The steps to import items is as follows.
+The steps to import items are as follows.
 
 **1.**  Click on *Items* ![Items](../resources/_icons/item.png) on the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 

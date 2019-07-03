@@ -13,7 +13,7 @@ This will turn the Properties Panel into a Style Editor panel. There are two par
 
 This will provide an interface similar to that of adding a graphic into a [Graphic Interaction](../appendix/glossary.md#graphic-interaction). You can use an existing style sheet by clicking the *Add file(s)* button and uploading it. 
 
-In all other cases, if you wish to format the style for this item only, use the Style Editor below to enter the settings you would like to use for this item. The style editor has three parts: (1) Color, (2) Font, and (3) Item width.
+If you wish to format the style for this item only, use the Style Editor below to enter the settings you would like to use for this item. The style editor has three parts: (1) Color, (2) Font, and (3) Item width.
 
 **3.** Adjust the colors to your liking.
 

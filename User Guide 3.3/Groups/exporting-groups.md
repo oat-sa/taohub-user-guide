@@ -12,7 +12,7 @@ authors:
 
 **2.**  Click either on a Class ![class](../resources/_icons/folder.png) or a Group symbol ![item](../resources/_icons/item.png) in the Group [Library](../appendix/glossary.md#library) on the left-hand side to select one or multiple groups.
 
-**3.**  After the selction, click *Export* in the button bank below the library.
+**3.**  After the selection, click *Export* in the button bank below the library.
 
 In the dialog box, confirm that the folder or group metadata file highlighted is the one that should be exported as a Resource Description Framework (RDF) file.
 

@@ -90,5 +90,54 @@ available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.h
 
 ### Templates
 
-- [Contribution](../resouces/contribution-template.md)
-- [Pull Request](../resouces/pr-template.md)
+Contribution Template
+
+```
+### Subject of the issue
+Describe your issue here.
+
+### Your environment
+* Which browser and version are you using?
+* Which PHP version are you using?
+* Which Database engine and version are you using?
+* Which Web server are you using?
+* Which extensions are installed, and what version are they?
+
+### Steps to reproduce
+Tell us how to reproduce this issue.
+
+### Expected behaviour
+Tell us what should happen
+
+### Actual behaviour
+Tell us what happens instead
+
+```
+
+Pull Request Template
+
+```
+_Before you submit a pull request, please make sure you have to following:_
+
+- [ ] The title of this pull request offers a good description of what is changed (as it is used in release notes).
+- [ ] Your branch follows the [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) branching model.
+- [ ] The code follows the [best practices (to be defined)](#).
+- [ ] The functionality has been manually tested (if applicable).
+- [ ] The update script has been run, and causes no issues.
+- [ ] The functionality has been tested after a clean install.
+- [ ] A new unit test has been created, or the existing test has been updated.
+- [ ] All new and existing tests passed.
+- [ ] The module version has been bumped in both the manifest.php, and Updater.php files.
+
+---
+**Depends on**
+- [ ] List other pull requests that depend on this pull request
+- [ ] Also list pull requests that require this pull request
+---
+
+Describe the changes you made in your pull request here
+
+**Testing the changes**
+
+Please provide a description of how to test the changes made in this pull request.
+```

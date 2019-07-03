@@ -7,7 +7,7 @@
 
 [Interactions](../appendix/glossary.md#interaction) serve as the basic unit for [Test-taker](../appendix/glossary.md#test-taker) responses. Items may be made up of one or several related interactions. As such, the term *Interaction* should not be considered interchangeable with the term [Item](../items/what-is-an-item.md). 
 
-There are four categories of Interactions: common, inline, graphic, and custom or PCI. There are 17 interactions recognized by the QTI standard.
+There are four categories of Interactions: common, inline, graphic, and custom or PCI. There are currently 17 interactions recognized by the QTI standard.
 
 In TAO, interactions include the mechanisms used to score the interaction itself. 
 

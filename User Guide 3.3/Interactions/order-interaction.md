@@ -1,18 +1,12 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Order Interaction
 
->The Order [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge of a particular order of elements: chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
+> The Order [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge of a particular order of elements: chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
 
 [![Order Interaction](https://img.youtube.com/vi/ocF1RrjKZTI/hqdefault.jpg)](https://youtube.com/watch?v=ocF1RrjKZTI&rel=0 "Order Interaction")
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Order interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Order* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Order* icon  ![Order](../resourse/_icons/order.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This creates a new Order Interaction window. There is a question field at the top, with two boxes underneath.
 

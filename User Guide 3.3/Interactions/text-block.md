@@ -5,7 +5,7 @@
 > Text Blocks are represented by the icon ![Block](../resourse/_icons/font.png) in the [Interactions Library](../appendix/glossary.md#interactions-library) on the left, under [Inline Interactions](../appendix/glossary.md#inline-interactions).
 
    
-**1.** Using Text Blocks in Inline interactions
+**1.** Using Text Blocks with Inline interactions
 
 After you have created a new [Item](../appendix/glossary.md#item), drag a *Text Block*  ![Block](../resourse/_icons/font.png) from the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 

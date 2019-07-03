@@ -14,7 +14,7 @@ To enter your text, click inside the text field.
 
 ![Text Entry Interaction](../resources/backend/items/authoring-89.png)
 
-**2.** Once you have entered the text, drag the *Text Entry* icon from the Inline Interactions library to the space next to where the test-taker will be expected to *fill in the blank*.
+**2.** Once you have entered the text, drag the *Text Entry* icon ![Text Entry](../resourse/_icons/text-entry.png) from the Inline Interactions library to the space next to where the test-taker will be expected to *fill in the blank*.
 
 This creates a pop-up window containing the blank, which is to be filled by the test-taker. No changes can be made here: the window just confirms that you have created the blank. However, a correct answer will need to be selected and this is done in the *Response* mode.
 

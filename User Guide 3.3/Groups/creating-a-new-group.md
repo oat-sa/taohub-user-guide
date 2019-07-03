@@ -16,7 +16,7 @@ This will take you to the Groups page, and will show the last group which you, o
 
 ![Creating a New Group](../resources/backend/groups/new-group.png)
 
-**2.**  Click on the *New Group* ![Group](../resources/_icons/test-takers.png) icon in the button bank under the library to create a new group.
+**2.**  Click on the *New Group* icon ![Group](../resources/_icons/test-takers.png) in the button bank under the library to create a new group.
 
 This brings up dialog box entitled *Edit group* for the newly created group. If desired, rename the group through the *Label* field, and then click the blue *Save* button.
 

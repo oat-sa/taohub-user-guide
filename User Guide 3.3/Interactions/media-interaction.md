@@ -1,9 +1,3 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Media Interaction
 
 >The Media [Interaction](../appendix/glossary.md#interaction) allows [Test-takers](../appendix/glossary.md#test-taker) to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction.
@@ -14,7 +8,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 
 **1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Media* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
-**2.** From the Common Interactions library, drag the *Media* icon onto the blank item and drop the resulting box in the blue field that appears.
+**2.** From the Common Interactions library, drag the *Media* icon ![Media](../resourse/_icons/media.png) onto the blank item and drop the resulting box in the blue field that appears.
 
 A [Resource Manager](../appendix/glossary.md#resource-manager) window will appear with which you can select a media file. You can re-use a media file already in the resource manager, or you can upload a new one (note that size and file type restrictions apply). To select one from the list of previously uploaded media, highlight the appropriate one in the resource manager list and click the green *Select* button. To upload a new one, click on the blue *Add file(s)* button to browse the files on your computer, and then upload one to the resource manager by clicking the green *Upload* button.
 

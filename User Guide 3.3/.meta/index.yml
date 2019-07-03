@@ -40,8 +40,9 @@ toc:
     - 'Graphic Gap Interaction'
     - 'Select Point Interaction'
     - 'Portable Custom Interactions'
-    - 'Text Block'
     - 'End Attempt'
+    - 'Text Block'
+    - 'Shared Stimulus'
   Tests:
     - 'What is a test?'
     - 'Tests: An Overview'

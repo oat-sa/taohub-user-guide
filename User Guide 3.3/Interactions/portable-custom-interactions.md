@@ -1,8 +1,3 @@
-<!--
-tags: []
-
--->
-
 # PC Interactions
 
 
@@ -24,18 +19,10 @@ The following types of PCI are part of the standard TAO package: *Audio, Likert,
 - **Liquid**: A *Liquid* interaction, developed to showcase the possibilities of PCIs, contains a simple simulation of a liquid container. The container has a scale on the left-hand side. This type of interaction can be used to ask questions about volume. To record the correct answer, click on *Response* and then click inside the cube at the desired point. If the answer is "5 liters", for example, click in the cube at the level of the 5 on the scale on the left-hand side, and the cube will 'fill' to that level with a simulated blue liquid.
 
 
-
 ![Liquid-Interaction](../resources/backend/items/authoring-111.png)
 
-- **Text reader**: A *Text Reader* interaction provides a space for a simple reading passage, and offers the possibility of scrolling and paging. *Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your test reader item, and inserting features such as shared stimuli or media, tables or formulae.*
-
-
-
-<!-- Missing Screenshot: Text Reader Interaction -->
 
 - **Math Entry**: A *Math Entry* Interaction employs a Math Editor, which allows for the use of mathematical symbols in the interaction. The editor provides a list of mathematical symbols and an empty text field. Please note that the editor only provides the possibility of drawing mathematical symbols, but does not carry out any calculation. See the [Math Expressions section](../items/math-expressions.md) for more information on how to use the Math Editor.
-
-
 
 ![Math-Entry-Interaction](../resources/backend/items/authoring-113.png)
 

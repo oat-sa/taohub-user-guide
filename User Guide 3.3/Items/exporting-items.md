@@ -1,6 +1,8 @@
 # Exporting Items
 
-> Interactions can be put together into Items on almost any computer that has access to TAO. However, there will be situations in which sharing Items will be useful. For instance, two teachers who teach the same course may collaborate and share the responsibility of creating questions for an upcoming Test. This can be done in a few easy steps.
+> Sometimes it is necessary to export your items from TAO either for sharing or backing them up. Here youo will walk through the process.
+
+Interactions can be put together into Items on almost any computer that has access to TAO. However, there will be situations in which sharing Items will be useful. For instance, two teachers who teach the same course may collaborate and share the responsibility of creating questions for an upcoming Test. This can be done in a few easy steps.
 
 **1.**  Click on the [Items](../appendix/glossary.md#item) ![Items](../resources/_icons/item.png) icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 

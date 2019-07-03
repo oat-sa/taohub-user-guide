@@ -20,7 +20,7 @@ A list of mathematical symbols will appear, with an empty text field below.
 
 **2.** Click on the mathematical symbols you wish to use.
 
-These will appear in the text field. They can then be used in the writing of mathematical formulae, such as questions on geometry.
+These will appear in the text field and can then be used in the writing of mathematical formulae, such as questions on geometry.
 
 *Note: The Formula Editor only provides the possibility of drawing mathematical symbols, but does not carry out any calculation.*
 

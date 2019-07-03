@@ -6,7 +6,9 @@ authors:
 
 # Exporting Groups
 
->Formal [Groups](../appendix/glossary.md#group) of [Test-takers](../appendix/glossary.md#test-taker), such as laboratory or lecture groups, may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing the metadata of formal test-taker groups will be useful. For instance, an instructor may need to transfer metadata for an entire class to a substitute or replacement teacher during an absence. Test-taker groups can be shared in a few easy steps.
+>Formal [Groups](../appendix/glossary.md#group) of [Test-takers](../appendix/glossary.md#test-taker), such as laboratory or lecture groups, may be assembled on almost any computer that has access to TAO. However, there will be situations in which sharing the metadata of formal test-taker groups will be useful. For instance, an instructor may need to transfer metadata for an entire class to a substitute or replacement teacher during an absence. 
+
+Test-taker groups can be shared in a few easy steps.
 
 **1.**  Click on the Groups icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 

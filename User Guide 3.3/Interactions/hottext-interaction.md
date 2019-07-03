@@ -12,7 +12,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Hottext interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Hottext* icon ![Hot Text](../resourses/_icons/hottext.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Hottext* icon ![Hot Text](../resources/_icons/hottext.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This creates a new Hottext Interaction window. There is a question field at the top, followed by a space (containing a sample text) in which to place the text containing the phrases to be highlighted as Hottext elements.
 

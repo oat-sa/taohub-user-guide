@@ -13,7 +13,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Order interaction:
 
-**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Order* icon ![Graphic Order](../resourses/_icons/graphic-order.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Order* icon ![Graphic Order](../resources/_icons/graphic-order.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 ![Graphic Order Interaction](../resources/backend/items/authoring/done-9.png)
 

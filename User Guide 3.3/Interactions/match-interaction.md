@@ -6,7 +6,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 
 [![Match Interaction](https://img.youtube.com/vi/zxjFjmFAQ3s/hqdefault.jpg)](https://youtube.com/watch?v=zxjFjmFAQ3s&rel=0 "Match Interaction")
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Match* icon ![Match](../resourses/_icons/match.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Match* icon ![Match](../resources/_icons/match.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This creates a new Match Interaction window. There is a question field at the top, and a default 2-row-by-2-column matrix beneath this.
 

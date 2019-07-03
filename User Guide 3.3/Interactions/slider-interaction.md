@@ -7,7 +7,7 @@
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Slider interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Slider* icon ![Sliuder](../resourses/_icons/slider.png) onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Slider* icon ![Sliuder](../resources/_icons/slider.png) onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
 
 This creates a new Slider interaction window. There is a question field at the top, followed by a graphical control element (a 'slider') indicating the scale covered by the answers to the question. Below the slider is the current value depicted by the slider ("0").
 

@@ -8,11 +8,11 @@
  
 The *End attempt* option can be added to a test item by means of an inline interaction inserted into a text block. 
 
-After you have created a new Item, a [Text Block](../appendix/glossary.md#text-block) is inserted by dragging a *Text Block* ![Block](../resourses/_icons/font.png) from the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, onto the blank Item and dropping it onto the [Canvas](../appendix/glossary.md#canvas). This creates a field (containing a sample text).
+After you have created a new Item, a [Text Block](../appendix/glossary.md#text-block) is inserted by dragging a *Text Block* ![Block](../resources/_icons/font.png) from the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, onto the blank Item and dropping it onto the [Canvas](../appendix/glossary.md#canvas). This creates a field (containing a sample text).
 
 ![End Attempt Interaction](../resources/backend/items/authoring-91.png)
 
-To insert the *End Attempt* button, drag the *End Attempt* icon  ![End Attempt](../resourses/_icons/end-attempt.png) from the Inline Interactions library below *Common Interactions* on the left, onto the text field and drop it onto the canvas.
+To insert the *End Attempt* button, drag the *End Attempt* icon  ![End Attempt](../resources/_icons/end-attempt.png) from the Inline Interactions library below *Common Interactions* on the left, onto the text field and drop it onto the canvas.
 
 A blue button will appear in the text box, reading *End Attempt*.
 

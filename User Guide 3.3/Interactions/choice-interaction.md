@@ -6,7 +6,7 @@
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Choice Interaction: 
   
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Choice* ![Choice](../resourses/_icons/choice.png) icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Choice* ![Choice](../resources/_icons/choice.png) icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This provides the answer choices for your choice interaction.
 

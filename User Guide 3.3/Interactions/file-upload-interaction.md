@@ -12,7 +12,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new File Upload Interaction.
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *File Upload* icon ![File Upload](../resourses/_icons/file-upload.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *File Upload* icon ![File Upload](../resources/_icons/file-upload.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new File Upload Interaction window. There is a question/prompt field at the top, and a *Browse* box with which to upload the desired submission.
 

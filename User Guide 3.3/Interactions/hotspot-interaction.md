@@ -14,7 +14,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Hotspot interaction:
 
-**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Hotspot* icon ![Hotspot](../resourses/_icons/hotspot.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Hotspot* icon ![Hotspot](../resources/_icons/hotspot.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 ![Hotspot Interaction](../resources/backend/items/authoring/done-3.png)
 

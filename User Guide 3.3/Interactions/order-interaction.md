@@ -6,7 +6,7 @@
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Order interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Order* icon  ![Order](../resourses/_icons/order.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Order* icon  ![Order](../resources/_icons/order.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This creates a new Order Interaction window. There is a question field at the top, with two boxes underneath.
 

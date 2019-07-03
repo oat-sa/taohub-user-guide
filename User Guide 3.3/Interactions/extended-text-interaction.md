@@ -8,7 +8,7 @@
 
 Once you have generated a new item, and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Extended Text Interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Extended Text* icon ![Extended Text](../resourses/_icons/extended-text.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Extended Text* icon ![Extended Text](../resources/_icons/extended-text.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Extended Text Interaction window. There is a question field at the top, with an *extended text field* below it. 
 

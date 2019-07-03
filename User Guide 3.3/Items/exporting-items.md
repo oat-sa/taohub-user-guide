@@ -4,7 +4,7 @@
 
 **1.**  Click on the [Items](../appendix/glossary.md#item) ![Items](../resources/_icons/item.png) icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
-**2.**  Click either on an Class ![class](../resources/_icons/folder.png) or an Item symbol ![item](../resources/_icons/item.png) in the Item [Library](../appendix/glossary.md#library) on the left-hand side to select one or multiple items.
+**2.**  Click either on a Class ![class](../resources/_icons/folder.png) or an Item symbol ![item](../resources/_icons/item.png) in the Item [Library](../appendix/glossary.md#library) on the left-hand side to select one or multiple items.
 
 **3.**  After the selection, click *Export* ![export](../resources/_icons/export.png) in the button bank below the library.
 

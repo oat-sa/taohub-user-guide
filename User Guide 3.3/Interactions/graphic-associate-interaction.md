@@ -38,6 +38,7 @@ After the Hotspots are inserted, set the number of Hotspot matches that the test
 
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Creating a Task
 
 The following options are available in the Interaction Properties panel on the right.
@@ -59,6 +60,7 @@ By default, a test-taker receives one point per completely correct interaction, 
 See Optional Extras below for other scoring methods.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

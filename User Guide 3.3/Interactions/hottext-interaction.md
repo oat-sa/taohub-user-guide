@@ -31,6 +31,7 @@ The test-taker will choose the best option Hottext elements.
 This will create a Hottext element within the text. Typically, there will be one word or phrase that matches the type being sought, and several additional words or phrases that might be similar to the type being sought. There might be cases where more than one option is correct, or where none of the options are correct. At the end of the text, you can add a final Hottext element which allows the test-taker to state that there is no correct selection (e.g. "No error.")
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Creating a Task
 
 The following option is available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
@@ -45,6 +46,7 @@ You can specify the minimum and maximum number of Hottext choices the Test-taker
 This will produce the same window as before, but you now have the possibility of placing checkmarks by the right answer(s). Check all that apply.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

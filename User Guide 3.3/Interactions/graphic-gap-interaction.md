@@ -50,6 +50,7 @@ Once all the images are the correct size, click on the blue *Add file(s)* button
 After uploading the images, select the first answer graphic for the first slot, and repeat for all subsequent slots.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.

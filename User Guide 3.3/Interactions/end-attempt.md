@@ -1,14 +1,6 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # End Attempt
 
 >[End Attempt](../appendix/glossary.md#end-attempt) offers [Test-takers](../appendix/glossary.md#test-taker) the possibility of exiting from a particular [Item](../appendix/glossary.md#item) in a [Test](../appendix/glossary.md#test) without completing it.
-
-> The *End Attempt* icon can be found in the [Interactions Library](../appendix/glossary.md#interactions-library) on the left, under [Inline Interactions](../appendix/glossary.md#inline-interactions).
 
 *Note: Strictly speaking, the End Attempt interaction is not an interaction, but is implemented as such for the test-taker to be able to end his/her attempt at an item*
 

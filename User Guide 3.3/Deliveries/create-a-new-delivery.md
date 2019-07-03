@@ -8,7 +8,7 @@ authors:
 
 >Assembled [Deliveries](../deliveries/what-is-a-delivery.md) provide the means of publishing and administering [Tests](../appendix/glossary.md#test). These govern when a test is taken by selected individual or [Groups](../appendix/glossary.md#group) of [Test-takers](../appendix/glossary.md#test-taker) and how long tests will be. A delivery can only be assembled after the creation of [Interactions](../appendix/glossary.md#interaction), the assembly of the test, the creation of test-taker profiles, and the gathering of test-takers into formal groups.
 
-Now, let's walk through the steps of creating a delivery.
+Let's walk through the steps of creating a delivery.
 
 **1.** Click on the _Deliveries icon_ [Delivery](../resources/_icons/delivery.png) in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar). 
 

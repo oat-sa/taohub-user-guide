@@ -1,9 +1,3 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Associate Interaction
 
 >The Associate [Interaction](../appendix/glossary.md#interaction) assesses the [Test-taker's](../appendix/glossary.md#test-taker) ability to match associated words or phrases. 
@@ -18,7 +12,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 
 This opens a new Associate Interaction window. There is a question field at the top, two *answer tile* options below this, and then an example of linked boxes at the bottom.
 
-**2.** Fill in the question field where it says 'define prompt', describing the associations (matches) being sought.
+**2.** Fill in the question field where it says _define prompt_, describing the associations (matches) being sought.
 
 This could be in the form of a question ("Which country goes with which capital city?") or instructional ("Match the country with the capital city."). 
 
@@ -26,7 +20,7 @@ This could be in the form of a question ("Which country goes with which capital 
 
 *Drag-and-drop is enabled for this type of interaction. Test-takers can also use click-and-click to move objects; this is an accessibility feature for test-takers with trouble using drag-and-drop.*
 
-**3.** Fill in the *answer tiles* for the question. 
+**3.** Fill in the _answer tiles_ for the question. 
 
 You will need more than two, so select *Add choice* as many times as is needed to provide all the options to be made available to the test-taker.
 

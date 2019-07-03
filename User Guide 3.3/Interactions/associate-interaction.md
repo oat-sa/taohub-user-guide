@@ -22,7 +22,7 @@ This could be in the form of a question ("Which country goes with which capital 
 
 **3.** Fill in the _answer tiles_ for the question. 
 
-You will need more than two, so select *Add choice* as many times as is needed to provide all the options to be made available to the test-taker.
+You will need more than two, so select *Add choice* as many times as needed to provide all the options to be made available to the test-taker.
 
 *Note: We recommend adding the appropriate matches first (e.g. the correct countries and capitals) in separate tiles first, and then adding the incorrect (unmatched) options.* 
 
@@ -33,7 +33,7 @@ The following options are available in the [Interaction Properties Panel](../app
 
 ### Shuffling the choices
 
-Check the *Shuffle choices* box. This will help disguise the matched pairs you have entered for the question. If this is not clicked, how you've entered the tiles will be how they will appear to the test-taker.
+Check the *Shuffle choices* box. This will help disguise the matched pairs you have entered for the question. If this is not clicked, how you've entered the tiles will be how they appear to the test-taker.
 
 ### Limiting the use of a choice
 

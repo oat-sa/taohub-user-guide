@@ -14,7 +14,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Associate Interaction:
 
-**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Associate* icon ![Graphic Associate](../resourse/_icons/graphic-associate.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Associate* icon ![Graphic Associate](../resourses/_icons/graphic-associate.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 **2.** Choose the desired background graphic.
 

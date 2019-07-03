@@ -12,7 +12,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new gap match interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Gap Match* icon ![Graphic Gap Match](../resourse/_icons/graphic-gap-match.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Gap Match* icon ![Graphic Gap Match](../resourses/_icons/graphic-gap-match.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Gap Match Interaction window. There is a question field at the top, a middle field for the words which are to be matched, and a lower field for the gapped text, which contains a sample text.
 

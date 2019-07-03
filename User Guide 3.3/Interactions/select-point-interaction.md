@@ -8,7 +8,7 @@
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Select Point Interaction:
 
-**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Select Point* icon ![Select Point](../resourse/_icons/select-point.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Select Point* icon ![Select Point](../resourses/_icons/select-point.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 **2.** Choose the desired background graphic.
 

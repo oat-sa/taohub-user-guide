@@ -34,7 +34,7 @@ A list of all the test-takers who are logged in for this session will appear. Yo
 
 You can now carry out the following actions for this delivery:
 
-![Possible Actions when Proctoring](../resources/proctoring/proctor-view/test-takers/all-started-and selected.png)
+![Possible Actions when Proctoring](../resources/proctoring/proctor-view/test-takers/all-started-and-selected.png)
 
 - **Authorize**: authorize a test-taker or group of test-takers to start the session
 

@@ -12,7 +12,7 @@ Test-taker groups can be shared in a few easy steps.
 
 **1.**  Click on the Groups icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
-**2.**  Click either on a Class ![class](../resources/_icons/folder.png) or a Group symbol ![item](../resources/_icons/item.png) in the Group [Library](../appendix/glossary.md#library) on the left-hand side to select one or multiple groups.
+**2.**  Click either on the Class ![class](../resources/_icons/folder.png) or Group ![item](../resources/_icons/item.png) symbol in the Group [Library](../appendix/glossary.md#library) on the left-hand side to select one or multiple groups.
 
 **3.**  After the selection, click *Export* in the button bank below the library.
 

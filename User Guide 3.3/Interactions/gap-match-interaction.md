@@ -41,6 +41,7 @@ Repeat as many times as is needed to adequately assess the test-taker's knowledg
 Placing additional words into the match word field may prevent test-takers from successfully using "process of elimination" as a strategy.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
@@ -64,6 +65,7 @@ If you want to prevent test-takers from continuing to the next question without 
 To define the correct answers, drag and drop the correct match words from the match word field onto the corresponding gaps in your text. 
 
 <aside class="optional-extras">
+
 ## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

@@ -26,6 +26,7 @@ Repeat the above for each place in the text where you would like to the test-tak
 *Note: Remember to remove the actual words from the text that the Inline Choice blanks are designed to replace.*
 
 <aside class="optional-extras">
+ 
 ## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
@@ -47,6 +48,7 @@ If you want to prevent test-takers from continuing to the next question without 
 This produces the same selection of options that the Test-taker will see. Simply select the correct response to set the right answer.
 
 <aside class="optional-extras">
+ 
 ## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

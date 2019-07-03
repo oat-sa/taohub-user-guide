@@ -13,7 +13,7 @@ This section provides an overview of how to manage your interactions, including 
 - [Associate Interaction](../interactions/associate-interaction)
 - [Match Interaction](../interactions/match-interaction)
 - [Hottext Interaction](../interactions/hottext-interaction)
-- [Gap Match Interaction](../interactions/gap match-interaction)
+- [Gap Match Interaction](../interactions/gap-match-interaction)
 - [Slider Interaction](../interactions/slider-interaction)
 - [Extended Text Interaction](../interactions/extended-text-interaction)
 - [File Upload Interaction](../interactions/file-upload-interaction)

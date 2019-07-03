@@ -25,7 +25,7 @@ Highlight the file you have chosen as your background by clicking on it, and it 
 A new authoring window will appear with the media shown in the center of the canvas. Above the media file there is a question field.
 
 
-**3.** Fill in the question field, where it says 'define prompt'. 
+**3.** Fill in the question field, where it says _define prompt_. 
 
 This will describe the task given to the test-taker ("View the following film", "Listen to the inflections in the following sound recording", etc.).
 

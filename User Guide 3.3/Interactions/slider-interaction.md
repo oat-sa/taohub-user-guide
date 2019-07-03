@@ -1,9 +1,3 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Slider Interaction
 
 >The Slider [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge of a numerical type, such as a percentage, a total, etc. The answer is conveyed by sliding an indicator on a horizontal scale.
@@ -17,7 +11,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 
 This creates a new Slider interaction window. There is a question field at the top, followed by a graphical control element (a 'slider') indicating the scale covered by the answers to the question. Below the slider is the current value depicted by the slider ("0").
 
-**2.** Fill in the question field, where it says 'define prompt'. 
+**2.** Fill in the question field, where it says _define prompt_. 
 
 This will describe the task given to the test-taker, typically a question involving numbers or a fraction, etc. 
 

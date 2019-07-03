@@ -16,7 +16,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 
 This creates a new Hottext Interaction window. There is a question field at the top, followed by a space (containing a sample text) in which to place the text containing the phrases to be highlighted as Hottext elements.
 
-**2.** Fill in the question field, where it says 'define prompt'.
+**2.** Fill in the question field, where it says _define prompt_.
 
 This will describe the task given to the test-taker ("Find the mistakes", "Pick the capital city", etc.). 
 

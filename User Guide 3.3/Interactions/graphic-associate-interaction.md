@@ -24,7 +24,7 @@ Highlight the file you have chosen as your background by clicking on it, and it 
 
 A new authoring window will appear with the background graphic in the center of the canvas. Above the graphic there is a question field. On the left there is an [Associable Hotspot Panel](../appendix/glossary.md#associable-hotspot-panel) for inserting selected shapes that will represent *[Associable Hotspots](../appendix/glossary.md#associable-hotspots)* into the background graphic (these include four different shapes: rectangle, circle, ellipse, and polygon). Below the Hotspot Panel there is a trash can icon, which allows you to delete a poorly-placed or misshapen Hotspot. Below the background graphic is a gap match field for entering the answers (in the form of graphic elements).
 
-**3.** Fill in the question field, where it says 'define prompt'. 
+**3.** Fill in the question field, where it says _define prompt_. 
 
 This should cover such important information as what the background graphic represents, and what the Test-taker is supposed to do in this interaction.  
 

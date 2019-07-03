@@ -16,7 +16,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 
 This opens a new File Upload Interaction window. There is a question/prompt field at the top, and a *Browse* box with which to upload the desired submission.
 
-**2.** Fill in the question field, where it says 'define prompt'. 
+**2.** Fill in the question field, where it says _define prompt_. 
 
 Add an instruction for the test-taker to submit work, such as *Upload document*.
 

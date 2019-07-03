@@ -1,13 +1,12 @@
 # Choice Interaction
 
->Choice [Interactions](../appendix/glossary.md#interaction) or multiple choice question, present a test type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where a large quantity of test questions need to be covered in a short exam period.
+ >Choice [Interactions](../appendix/glossary.md#interaction) or multiple choice question, present a test type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where a large quantity of test questions need to be covered in a short exam period.
 
 [![How to Create a Multiple-Choice Item Using TAO](https://img.youtube.com/vi/8upgdOSTKK0/hqdefault.jpg)](https://youtube.com/watch?v=8upgdOSTKK0&rel=0 "How to Create a Multiple-Choice Item Using TAO")
 
-
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Choice Interaction: 
   
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Choice* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Choice* ![Choice](../resourse/_icons/choice.png) icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This provides the answer choices for your choice interaction.
 

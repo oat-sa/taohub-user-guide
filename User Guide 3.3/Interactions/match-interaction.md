@@ -16,7 +16,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 
 This creates a new Match Interaction window. There is a question field at the top, and a default 2-row-by-2-column matrix beneath this.
 
-**2.** Fill in the question field, where it says 'define prompt'.
+**2.** Fill in the question field, where it says _define prompt_.
 
 This should describe the match task expected of the test-taker.
 

@@ -24,7 +24,7 @@ Highlight the file you have chosen as your background by clicking on it, and it 
 
 A new authoring window will appear with the background graphic in the center of the canvas. Above the graphic there is a question field.
 
-**3.** Fill in the question field, where it says 'define prompt'. 
+**3.** Fill in the question field, where it says _define prompt_. 
 
 This should cover such important information as what the background graphic represents, and what the test-taker is expected to select in this interaction. 
 

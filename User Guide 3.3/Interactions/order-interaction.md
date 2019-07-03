@@ -16,7 +16,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 
 This creates a new Order Interaction window. There is a question field at the top, with two boxes underneath.
 
-**2.** Enter the question in the question field, where it says 'define prompt'.
+**2.** Enter the question in the question field, where it says _define prompt_.
 
 This will describe the task given to the test-taker ("Place the following in chronological order", etc.). 
 

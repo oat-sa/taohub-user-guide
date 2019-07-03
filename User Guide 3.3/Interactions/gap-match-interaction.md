@@ -16,7 +16,7 @@ Once you have generated a new [Item](../appendix/glossary.md#item), and clicked 
 
 This opens a new Gap Match Interaction window. There is a question field at the top, a middle field for the words which are to be matched, and a lower field for the gapped text, which contains a sample text.
 
-**2.** Fill in the question field, where it says 'define prompt'. 
+**2.** Fill in the question field, where it says _define prompt_. 
 
 Typically this will be some variation of "Fill in the gaps from the following word set." 
 

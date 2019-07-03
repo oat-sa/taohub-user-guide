@@ -1,14 +1,8 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Exporting Results
 
->[Results Tables](../appendix/glossary.md#results-table) may be set up on almost any computer that has access to TAO. However, there will be situations in which posting [Results](../appendix/glossary.md#results) on another system will be useful. Transferring results tables to another device can be carried out in a few easy steps.
+> [Results Tables](../appendix/glossary.md#results-table) may be set up on almost any computer that has access to TAO. However, there will be situations in which posting [Results](../appendix/glossary.md#results) on another system will be useful. Transferring results tables to another device can be carried out in a few easy steps.
 
-**1.**  Click on the Results icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
+**1.**  Click on the Results icon ![Results](../resources/_icons/result.png) in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
 This will show the last results table which you, or the user before you, opened. On the left-hand side of your screen you will see the [Library](../appendix/glossary.md#library) of existing results for specific [Deliveries](../appendix/glossary.md#delivery).
 

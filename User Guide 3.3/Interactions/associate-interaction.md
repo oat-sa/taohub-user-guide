@@ -1,6 +1,6 @@
 # Associate Interaction
 
->The Associate [Interaction](../appendix/glossary.md#interaction) assesses the [Test-taker's](../appendix/glossary.md#test-taker) ability to match associated words or phrases. 
+> The Associate [Interaction](../appendix/glossary.md#interaction) assesses the [Test-taker's](../appendix/glossary.md#test-taker) ability to match associated words or phrases. 
 
 For a quick glimpse of how to create an Associate Interaction in TAO, please watch the following video.
 
@@ -8,7 +8,7 @@ For a quick glimpse of how to create an Associate Interaction in TAO, please wat
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Associate Interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Associate* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Associate* icon ![Associate](../resourse/_icons/associate.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Associate Interaction window. There is a question field at the top, two *answer tile* options below this, and then an example of linked boxes at the bottom.
 

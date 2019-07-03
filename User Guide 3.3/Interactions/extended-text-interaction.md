@@ -1,12 +1,6 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Extended Text Interaction
 
->The Extended Text [Interaction](../appendix/glossary.md#interaction) provides the means of examining the [Test-taker's](../appendix/glossary.md#test-taker) ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.
+> The Extended Text [Interaction](../appendix/glossary.md#interaction) provides the means of examining the [Test-taker's](../appendix/glossary.md#test-taker) ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.
 
 >Usually, these [Items](../appendix/glossary.md#item) are scored manually by a human scorer. In TAO 3.2, authors can define outcome variables on the item level for scoring rubrics, for example for grammar, spelling, and contents.
 
@@ -14,11 +8,11 @@ authors:
 
 Once you have generated a new item, and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Extended Text Interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Extended Text* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Extended Text* icon ![Extended Text](../resourse/_icons/extended-text.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Extended Text Interaction window. There is a question field at the top, with an *extended text field* below it. 
 
-**2.** Fill in the question field, where it says 'define prompt'. 
+**2.** Fill in the question field, where it says _define prompt_. 
 
 The test-taker will be expected to remember the answer exactly, without any variation. Even an extra space will result in the answer being marked as incorrect. 
 

@@ -2,7 +2,7 @@
 
 > Completed [Items](../appendix/glossary.md#item) or [Interactions](../appendix/glossary.md#interaction) can be previewed to determine what they look like on various screen sizes.
 
-Previewing typically takes place after clicking *Done* for the completed Interaction. This will bring up the completed interaction on the [Canvas](../appendix/glossary.md#canvas). On the [Action Bar](../appendix/glossary.md#action-bar) above the canvas there is a series of buttons, including *Save*, *Preview*, and *Print*.
+Previewing typically takes place after clicking *Done* for the completed Interaction. This will bring up the completed interaction on the [Canvas](../appendix/glossary.md#canvas). The ability to preview is on the [Action Bar](../appendix/glossary.md#action-bar) above the canvas where there are a series of buttons, including *Save*, *Preview*, and *Print*.
 
 **1.** Click *Preview*.
 

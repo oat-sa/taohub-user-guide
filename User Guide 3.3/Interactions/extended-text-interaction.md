@@ -2,7 +2,7 @@
 
 > The Extended Text [Interaction](../appendix/glossary.md#interaction) provides the means of examining the [Test-taker's](../appendix/glossary.md#test-taker) ability to reproduce a phrase, sentence, or text passage exactly. The answer must not deviate from the original in any way.
 
->Usually, these [Items](../appendix/glossary.md#item) are scored manually by a human scorer. In TAO 3.2, authors can define outcome variables on the item level for scoring rubrics, for example for grammar, spelling, and contents.
+>Usually, these [Items](../appendix/glossary.md#item) are scored manually by a human scorer. In TAO 3.3, authors can define outcome variables on the item level for scoring rubrics, for example for grammar, spelling, and contents.
 
 [![Extended Text Interaction](https://img.youtube.com/vi/jjbBWuvsK3s/hqdefault.jpg)](https://youtube.com/watch?v=jjbBWuvsK3s&rel=0 "Extended Text Interaction")
 

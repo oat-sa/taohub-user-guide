@@ -12,11 +12,11 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Hottext interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Hottext* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Hottext* icon ![Hot Text](../resources/_icons/hottext.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This creates a new Hottext Interaction window. There is a question field at the top, followed by a space (containing a sample text) in which to place the text containing the phrases to be highlighted as Hottext elements.
 
-**2.** Fill in the question field, where it says 'define prompt'.
+**2.** Fill in the question field, where it says _define prompt_.
 
 This will describe the task given to the test-taker ("Find the mistakes", "Pick the capital city", etc.). 
 
@@ -31,6 +31,7 @@ The test-taker will choose the best option Hottext elements.
 This will create a Hottext element within the text. Typically, there will be one word or phrase that matches the type being sought, and several additional words or phrases that might be similar to the type being sought. There might be cases where more than one option is correct, or where none of the options are correct. At the end of the text, you can add a final Hottext element which allows the test-taker to state that there is no correct selection (e.g. "No error.")
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Creating a Task
 
 The following option is available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
@@ -45,6 +46,7 @@ You can specify the minimum and maximum number of Hottext choices the Test-taker
 This will produce the same window as before, but you now have the possibility of placing checkmarks by the right answer(s). Check all that apply.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

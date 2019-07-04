@@ -1,14 +1,6 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Inline Choice Interaction
 
->Inline Choice [Interactions](../appendix/glossary.md#interaction) allow [Test-takers](../appendix/glossary.md#test-taker) to complete a "Fill  in the Blank" question with one choice taken from a selected list of answers. This is usually combined with other interactions (note that there is no question line for either *block* interaction).
-
->This interaction is one of two *Block*-related interactions, the other being *Text Entry* (covered in its own section).
+> Inline Choice [Interactions](../appendix/glossary.md#interaction) allow [Test-takers](../appendix/glossary.md#test-taker) to complete a "Fill  in the Blank" question with one choice taken from a selected list of answers. Like with all inline interactions this interaction needs to be in a *Text Block*  ![Block](../resources/_icons/font.png)
 
 For a quick glimpse of how to create an Inline Choice Interaction in TAO, please watch the following video.
 
@@ -17,7 +9,7 @@ For a quick glimpse of how to create an Inline Choice Interaction in TAO, please
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Inline Choice interaction:
 
-**1.** From the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, drag the *Block* interaction, represented by a letter *A* icon, onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, drag the *Text Block* ![Block](../resources/_icons/font.png) onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
 
 This creates a field (containing a sample text) in which a text may be entered from a favorite source (a Word document or website, for instance), or typed in. 
 
@@ -25,7 +17,7 @@ To enter your text, click inside the text field.
 
 *Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
-**2.** Once you have entered the text, drag the *Inline Choice* icon from the Inline Interactions library to a space next to where the test-taker will be expected to *fill in the blank*.
+**2.** Once you have entered the text, drag the *Inline Choice* icon ![Inline Choice](../resources/_icons/inline-choice.png) from the Inline Interactions library to a space next to where the test-taker will be expected to *fill in the blank*.
 
 This brings up a pop-up window with three default choices. Enter the test-taker's answer options by highlighting the default entries (choice #1, etc.) and typing in each answer option. For fewer choices, click the trash can next to each choice to delete it. To add another choice, click the blue *Add Choice* field below the other choices to generate another field. 
 
@@ -34,6 +26,7 @@ Repeat the above for each place in the text where you would like to the test-tak
 *Note: Remember to remove the actual words from the text that the Inline Choice blanks are designed to replace.*
 
 <aside class="optional-extras">
+ 
 ## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
@@ -55,6 +48,7 @@ If you want to prevent test-takers from continuing to the next question without 
 This produces the same selection of options that the Test-taker will see. Simply select the correct response to set the right answer.
 
 <aside class="optional-extras">
+ 
 ## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

@@ -1,18 +1,12 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Importing Groups
 
 >[Group](../appendix/glossary.md#group) metadata files can be taken from any computer and imported onto any other computer that also has access to TAO. This is done using an operation called *Import*.
 
-**1.**  Click on the *Groups* icon on the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
+**1.**  Click on the *Groups* icon ![class](../resources/_icons/test-takers.png) on the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
 This will take you to the [Group Library](../appendix/glossary.md#group-library), which you will see on the left.
 
-**2.**  Click on the Group class (folder) in the library in which you wish to import the new group.
+**2.**  Click on the Class ![class](../resources/_icons/folder.png) in the library in which you wish to import the new group.
 
 **3.**  Click on *Import* in the button bank below the library.
 

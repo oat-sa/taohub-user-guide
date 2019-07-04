@@ -1,13 +1,7 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Results: An Overview
 
 
->The [Results](../appendix/glossary.md#results) of [Tests](../appendix/glossary.md#test) are collected for each test [Delivery](../appendix/glossary.md#delivery).
+> The [Results](../appendix/glossary.md#results) of [Tests](../appendix/glossary.md#test) are collected for each test [Delivery](../appendix/glossary.md#delivery).
 
 This section provides an overview of how to manage the results of your tests, including how to view the results and how to export them to a different device.
 

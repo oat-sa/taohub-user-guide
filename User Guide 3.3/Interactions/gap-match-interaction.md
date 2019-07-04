@@ -12,11 +12,11 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new gap match interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Gap Match* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Gap Match* icon ![Graphic Gap Match](../resources/_icons/graphic-gap-match.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Gap Match Interaction window. There is a question field at the top, a middle field for the words which are to be matched, and a lower field for the gapped text, which contains a sample text.
 
-**2.** Fill in the question field, where it says 'define prompt'. 
+**2.** Fill in the question field, where it says _define prompt_. 
 
 Typically this will be some variation of "Fill in the gaps from the following word set." 
 
@@ -41,6 +41,7 @@ Repeat as many times as is needed to adequately assess the test-taker's knowledg
 Placing additional words into the match word field may prevent test-takers from successfully using "process of elimination" as a strategy.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.
@@ -64,6 +65,7 @@ If you want to prevent test-takers from continuing to the next question without 
 To define the correct answers, drag and drop the correct match words from the match word field onto the corresponding gaps in your text. 
 
 <aside class="optional-extras">
+
 ## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

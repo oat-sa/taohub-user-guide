@@ -1,12 +1,6 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Style Editor
 
->White, black, grey, and blue, all done up in a sans-serif font, can get boring after a while. The *Style Editor* can help you make your items look more appealing. The Style Editor is found in the TAO interface above the [Properties Panel](../appendix/glossary.md#properties-panel) on the right in an [Item](../appendix/glossary.md#item) window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. If you are dealing with larger item banks, you may want get in touch with us to discuss the otions for a customized version of TAO.
+> White, black, grey, and blue, all done up in a sans-serif font, can get boring after a while. The *Style Editor* can help you make your items look more appealing. The Style Editor is found in the TAO interface above the [Properties Panel](../appendix/glossary.md#properties-panel) on the right in an [Item](../appendix/glossary.md#item) window. It should be noted that this feature is meant only to adjust the appearance of a small number of items. If you are dealing with larger item banks, you may want get in touch with us to discuss the options for a customized version of TAO.
 
 **1.**  To access the Style Editor, click on the *Style Editor* button in the blue [Action Bar](../appendix/glossary.md#action-bar) above the Properties Panel.
 
@@ -19,11 +13,11 @@ This will turn the Properties Panel into a Style Editor panel. There are two par
 
 This will provide an interface similar to that of adding a graphic into a [Graphic Interaction](../appendix/glossary.md#graphic-interaction). You can use an existing style sheet by clicking the *Add file(s)* button and uploading it. 
 
-In all other cases, if you wish to format the style for this item only, use the Style Editor below to enter the settings you would like to use for this item. The style editor has three parts: (1) Color, (2) Font, and (3) Item width.
+If you wish to format the style for this item only, use the Style Editor below to enter the settings you would like to use for this item. The style editor has three parts: (1) Color, (2) Font, and (3) Item width.
 
 **3.** Adjust the colors to your liking.
 
-There are four color swatches that can be changed in accordance with your preferences, one for each of: Background color, Text color, Border color, and Table headings.
+There are four color swatches that can be changed in accordance with your preferences, one for each of: _Background color_, _Text color_, _Border color_, and _Table headings_.
 
 Clicking on any of these (e.g. *Background color*) opens a color editor panel which consists of a square surrounded by a color wheel (a swatch), and a text box below. 
 
@@ -35,9 +29,9 @@ The four swatches cover specific parts of any item and its [Interactions](../app
 
 Create the desired font by adjusting the *font family* and *font size*. 
 
-Click on the Font Family box, and select a font family besides Default. 
+Click on the _Font Family_ box, and select a font family besides Default. 
 
-There are three types of fonts available: San Serif fonts - lacking extra strokes at the ends of letters, Serif fonts - with the small, projecting strokes at the ends of letter, and Monospace fonts - resembling a typewriter, each letter being of equal width. 
+There are three types of fonts available: Sans Serif fonts - lacking extra strokes at the ends of letters, Serif fonts - with the small, projecting strokes at the ends of letter, and Monospace fonts - resembling a typewriter, each letter being of equal width. 
 
 Using fonts which are not on this list requires setting up a style sheet.
 

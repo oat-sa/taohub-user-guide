@@ -1,12 +1,6 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Associate Interaction
 
->The Associate [Interaction](../appendix/glossary.md#interaction) assesses the [Test-taker's](../appendix/glossary.md#test-taker) ability to match associated words or phrases. 
+> The Associate [Interaction](../appendix/glossary.md#interaction) assesses the [Test-taker's](../appendix/glossary.md#test-taker) ability to match associated words or phrases. 
 
 For a quick glimpse of how to create an Associate Interaction in TAO, please watch the following video.
 
@@ -14,11 +8,11 @@ For a quick glimpse of how to create an Associate Interaction in TAO, please wat
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Associate Interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Associate* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Associate* icon ![Associate](../resources/_icons/associate.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Associate Interaction window. There is a question field at the top, two *answer tile* options below this, and then an example of linked boxes at the bottom.
 
-**2.** Fill in the question field where it says 'define prompt', describing the associations (matches) being sought.
+**2.** Fill in the question field where it says _define prompt_, describing the associations (matches) being sought.
 
 This could be in the form of a question ("Which country goes with which capital city?") or instructional ("Match the country with the capital city."). 
 
@@ -26,9 +20,9 @@ This could be in the form of a question ("Which country goes with which capital 
 
 *Drag-and-drop is enabled for this type of interaction. Test-takers can also use click-and-click to move objects; this is an accessibility feature for test-takers with trouble using drag-and-drop.*
 
-**3.** Fill in the *answer tiles* for the question. 
+**3.** Fill in the _answer tiles_ for the question. 
 
-You will need more than two, so select *Add choice* as many times as is needed to provide all the options to be made available to the test-taker.
+You will need more than two, so select *Add choice* as many times as needed to provide all the options to be made available to the test-taker.
 
 *Note: We recommend adding the appropriate matches first (e.g. the correct countries and capitals) in separate tiles first, and then adding the incorrect (unmatched) options.* 
 
@@ -39,7 +33,7 @@ The following options are available in the [Interaction Properties Panel](../app
 
 ### Shuffling the choices
 
-Check the *Shuffle choices* box. This will help disguise the matched pairs you have entered for the question. If this is not clicked, how you've entered the tiles will be how they will appear to the test-taker.
+Check the *Shuffle choices* box. This will help disguise the matched pairs you have entered for the question. If this is not clicked, how you've entered the tiles will be how they appear to the test-taker.
 
 ### Limiting the use of a choice
 

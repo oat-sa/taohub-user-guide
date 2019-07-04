@@ -14,7 +14,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Associate Interaction:
 
-**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Associate* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Associate* icon ![Graphic Associate](../resources/_icons/graphic-associate.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 **2.** Choose the desired background graphic.
 
@@ -24,7 +24,7 @@ Highlight the file you have chosen as your background by clicking on it, and it 
 
 A new authoring window will appear with the background graphic in the center of the canvas. Above the graphic there is a question field. On the left there is an [Associable Hotspot Panel](../appendix/glossary.md#associable-hotspot-panel) for inserting selected shapes that will represent *[Associable Hotspots](../appendix/glossary.md#associable-hotspots)* into the background graphic (these include four different shapes: rectangle, circle, ellipse, and polygon). Below the Hotspot Panel there is a trash can icon, which allows you to delete a poorly-placed or misshapen Hotspot. Below the background graphic is a gap match field for entering the answers (in the form of graphic elements).
 
-**3.** Fill in the question field, where it says 'define prompt'. 
+**3.** Fill in the question field, where it says _define prompt_. 
 
 This should cover such important information as what the background graphic represents, and what the Test-taker is supposed to do in this interaction.  
 
@@ -38,6 +38,7 @@ After the Hotspots are inserted, set the number of Hotspot matches that the test
 
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Creating a Task
 
 The following options are available in the Interaction Properties panel on the right.
@@ -59,6 +60,7 @@ By default, a test-taker receives one point per completely correct interaction, 
 See Optional Extras below for other scoring methods.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

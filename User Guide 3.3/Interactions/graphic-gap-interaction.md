@@ -14,7 +14,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Gap Interaction:
 
-**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Gap Match* icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Gap Match* icon ![Grpahic Match](../resources/_icons/graphic-match.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 
 **2.** Choose the desired background graphic.
@@ -25,7 +25,7 @@ Highlight the file you have chosen as your background by clicking on it, and it 
 
 A new authoring window will appear with the background graphic in the center of the canvas. Above the graphic there is a question field. On the left there is an [Associable Hotspot Panel](../appendix/glossary.md#associable-hotspot-panel) for inserting selected shapes that will represent *[Associable Hotspots](../appendix/glossary.md#associable-hotspots)* into the background graphic (these include four different shapes: rectangle, circle, ellipse, and polygon). Below the Hotspot Panel there is a trash can icon, which allows you to delete a poorly-placed or misshapen Hotspot. Below the graphic is a gap match field where the answers should be entered (in the form of graphic elements).
 
-**3.** Fill in the question field, where it says 'define prompt'. 
+**3.** Fill in the question field, where it says _define prompt_. 
 
 This should cover such important information as what the graphic represents, and what the test-taker is supposed to do in this interaction.
 
@@ -50,6 +50,7 @@ Once all the images are the correct size, click on the blue *Add file(s)* button
 After uploading the images, select the first answer graphic for the first slot, and repeat for all subsequent slots.
 
 <aside class="optional-extras">
+    
 ## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.

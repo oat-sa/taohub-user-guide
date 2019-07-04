@@ -1,17 +1,10 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
-
 # Viewing Results
 
->The [Results](../appendix/glossary.md#results) of a [Test](../appendix/glossary.md#test) are collected for each [Delivery](../appendix/glossary.md#delivery), and can be viewed under the Results icon.
+> The [Results](../appendix/glossary.md#results) of a [Test](../appendix/glossary.md#test) are collected for each [Delivery](../appendix/glossary.md#delivery), and can be viewed under the Results icon.
 
 ![Viewing the Results](../resources/backend/results/results.png)
 
-**1.**  Click on the Results icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
+**1.**  Click on the Results icon ![Results](../resources/_icons/result.png) in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
 This will show the last [Results Table](../appendix/glossary.md#results-table) which you, or the user before you, opened. On the left-hand side of your screen you will see the [Library](../appendix/glossary.md#library) of existing results for different deliveries.
 

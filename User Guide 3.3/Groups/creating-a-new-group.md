@@ -10,13 +10,13 @@ authors:
 
 Now, let's walk through the steps of creating a group.
 
-**1.** Click on the Groups icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
+**1.** Click on the _Groups_ icon ![Group](../resources/_icons/test-takers.png) in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar).
 
 This will take you to the Groups page, and will show the last group which you, or the user before you, created. On the left-hand side of your screen you will see the [Group Library](../appendix/glossary.md#group-library) of existing groups. The last group which was created will be highlighted in the library. In this tour, however, you will create a new group.
 
 ![Creating a New Group](../resources/backend/groups/new-group.png)
 
-**2.**  Click on the *New Group* icon in the button bank under the library to create a new group.
+**2.**  Click on the *New Group* icon ![Group](../resources/_icons/test-takers.png) in the button bank under the library to create a new group.
 
 This brings up dialog box entitled *Edit group* for the newly created group. If desired, rename the group through the *Label* field, and then click the blue *Save* button.
 

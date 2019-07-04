@@ -1,16 +1,10 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Text Entry Interaction
 
->Text Entry [Interactions](../appendix/glossary.md#interaction) allow [Test-takers](../appendix/glossary.md#test-taker) to complete a "Fill in the Blank" question with an exact text answer. This interaction is one of two *Block*-related interactions, the other being *Inline Choice* (covered in its own section).
+> Text Entry [Interactions](../appendix/glossary.md#interaction) allow [Test-takers](../appendix/glossary.md#test-taker) to complete a "Fill in the Blank" question with an exact text answer. This interaction needs to be in a _Text Block_ ![Block](../resources/_icons/font.png).
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Text Entry Interaction:
 
-**1.** From the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, drag the *Block* interaction, represented by a letter *A* icon, onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, drag the *Text Block* ![Block](../resources/_icons/font.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This creates a field (containing a sample text) in which a text may be entered from a favorite source (a Word document or website, for instance), or typed in. 
 
@@ -20,7 +14,7 @@ To enter your text, click inside the text field.
 
 ![Text Entry Interaction](../resources/backend/items/authoring-89.png)
 
-**2.** Once you have entered the text, drag the *Text Entry* icon from the Inline Interactions library to the space next to where the test-taker will be expected to *fill in the blank*.
+**2.** Once you have entered the text, drag the *Text Entry* icon ![Text Entry](../resources/_icons/text-entry.png) from the Inline Interactions library to the space next to where the test-taker will be expected to *fill in the blank*.
 
 This creates a pop-up window containing the blank, which is to be filled by the test-taker. No changes can be made here: the window just confirms that you have created the blank. However, a correct answer will need to be selected and this is done in the *Response* mode.
 

@@ -1,23 +1,17 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Slider Interaction
 
->The Slider [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge of a numerical type, such as a percentage, a total, etc. The answer is conveyed by sliding an indicator on a horizontal scale.
+> The Slider [Interaction](../appendix/glossary.md#interaction) lets [Test-takers](../appendix/glossary.md#test-taker) demonstrate their knowledge of a numerical type, such as a percentage, a total, etc. The answer is conveyed by sliding an indicator on a horizontal scale.
 
 [![Slider Interaction](https://img.youtube.com/vi/fqrbvbavhuA/hqdefault.jpg)](https://youtube.com/watch?v=fqrbvbavhuA&rel=0 "Slider Interaction")
 
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Slider interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Slider* icon onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Slider* icon ![Sliuder](../resources/_icons/slider.png) onto the blank Item and drop it onto the [canvas](../appendix/glossary.md#canvas).
 
 This creates a new Slider interaction window. There is a question field at the top, followed by a graphical control element (a 'slider') indicating the scale covered by the answers to the question. Below the slider is the current value depicted by the slider ("0").
 
-**2.** Fill in the question field, where it says 'define prompt'. 
+**2.** Fill in the question field, where it says _define prompt_. 
 
 This will describe the task given to the test-taker, typically a question involving numbers or a fraction, etc. 
 

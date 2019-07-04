@@ -1,9 +1,4 @@
-<!--
-tags: []
-
--->
-
-# PC Interactions
+# Portable Custom Interactions
 
 
 >Portable Custom Interactions (PCIs) are [Interactions](../appendix/glossary.md#interaction) which are developed for a specific scenario, generally to fulfill a particular need of a customer, hence are not classical QTI interactions. PCIs represent a best practice for defining and packaging custom interactions. Unlike classical [Custom Interactions](../appendix/glossary.md#custom-interaction), they interact with the test runner (standardized APIs), allowing them to be ported from one system to another.
@@ -24,19 +19,11 @@ The following types of PCI are part of the standard TAO package: *Audio, Likert,
 - **Liquid**: A *Liquid* interaction, developed to showcase the possibilities of PCIs, contains a simple simulation of a liquid container. The container has a scale on the left-hand side. This type of interaction can be used to ask questions about volume. To record the correct answer, click on *Response* and then click inside the cube at the desired point. If the answer is "5 liters", for example, click in the cube at the level of the 5 on the scale on the left-hand side, and the cube will 'fill' to that level with a simulated blue liquid.
 
 
-
 ![Liquid-Interaction](../resources/backend/items/authoring-111.png)
 
-- **Text reader**: A *Text Reader* interaction provides a space for a simple reading passage, and offers the possibility of scrolling and paging. *Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your test reader item, and inserting features such as shared stimuli or media, tables or formulae.*
-
-
-
-<!-- Missing Screenshot: Text Reader Interaction -->
 
 - **Math Entry**: A *Math Entry* Interaction employs a Math Editor, which allows for the use of mathematical symbols in the interaction. The editor provides a list of mathematical symbols and an empty text field. Please note that the editor only provides the possibility of drawing mathematical symbols, but does not carry out any calculation. See the [Math Expressions section](../items/math-expressions.md) for more information on how to use the Math Editor.
 
-
-
 ![Math-Entry-Interaction](../resources/backend/items/authoring-113.png)
 
-**1.** To create any of these types of interaction, once you have created a new Item, click on the [Custom Interactions library](../appendix/glossary.md#custom-interactions-library) below *Graphic Interactions* on the left, and drag the appropriate interaction type onto the blank Item, drop it onto the [canvas](../appendix/glossary.md#canvas), and then populate the Item.
+To create any of these types of interaction, once you have created a new Item, click on the [Custom Interactions library](../appendix/glossary.md#custom-interactions-library) below *Graphic Interactions* on the left, and drag the appropriate interaction type onto the blank Item, drop it onto the [canvas](../appendix/glossary.md#canvas), and then populate the Item.

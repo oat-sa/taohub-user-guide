@@ -1,12 +1,6 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Select Point Interaction
 
->The Select Point [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge by selecting an invisibly-defined portion of an image (region on a map, person in a line-up, etc.).
+> The Select Point [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge by selecting an invisibly-defined portion of an image (region on a map, person in a line-up, etc.).
 
 >This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library) on the left. 
 
@@ -14,7 +8,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Select Point Interaction:
 
-**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Select Point* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Select Point* icon ![Select Point](../resources/_icons/select-point.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 **2.** Choose the desired background graphic.
 
@@ -24,7 +18,7 @@ Highlight the file you have chosen as your background by clicking on it, and it 
 
 A new authoring window will appear with the background graphic in the center of the canvas. Above the graphic there is a question field.
 
-**3.** Fill in the question field, where it says 'define prompt'. 
+**3.** Fill in the question field, where it says _define prompt_. 
 
 This should cover such important information as what the background graphic represents, and what the test-taker is expected to select in this interaction. 
 
@@ -54,7 +48,7 @@ Test-takers will not see these Hotspots on the background graphic, but selecting
 
 In the scoring method normally used as a default, a test-taker receives one point per completely correct interaction (so the test-taker has to select all the correct responses in order for the answer to be considered correct).
 
-In this type of interaction, however, each Hotspot is evaluated individually, and thus *Map Response* is used as the *[Response processing](../appendix/glossary.md#response-processing]* method (see [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right).
+In this type of interaction, however, each Hotspot is evaluated individually, and thus *Map Response* is used as the [Response processing](../appendix/glossary.md#response-processing) method (see [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right).
 
 By clicking on each Hotspot, a pop-up window appears next to it, which allows you to set the weight to be awarded if the test-taker selects it correctly.  
 

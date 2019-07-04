@@ -1,14 +1,6 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Tests: An Overview
 
->[Tests](../appendix/glossary.md#test), or assessments, are assembled from individual [Items](../appendix/glossary.md#item). Items are built from [Interactions](../appendix/glossary.md#interaction), which are based on exercises such as multiple choice questions.
-
->Tests define the order of items, as well as how and when they are presented to the [Test-taker](../appendix/glossary.md#test-taker). For a full definition, see [What is a Test?](../tests/what-is-a-test.md).
+>[Tests](../appendix/glossary.md#test), or assessments, are assembled from individual [Items](../appendix/glossary.md#item). Items are built from [Interactions](../appendix/glossary.md#interaction), which are based on exercises such as multiple choice questions. Tests define the order of items, as well as how and when they are presented to the [Test-taker](../appendix/glossary.md#test-taker). For a full definition, see [What is a Test?](../tests/what-is-a-test.md).
 
 
 This section provides an overview of how to manage your tests, including what you need to do to construct them, what the result looks like, the choices you need to make along the way, and what you can do with them once they have been created.

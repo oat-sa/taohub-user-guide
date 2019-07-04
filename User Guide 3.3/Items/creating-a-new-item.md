@@ -50,8 +50,6 @@ This will take you to the empty item you have created. You can now start to fill
 
 You can create an item which contains more than one interaction. Once you have added and prepared one interaction in your item, drag another interaction template from the [Interactions Library](../appendix/glossary.md#interactions-library) onto the [Canvas](../appendix/glossary.md#canvas) below or beside the interaction you have just authored, and repeat the authoring process for the new interaction. 
 
-*Note: The option to add another interaction to an item is activated by default for users of the Premium Edition of TAO. It is not activated in the Community Edition by default, but can be added if so desired.*
-
 **5.** Select the settings for your item. 
 
 Two settings can be chosen for your new item in the [Item Properties](../appendix/glossary.md#item-properties) to the right of the canvas.
@@ -59,9 +57,6 @@ Two settings can be chosen for your new item in the [Item Properties](../appendi
 **Time dependent:** Check the *[Time dependent](../appendix/glossary.md#time-dependent-item)* box if you wish the length of time a test-taker takes to complete the item to be recorded. This information will be used when the response is processed.  
 
 **Language:** Select the language of your item from the drop-down menu. This will be used for the [Text-to-Speech](../appendix/glossary.md#test-to-speech) functionality. The default language is English. 
-
-
-*Note: Items are 'locked' when you (or another user) are working on them.*
 
 <aside class="optional-extras">
 

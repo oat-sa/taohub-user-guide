@@ -52,10 +52,7 @@ Then, click on the *Feedback Block* panel and check the *Activated* box so that 
 
 Select the relevant outcome variable for your test (defined in the test-level properties) from the drop-down menu in the *Outcome* box, and then a value in the *Match Value* box which indicates the circumstances in which this caption should be displayed. For pass/fail captions, choose *PASS\_ALL\_RENDERING* from the menu in the *Outcome* box, and enter *passed* in the *Match value* box if the caption is for a positive result, and *not_passed* if the caption is for a negative result.
 
-<!-- Missing Screenshot:  Giving Test-level Instant Feedback -->
 
 **3.** View the final outcome.
 
 Save the test and create a new [Delivery](../appendix/glossary.md#delivery) to view the final outcome.
-
-*Note: in an upcoming version of TAO, you will be able to add the actual values of the  outcome variables to be displayed in rubric blocks (e.g. “you received a score of Y out of Z”) in the test-editor. Adding a “printed variable” like this is currently only possible by manipulating the QTI XML manually (outside of TAO).*

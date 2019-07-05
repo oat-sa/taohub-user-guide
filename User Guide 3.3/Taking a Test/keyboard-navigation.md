@@ -1,10 +1,3 @@
-<!--
-created_at: 2018-10-22
-authors:         
-    - "Catherine Pease"
---> 
-
-
 # Keyboard Navigation
 
 
@@ -15,6 +8,8 @@ The set of keyboard shortcuts provided is as follows:
 
 | **Tool**                 | Action   | Shortcut    |
 |--------------------------|----------|------------:|
+| **Next Item**            |          |           J |
+| **Previous Item**        |          |           K |
 | **Answer Masking**       | Toggle   |           D |
 | **Area Masking**         | Toggle   |           Y |
 | **Calculator**           | Toggle   |           C |

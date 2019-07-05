@@ -54,6 +54,5 @@ The Zoom Tool allows the test-taker to zoom in on an area of an item.
 
 ## Text-to-speech
 The text-to-speech functionality allows the test-taker to hear the questions of a test being read aloud. *Note: This functionality is only available on the Premium Edition of TAO.*
-<!-- Missing Screenshot: Text-to-Speech --> 
 
 A list of keyboard shortcuts for these tools can be found in the section [Keyboard Shortcuts](../taking-a-test/keyboard-shortcuts.md).

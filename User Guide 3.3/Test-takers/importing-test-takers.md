@@ -23,6 +23,39 @@ This opens a dialog box which asks you to select the format of the incoming test
 
 **4.** Click the blue *Browse* button to find the file intended for import (alternatively, the file may be dragged and dropped into the box below the button).
 
-**5.** Once the file is selected, click on the blue *Import* button.
+**5.** Once the file is selected, click on the blue *Import* button if importing an RDF. If you are importing a CSV file you will click on the blue *Next* button.
+
+![Selecting CSV](../resources/backend/test-takers/import1tt.png)
+
+You will then need to map the properties to the CSV columns. If you don’t have a Language column in your CSV file, then you can choose a default value for the interface language for all test-takers by choosing a needed language in *Define the default values Interface Language* and then click on the blue Import button.
+
+![Mapping Columns](../resources/backend/test-takers/import2tt.png)
 
 This will import the test-taker's profile into the test-taker library, after which he can receive [Tests](../deliveries/create-a-new-delivery.md).
+
+## Structure of CSV File
+
+By default, the CSV file should follow to next rules:
+Value separator: Semicolon
+Row separator: Newline
+
+```
+label;First Name;Last Name;Interface Language;Login;Mail;password;Group
+TAO Erica;Erica;Mayer;http://www.tao.lu/Ontologies/TAO.rdf#Langen-US;qwerty4700;mayers@tudor.lu;123456789@Qq;https://nec.local/tao.rdf#i15677754915441105
+TAO Lenny;Lenny;Seert;http://www.tao.lu/Ontologies/TAO.rdf#Langen-US;qwerty5600;lenny@tudor.lu;123456789@Qq;https://nec.local/tao.rdf#i15677754915070106
+
+```
+
+In that example, we have 7 columns. The first line is header, next lines are values.
+
+Required columns:
+Label - a label of test-taker. That value using for the BackOffice.
+Login - Login of test-taker
+Password - Password of test-taker
+Group - ID of group
+
+Additional columns:
+Interface Language - A language of interface of test-taker. If this column does not exist, then you should choose a default language during the import process. 
+Mail - Email of test-taker
+First Name/Last Name - First and last names of test-taker.
+

@@ -34,12 +34,11 @@ Row separator: Newline
 
 ```
 Label;Deliveries
-Group Label;https://nec.local/tao.rdf#i1567762787708426
-Group Label2;https://nec.local/tao.rdf#i1567767601342667
+Group Label;https://abc.local/tao.rdf#i1567762787708426
+Group Label2;https://abc.local/tao.rdf#i1567767601342667
 ```
 
 In that example, we have 2 columns. The first line is header, next lines are values.
 Required columns:
 Label - a label of group. That value using for the BackOffice.
 Deliveries - ID of delivery
-

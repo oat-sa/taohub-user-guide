@@ -13,4 +13,4 @@ In TAO, interactions include the mechanisms used to score the interaction itself
 
 For simple Items, correct answers add to the [Test](../appendix/glossary.md#test) score, unlike incorrect answers. Scoring a composite item using standard response templates (*match correct*, *map response*, or *map response point*) are often a more complicated sum.
 
-__Note: Identifiers which can be configured in Interactions need to contain only ASCII characgters due to QTI restrictions. ASCII character replacements can be found at sites such as [Oracle](https://docs.oracle.com/cd/E29584_01/webhelp/mdex_basicDev/src/rbdv_chars_mapping.html) and [ASCII Code](https://www.ascii-code.com/).__
+__Note: Identifiers which can be configured in Interactions need to contain only ASCII characters due to QTI restrictions. ASCII character replacements can be found at sites such as [Oracle](https://docs.oracle.com/cd/E29584_01/webhelp/mdex_basicDev/src/rbdv_chars_mapping.html) and [ASCII Code](https://www.ascii-code.com/).__

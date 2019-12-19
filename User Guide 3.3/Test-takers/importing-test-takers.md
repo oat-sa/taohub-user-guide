@@ -41,8 +41,8 @@ Row separator: Newline
 
 ```
 label;First Name;Last Name;Interface Language;Login;Mail;password;Group
-TAO Erica;Erica;Mayer;http://www.tao.lu/Ontologies/TAO.rdf#Langen-US;qwerty4700;mayers@tudor.lu;123456789@Qq;https://nec.local/tao.rdf#i15677754915441105
-TAO Lenny;Lenny;Seert;http://www.tao.lu/Ontologies/TAO.rdf#Langen-US;qwerty5600;lenny@tudor.lu;123456789@Qq;https://nec.local/tao.rdf#i15677754915070106
+TAO Erica;Erica;Last;http://www.tao.lu/Ontologies/TAO.rdf#Langen-US;qwerty4700;Laste@example.lu;123456789@Qq;https://abc.local/tao.rdf#i15677754915441105
+TAO Lenny;Lenny;Name;http://www.tao.lu/Ontologies/TAO.rdf#Langen-US;qwerty5600;Name@example.lu;123456789@Qq;https://abc.local/tao.rdf#i15677754915070106
 
 ```
 
@@ -58,4 +58,3 @@ Additional columns:
 Interface Language - A language of interface of test-taker. If this column does not exist, then you should choose a default language during the import process. 
 Mail - Email of test-taker
 First Name/Last Name - First and last names of test-taker.
-

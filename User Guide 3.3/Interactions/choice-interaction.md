@@ -1,16 +1,23 @@
+<!--
+created_at: 2016-12-15
+authors:         
+    - "Catherine Pease"
+--> 
+
 # Choice Interaction
 
- >Choice [Interactions](../appendix/glossary.md#interaction) or multiple choice question, present a test type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where a large quantity of test questions need to be covered in a short exam period.
+>Choice [Interactions](../appendix/glossary.md#interaction), most frequently referred to as the multiple choice question (MCQ), present a test type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where a large quantity of test questions need to be covered in a short exam period. Where time is of the essence, this type of testing interaction is particularly useful.
 
 [![How to Create a Multiple-Choice Item Using TAO](https://img.youtube.com/vi/8upgdOSTKK0/hqdefault.jpg)](https://youtube.com/watch?v=8upgdOSTKK0&rel=0 "How to Create a Multiple-Choice Item Using TAO")
 
+
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Choice Interaction: 
   
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Choice* ![Choice](../resources/_icons/choice.png) icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Choice* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This provides the answer choices for your choice interaction.
 
-**2.** Enter the question in the question field at the top of the interaction where it says _define prompt_. 
+**2.** Enter the question in the question field at the top of the interaction where it says 'define prompt'. 
 
 *Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
@@ -70,6 +77,14 @@ You can do this using the *map response* option of *Response processing*, in the
 First, assign a weight to each choice in each of the corresponding Interaction boxes. 
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the associated properties.
+
+#### Map Response Example
+
+In this example, there are four possible choices with the most correct response having a value of **2**, a partially correct response having a value of **1**, and  the default mapping having a score of **-1** for incorrect aanswers. 
+
+![](../resources/backend/interactions/mapresponseclose.png)
+
+Choosing the correct response alone would give the test-taker a score of 2. If they chose the correct _and_ an incorrect responses they would receive a score of 1. And if they chose two incorrect responses they would receive a score of -2.
 
 ### Inserting modal feedback
 

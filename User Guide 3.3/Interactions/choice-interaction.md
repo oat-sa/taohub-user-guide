@@ -79,11 +79,11 @@ First, assign a weight to each choice in each of the corresponding Interaction b
 
 #### Map Response Example
 
-In this example, there are four possible choices with the most correct response having a value of **2**, a partially correct response having a value of **1**, and  the default mapping having a score of **-1** for incorrect aanswers. 
+In this example, there are three possible choices with the correct response having a value of **2** and the incorrect responses each having a score of **-1** from the default mapping setting. 
 
 ![](../resources/backend/interactions/mapresponseclose.png)
 
-Choosing the correct response alone would give the test-taker a score of 2. If they chose the correct _and_ an incorrect responses they would receive a score of 1. And if they chose two incorrect responses they would receive a score of -2.
+Choosing the correct response alone would give the test-taker a score of 2. If they chose the correct _and_ an incorrect response they would receive a score of 1. And if they chose two incorrect responses they would receive a score of -2.
 
 ### Inserting modal feedback
 

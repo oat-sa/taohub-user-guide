@@ -1,6 +1,12 @@
+<!--
+created_at: 2016-12-15
+authors:         
+    - "Catherine Pease"
+--> 
+
 # Choice Interaction
 
- >Choice [Interactions](../appendix/glossary.md#interaction) or multiple choice question, present a test type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where a large quantity of test questions need to be covered in a short exam period.
+>Choice [Interactions](../appendix/glossary.md#interaction) or multiple choice question, present a test type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where a large quantity of test questions need to be covered in a short exam period.
 
 [![How to Create a Multiple-Choice Item Using TAO](https://img.youtube.com/vi/8upgdOSTKK0/hqdefault.jpg)](https://youtube.com/watch?v=8upgdOSTKK0&rel=0 "How to Create a Multiple-Choice Item Using TAO")
 
@@ -70,6 +76,14 @@ You can do this using the *map response* option of *Response processing*, in the
 First, assign a weight to each choice in each of the corresponding Interaction boxes. 
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the associated properties.
+
+#### Map Response Example
+
+In this example, there are three possible choices with the correct response having a value of **2** and the incorrect responses each having a score of **-1** from the default mapping setting. 
+
+![](../resources/backend/interactions/mapresponseclose.png)
+
+Choosing the correct response alone would give the test-taker a score of 2. If they chose the correct _and_ an incorrect response they would receive a score of 1. And if they chose two incorrect responses they would receive a score of -2.
 
 ### Inserting modal feedback
 

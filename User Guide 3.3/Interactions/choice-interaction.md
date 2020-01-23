@@ -6,18 +6,17 @@ authors:
 
 # Choice Interaction
 
->Choice [Interactions](../appendix/glossary.md#interaction), most frequently referred to as the multiple choice question (MCQ), present a test type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where a large quantity of test questions need to be covered in a short exam period. Where time is of the essence, this type of testing interaction is particularly useful.
+>Choice [Interactions](../appendix/glossary.md#interaction) or multiple choice question, present a test type that has been made popular by such time-honored exams as the SAT, ACT, PSAT/NMSQT, etc. Choice interactions are preferable to free-response test interactions in cases where a large quantity of test questions need to be covered in a short exam period.
 
 [![How to Create a Multiple-Choice Item Using TAO](https://img.youtube.com/vi/8upgdOSTKK0/hqdefault.jpg)](https://youtube.com/watch?v=8upgdOSTKK0&rel=0 "How to Create a Multiple-Choice Item Using TAO")
 
-
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Choice Interaction: 
   
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Choice* icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Choice* ![Choice](../resources/_icons/choice.png) icon onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This provides the answer choices for your choice interaction.
 
-**2.** Enter the question in the question field at the top of the interaction where it says 'define prompt'. 
+**2.** Enter the question in the question field at the top of the interaction where it says _define prompt_. 
 
 *Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 

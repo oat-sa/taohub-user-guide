@@ -44,7 +44,7 @@ Check the *Show Feedback* box if the test-taker should see the modal feedback af
 
 Check the *Allow Comment* box if the test-taker may provide explanations for responses, or leave feedback for the test. 
 
-Check the *Allow Skipping* box to allow the test-taker to pass on answering questions within the test part.
+If configured on the server, the *Allow Skipping* box will be visible. This setting will allow the test-taker to pass on answering questions within the test part if checked.
 
 Check the *Validate responses* box if only responses which are valid should be accepted. If this box is checked, constraints governing the test-taker's response (such as if the minimum and maximum choices specified for that question have been given) will be checked before the test-taker can proceed to the next question.
 

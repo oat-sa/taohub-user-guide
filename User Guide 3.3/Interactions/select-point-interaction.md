@@ -4,8 +4,6 @@
 
 >This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library) on the left. 
 
-[![Select Point Interaction](https://img.youtube.com/vi/5OYeuVPxK_o/hqdefault.jpg)](https://youtube.com/watch?v=5OYeuVPxK_o&rel=0 "Select Point Interaction")
-
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Select Point Interaction:
 
 **1.** From the Graphic Interactions library near the bottom of the *Interactions library* on the left, drag the *Select Point* icon ![Select Point](../resources/_icons/select-point.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).

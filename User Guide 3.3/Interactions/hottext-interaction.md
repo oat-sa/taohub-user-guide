@@ -22,13 +22,13 @@ This will describe the task given to the test-taker ("Find the mistakes", "Pick 
 
 *Note: See the section on [Interaction Authoring Tools](../interactions/interaction-authoring-tools.md) for details on text editing options such as using italics or bold text in your item, and inserting features such as shared stimuli or media, tables or formulae.*
 
-**3.** Copy and paste, or type in, the text within which the Hottexts will be presented. 
+**3.** Copy and paste, or type in, the text which will contain the Hottexts. 
 
-The test-taker will choose the best option Hottext elements.
+The test-taker will choose the best option or options from the Hottext elements which answer the question.
 
 **4.** Select a word or phrase and highlight it. When the *magic wand* button comes up, click it to confirm selection of the word or phrase as your Hottext Interaction.
 
-This will create a Hottext element within the text. Typically, there will be one word or phrase that matches the type being sought, and several additional words or phrases that might be similar to the type being sought. There might be cases where more than one option is correct, or where none of the options are correct. At the end of the text, you can add a final Hottext element which allows the test-taker to state that there is no correct selection (e.g. "No error.")
+This will create a Hottext element within the text. Typically, there will be one word or phrase that matches the responsee being sought, and several additional words or phrases that might be similar to the response being sought. There might be cases where more than one option is correct, or where none of the options are correct. At the end of the text, you can add a final Hottext element which allows the test-taker to state that there is no correct selection (e.g. "No error.")
 
 <aside class="optional-extras">
     

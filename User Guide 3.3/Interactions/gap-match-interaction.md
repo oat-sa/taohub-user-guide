@@ -12,7 +12,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new gap match interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Gap Match* icon ![Graphic Gap Match](../resources/_icons/graphic-gap-match.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Gap Match* ![Graphic Gap Match](../resources/_icons/gap-match.png) icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Gap Match Interaction window. There is a question field at the top, a middle field for the words which are to be matched, and a lower field for the gapped text, which contains a sample text.
 
@@ -40,6 +40,8 @@ Repeat as many times as is needed to adequately assess the test-taker's knowledg
 
 Placing additional words into the match word field may prevent test-takers from successfully using "process of elimination" as a strategy.
 
+*Note: The _choice #1_ option will not automatically bee filled and can be used as an extra option or should be deleted y clicking the trash can ![delete](../resources/_icons/bin.png) icon.* 
+
 <aside class="optional-extras">
     
 ## Optional Extras when Creating a Task
@@ -49,6 +51,8 @@ The following options are available in the [Interaction Properties Panel](../app
 ### Shuffling the choices 
 
 Check the *Shuffle choices* box. The sequence of the match word options will then be randomized. This is recommended if the order of presentation of the match words is not important.
+
+If needed, you can also *pin* a response to that location in the order be clicking on the pin ![pin](../resources/_icons/pin.png) icon to the right of that choice.
 
 ### Limiting the use of a choice
 

@@ -4,8 +4,6 @@
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Match interaction:
 
-[![Match Interaction](https://img.youtube.com/vi/zxjFjmFAQ3s/hqdefault.jpg)](https://youtube.com/watch?v=zxjFjmFAQ3s&rel=0 "Match Interaction")
-
 **1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Match* icon ![Match](../resources/_icons/match.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This creates a new Match Interaction window. There is a question field at the top, and a default 2-row-by-2-column matrix beneath this.
@@ -29,14 +27,15 @@ The following options are available in the [Interaction Properties Panel](../app
 
 Check the *Shuffle choices* box. The sequence of the row and column options will then be randomized. This is recommended if the order of presentation of either set of elements is not important.
 
+If needed, you can also *pin* a response to that location in the order be clicking on the pin ![pin](../resources/_icons/pin.png) icon to the right of that choice. 
+
 ### Limiting the use of a choice
 
 If you want to limit the number of times a particular row or column is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Allowed number of uses*. Setting this to a maximum of 1, for example, will mean that the Test-taker can only use that element in one associated match.
 
 ### Specifying the correct number of associations
 
-You can specify the minimum and maximum number of associations the test-taker will be asked to provide (before he can continue to the next question) in the *Number of associations* boxes in the Interaction properties panel. By default these are empty, which means the test-taker can include as many (or as few) matches, or  associations, as he likes. Setting the minimum to 0 allows the test-taker to skip the question.
-</aside>
+You can specify the minimum and maximum number of associations the test-taker will be asked to provide (before he can continue to the next question) in the *Number of associations* boxes in the Interaction properties panel. By default these are set to the minimum of 1, which means the test-taker must use each response once. </aside>
  
 **4.** Click *Response* on the right of blue interaction header to define the correct answer(s).
 

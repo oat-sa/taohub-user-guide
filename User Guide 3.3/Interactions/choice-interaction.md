@@ -22,7 +22,7 @@ This provides the answer choices for your choice interaction.
 
 **3.** A choice interaction has three default answer choices. Click on *choice #1* to type the first answer choice in this field. Repeat this step with the other choices to populate the other fields with your answer choices.
 
-You can add more choices by clicking the blue *Add Choice* field below the first three choices (keep clicking until the desired number of choices appear in the item), and you can delete choices by clicking the trash can icon to the right of the choice you wish to delete.
+You can add more choices by clicking the blue *Add Choice* field below the first three choices (keep clicking until the desired number of choices appear in the item), and you can delete choices by clicking the trash can ![delete](../resources/_icons/bin.png) icon to the right of the choice you wish to delete.
 
 **4.** After defining all answer choices, set the minimum and maximum number of answer choices that the Test-Taker will be asked to provide (before he can continue to the next question). 
 
@@ -44,6 +44,8 @@ To present the choices as a list, select one of the options in *[List style](../
 ### Shuffling the choices 
 
 Check the *Shuffle choices* box. This will randomize the order in which answer choices appear for each test-taker. In this manner, guessing or copying strategies is rendered useless. Where the order of items is unimportant, this is recommended. 
+
+If needed, you can also *pin* a response to that location in the order be clicking on the pin ![pin](../resources/_icons/pin.png) icon to the right of that choice. This is intended for use cases needing a response similar to  *All of the above*.
 
 *Note: Remember that if you use this option, avoid choosing an ordinal list style, eg. A,B,C or 1,2,3.*
 
@@ -76,14 +78,6 @@ You can do this using the *map response* option of *Response processing*, in the
 First, assign a weight to each choice in each of the corresponding Interaction boxes. 
 
 [Click here](../items/item-scoring-rules.md#item-scoring-rules) for more details on how to use this scoring method, and how to set the values of the associated properties.
-
-#### Map Response Example
-
-In this example, there are three possible choices with the correct response having a value of **2** and the incorrect responses each having a score of **-1** from the default mapping setting. 
-
-![](../resources/backend/interactions/mapresponseclose.png)
-
-Choosing the correct response alone would give the test-taker a score of 2. If they chose the correct _and_ an incorrect response they would receive a score of 1. And if they chose two incorrect responses they would receive a score of -2.
 
 ### Inserting modal feedback
 

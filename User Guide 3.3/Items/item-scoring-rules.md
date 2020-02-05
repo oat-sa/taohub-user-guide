@@ -43,3 +43,11 @@ So if, for example, there are two correct responses in the question, and you hav
 Other values in the *Score Range* field include *Mapping Default*, which contains the default value given if no specific scores are assigned to a response, and the check box used to *Define Correct Response*. The latter should be checked if there are specific correct responses, and left unchecked if the correctness of the answer is dependent on the sum of weights accumulated by the Test-taker in answering the interaction.
 
 Lastly, it should be noted that TAO assigns a *Response Identifier* to each interaction response. It is best not to change this.
+
+## Map Response Example
+
+In this example, there are three possible choices with the correct response having a value of **2** and the incorrect responses each having a score of **-1** from the default mapping setting. 
+
+![](../resources/backend/interactions/mapresponseclose.png)
+
+Choosing the correct response alone would give the test-taker a score of 2. If they chose the correct _and_ an incorrect response they would receive a score of 1. And if they chose two incorrect responses they would receive a score of -2.

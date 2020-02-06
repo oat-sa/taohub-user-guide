@@ -35,6 +35,8 @@ The following options are available in the [Interaction Properties Panel](../app
 
 Check the *Shuffle choices* box. This will randomize the order in which answer choices appear for each test-taker. In this manner, guessing or copying strategies is rendered useless.
 
+If needed, you can also *pin* a response to that location in the order be clicking on the pin ![pin](../resources/_icons/pin.png) icon to the right of that choice.
+
 *Note: Remember that if you use this option, avoid choosing an ordinal list style, e.g. A,B,C or 1,2,3.*
 
 ### Obliging the test-taker to give an answer

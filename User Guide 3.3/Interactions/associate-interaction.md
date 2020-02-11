@@ -35,13 +35,15 @@ The following options are available in the [Interaction Properties Panel](../app
 
 Check the *Shuffle choices* box. This will help disguise the matched pairs you have entered for the question. If this is not clicked, how you've entered the tiles will be how they appear to the test-taker.
 
+If needed, you can also *pin* a response to that location in the order be clicking on the pin ![pin](../resources/_icons/pin.png) icon to the right of that choice.
+
 ### Limiting the use of a choice
 
 If you want to limit the number of times a particular element is used, click on it. It will then appear in the *Identifier* box in the right-hand panel, which gives you the option to set the *Allowed number of uses*. Setting this to a maximum of 1, for example, will mean that the test-taker can only use that element in one association. 
 
 ### Specifying the correct number of associations
 
-You can specify the minimum and maximum number of associations the test-taker will be asked to provide (before he can continue to the next question) in the *Number of associations* boxes in the Interaction properties panel. By default these are empty, which means the test-taker can include as many (or as few) associations as he likes. Setting the minimum to 0 allows the test-taker to skip the question.
+You can specify the minimum and maximum number of associations the test-taker will be asked to provide (before they can continue to the next question) in the *Number of associations* boxes in the Interaction properties panel. By default these are empty, which means the test-taker can include as many (or as few) associations as they like. Setting the minimum to 0 allows the test-taker to skip the question.
 
 </aside>
 

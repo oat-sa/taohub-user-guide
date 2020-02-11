@@ -18,7 +18,7 @@ This will describe the task given to the test-taker ("Place the following in chr
 
 **3.** Fill in the options for each question in box to the left.
 
-There are three default options, but you can add more by clicking the blue *Add choice* field at the bottom. You can delete options by clicking the trash can icon to the right of the option you wish to delete.
+There are three default options, but you can add more by clicking the blue *Add choice* field at the bottom. You can delete options by clicking the trash can ![delete](../resources/_icons/bin.png) icon to the right of the option you wish to delete.
 
 *Note: Drag-and-drop is enabled for this type of interaction.*
 
@@ -30,6 +30,8 @@ The following options are available in the [Interaction Properties Panel](../app
 ### Shuffling the choices
 
 Check the *Shuffle choices* box. This means that the order in which the answer options are presented will be randomized (recommended if the order of presentation is not important).
+
+If needed, you can also *pin* a response to that location in the order be clicking on the pin ![pin](../resources/_icons/pin.png) icon to the right of that choice. This is intended for use cases needing a response similar to  *All of the above*.
 
 ### Specifying correct number of answers
 

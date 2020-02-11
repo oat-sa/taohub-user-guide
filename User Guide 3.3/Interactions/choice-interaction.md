@@ -45,7 +45,7 @@ To present the choices as a list, select one of the options in *[List style](../
 
 Check the *Shuffle choices* box. This will randomize the order in which answer choices appear for each test-taker. In this manner, guessing or copying strategies is rendered useless. Where the order of items is unimportant, this is recommended. 
 
-If needed, you can also *pin* a response to that location in the order be clicking on the pin ![pin](../resources/_icons/pin.png) icon to the right of that choice. This is intended for use cases needing a response similar to  *All of the above*.
+ This is intended for use cases needing a response similar to  *All of the above*.
 
 *Note: Remember that if you use this option, avoid choosing an ordinal list style, eg. A,B,C or 1,2,3.*
 

@@ -1,9 +1,3 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Gap Match Interaction
 
 >The Gap Match [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge in a manner similar to Match Interactions. A Gap Match, however, provides a set of match words, some of which will fit into gaps within a selected text passage. In essence, this is a combination of a match interaction and a "fill the gap" question. 
@@ -12,7 +6,7 @@ authors:
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new gap match interaction:
 
-**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Gap Match* ![Graphic Gap Match](../resources/_icons/graphic-gap.png) icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
+**1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Gap Match* ![Gap Match](../resources/_icons/gap-match.png) icon onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).
 
 This opens a new Gap Match Interaction window. There is a question field at the top, a middle field for the words which are to be matched, and a lower field for the gapped text, which contains a sample text.
 

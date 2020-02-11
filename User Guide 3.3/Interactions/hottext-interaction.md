@@ -28,7 +28,7 @@ The test-taker will choose the best option or options from the Hottext elements 
 
 **4.** Select a word or phrase and highlight it. When the *magic wand* button comes up, click it to confirm selection of the word or phrase as your Hottext Interaction.
 
-This will create a Hottext element within the text. Typically, there will be one word or phrase that matches the responsee being sought, and several additional words or phrases that might be similar to the response being sought. There might be cases where more than one option is correct, or where none of the options are correct. At the end of the text, you can add a final Hottext element which allows the test-taker to state that there is no correct selection (e.g. "No error.")
+This will create a Hottext element within the text. Typically, there will be one word or phrase that matches the response being sought, and several additional words or phrases that might be similar to the response being sought. There might be cases where more than one option is correct, or where none of the options are correct. At the end of the text, you can add a final Hottext element which allows the test-taker to state that there is no correct selection (e.g. "No error.")
 
 <aside class="optional-extras">
     

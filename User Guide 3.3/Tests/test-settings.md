@@ -65,7 +65,7 @@ The general properties include an identifier and title: the default name in the 
 
 ![Settings for Test Sections](../resources/backend/tests/authoring/settings/section/properties.png)
 
-In the *Test Navigation* panel, if *Enable Review Screen* is checked, the review panel will appear on the left when a test-taker is taking a test. If *Enable Mark for Review* is checked, the test-taker has the option to flag items in the test. See the section on the [Review Panel]({UG}/taking-a-test/review-panel.md) for more information on how the review panel can be used. Check *Informational Item Usage* if the item has been included in the test for informational purposes only. This prevents the item being treated as a question. Check *Allow Section Skipping* to allow the test-taker to pass on answering the questions in this section.
+In the *Test Navigation* panel, if *Enable Review Screen* is checked, the review panel will appear on the left when a test-taker is taking a test. If *Enable Mark for Review* is checked, the test-taker has the option to flag items in the test. See the section on the [Review Panel]({UG}/taking-a-test/review-panel.md) for more information on how the review panel can be used. Check *Informational Item Usage* if the item has been included in the test for informational purposes only. This prevents the item being treated as a question. If configured on the server, the *Allow Skipping* box will be visible and you can check *Allow Section Skipping* to allow the test-taker to pass on answering the questions in this section.
 
 In the *Navigation Warnings* panel, check the boxes where you would like the test-taker to receive (or *not* receive) the warning in question.
 

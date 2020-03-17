@@ -19,6 +19,7 @@ This should describe the match task expected of the test-taker.
 Using the *Add new row* and *Add new column* buttons, add as many rows and columns as will be needed to cover all the matches. If desired, add some unmatched elements in either the rows or the columns to provide an additional challenge for the Test-taker.
 
 <aside class="optional-extras">
+ 
 ## Optional Extras when Creating a Task
 
 The following options are available in the [Interaction Properties Panel](../appendix/glossary.md#interaction-properties-panel) on the right.

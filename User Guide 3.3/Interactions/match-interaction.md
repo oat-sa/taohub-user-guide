@@ -40,6 +40,7 @@ You can specify the minimum and maximum number of associations the test-taker wi
 **4.** Click *Response* on the right of blue interaction header to define the correct answer(s).
 
 <aside class="optional-extras">
+ 
 ## Optional Extras when Processing a Response
 
 The following options are available in the [Response Properties Panel](../appendix/glossary.md#response-properties-panel) on the right.

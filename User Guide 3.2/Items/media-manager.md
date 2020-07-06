@@ -1,19 +1,13 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
-#Media Manager
+# Asset Manager
 
 
->The Media Manager provides a space to store media files (images, audio and video) and to access them from any item. This is a universally shared folder, which means you don't need to keep uploading the same files for use in different items. The Media class will always appear as an option for choosing input when you are populating items.
+> The Asset Manager provides a space to store media files (images, audio and video) as well as passages and to access them from any item. This is a universally shared folder, which means you don't need to keep uploading the same files for use in different items. The Media class will always appear as an option for choosing input when you are populating items.
 
-You will find the same buttons in the Media Manager as in most other functions under the library on the left (*New class*, *Delete*, *Import*, *Export*). The New class, Delete, and Export buttons work in a very similar way to most of the other functions. For more information on any of these, click on the following links: [New class](../appendix/glossary.md#class), [Delete](../appendix/glossary.md#delete), [Export](../appendix/glossary.md#export).
+You will find the same buttons in the Asset Manager as in most other functions under the library on the left (*New class*, *Delete*, *Import*, *Export*). The New class, Delete, and Export buttons work in a very similar way to most of the other functions. For more information on any of these, click on the following links: [New class](../appendix/glossary.md#class), [Delete](../appendix/glossary.md#delete), [Export](../appendix/glossary.md#export).
 
 <!-- Missing Screenshot: The Media Manager -->
 
-The *Import* button works in a slightly different way in the Media Manager. Follow the steps below to import a new media file.
+The *Import* button works in a slightly different way in the Asset Manager. Follow the steps below to import a new media file.
 
 **1.**  Click on the Media icon in the *[Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar)*.
 

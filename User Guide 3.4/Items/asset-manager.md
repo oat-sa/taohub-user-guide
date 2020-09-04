@@ -29,7 +29,9 @@ A dialog box labeled _Edit instance_ will appear, with the details of the new as
 
 If you want to replace the file with another, click on *Upload new asset*. Click *Save* to save the changes, including alternative text.
 
-You can also create or edit passages from within the asset manager. To create a passage click on new passage and rename the label as needed. If you want to edit an existing passage click on it on the tree. From here on the steps are the same.
+## Creating or editing passages
+
+To create a passage click on new passage and rename the label as needed. If you want to edit an existing passage select it on the tree. From here on the steps are the same.
 
 **1.** By clicking on _Authoring_ you will enter the passage editor.
 

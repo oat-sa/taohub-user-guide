@@ -12,7 +12,8 @@ toc:
     - 'Importing items'
     - 'Exporting items'
     - 'Moving or copying items'
-    - 'Adding media'
+    - 'Asset manager'
+    - 'Adding assets'
     - 'Item scoring rules'
     - 'Modal feedback'
     - Preview
@@ -90,6 +91,7 @@ toc:
     - 'Removing a Test Center'
   'Advanced Features':
     - 'User Settings'
+    - 'Metadata'
     - Proctoring
   Appendix:
       - Glossary

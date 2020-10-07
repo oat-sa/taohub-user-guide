@@ -12,7 +12,7 @@ toc:
     - 'Importing items'
     - 'Exporting items'
     - 'Moving or copying items'
-    - 'Asset manager'
+    - 'Asset/Media manager' # own chapter?
     - 'Adding assets'
     - 'Item scoring rules'
     - 'Modal feedback'
@@ -43,7 +43,7 @@ toc:
     - 'Portable Custom Interactions'
     - 'End Attempt'
     - 'Text Block'
-    - 'Shared Stimulus'
+    - 'Shared Stimulus' # Move to chapter asset manager along with passage editor | explain only usage here
   Tests:
     - 'What is a test?'
     - 'Tests: An Overview'
@@ -65,7 +65,7 @@ toc:
     - 'Creating a new group'
     - 'Importing groups'
     - 'Exporting groups'
-  Deliveries:
+  Deliveries: 
     - 'What is a delivery?'
     - 'Deliveries: An Overview'
     - 'Create a new delivery'
@@ -81,18 +81,25 @@ toc:
     - 'Results: An Overview'
     - 'Viewing Results'
     - 'Exporting Results'
-  'Premium Edition':
-    - 'Customization in TAO'
-    - 'Enabling Text to Speech'
-    - 'Test Centers: An Overview'
-    - 'Creating a new Test Center'
-    - 'Importing a Test Center'
-    - 'Licensing a Delivery to a Test Center'
-    - 'Removing a Test Center'
+  # asset manager
+   # - usage
+   # - shared stimulus editor
+  'Premium Edition': # replaced by comment 'only avalable in PE'
+    - 'Customization in TAO' # Introduction?
+    - 'Enabling Text to Speech' #TTT
+    - 'Test Centers: An Overview' # own chapter
+    - 'Creating a new Test Center' # own chapter
+    - 'Importing a Test Center' # own chapter
+    - 'Licensing a Delivery to a Test Center' # own chapter
+    # - proctor administration
+    - 'Removing a Test Center' # own chapter
+  # Proctoring
+    # - old article
+    # - video proctoring
   'Advanced Features':
     - 'User Settings'
     - 'Metadata'
-    - Proctoring
+    - Proctoring # move to proctoring
   Appendix:
       - Glossary
       - Contributing to TAO

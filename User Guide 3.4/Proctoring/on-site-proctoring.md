@@ -1,6 +1,8 @@
-# Proctoring
+# On-site Proctoring
 
-> The Proctoring extension allows the administrators of deliveries to monitor a [Delivery](../appendix/glossary.md#delivery). By assuming the role of proctor, a teacher or administrator is able to follow the progress of [Test-takers](../appendix/glossary.md#test-taker) sitting a [Test](../appendix/glossary.md#test), submit a report on the status of the delivery and also intervene if necessary. There are two roles involved, a [proctor](../appendix/glossary.md#proctor) and one or multiple test-takers.
+> The Proctoring facility in TAO allows the administrators of deliveries to monitor a [Delivery](../appendix/glossary.md#delivery). By assuming the role of proctor, a teacher or administrator is able to follow the progress of [Test-takers](../appendix/glossary.md#test-taker) sitting a [Test](../appendix/glossary.md#test), submit a report on the status of the delivery and also intervene if necessary. There are two roles involved, a [proctor](../appendix/glossary.md#proctor) and one or multiple test-takers.
+
+*Note: Proctoring comes as part of the Premium/Ignite Edition of TAO (or higher). If you are using the Community Edition you will need to install the extension taoProctoring. See the [Extensions Manager](../management/extensions-manager.md) section of the User Guide for how to install this.* 
  
 Follow the steps below to assign a proctor to a delivery.
 

@@ -3,15 +3,15 @@
 >[Items](../appendix/glossary.md#item) are the basic building blocks for [Tests](../appendix/glossary.md#test). For a full definition, see [What is an Item?](../items/what-is-an-item.md).
 
 
-This section provides an overview of how to manage your items, including their creation, what to put in an item, viewing them , and their use once created.
+This section provides an overview of how to manage your items, including their creation, what to put in an item, how to view them, and their use once created.
 
 **1.** Creating a new item 
 
-Items first need to be created, before they are then populated with the desired [Interactions](../appendix/glossary.md#interaction) and any further material required so they can be used in assessments. See [Creating a new Item](../items/creating-a-new-item.md) for information on how to do this.
+Items first need to be created before they are populated with the desired [Interactions](../appendix/glossary.md#interaction) and any further material required so they can be used in assessments. See [Creating a new Item](../items/creating-a-new-item.md) for information on how to do this.
 
 **2.** What to include in your item
 
-Pictures and media such as audio or video files can be included in your Item. For more information on how to do this, see [Adding Assets](../items/adding-assets.md), for adding media to your items, and [Media Interactions](../interactions/media-interaction.md) for adding audio and video files.
+Pictures and media such as audio or video files can be included in your Item. For more information on how to add media to your items, see [Using Assets in Items](../items/using-assets-in-items.md). To create media interactions see the section on [Media Interactions](../interactions/media-interaction.md).
 
 For managing resources which are included in your items (which includes all of the resources mentioned above), see the [Asset Manager](../items/asset-manager.md) section.
 

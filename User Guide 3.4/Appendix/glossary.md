@@ -14,6 +14,12 @@ The menu, in the form of a black bar, across the top of all TAO web pages.
 ## Assessment Variable
 Technical term for the final score assigned to a Test-taker's performance in an [Item](../items/what-is-an-item.md) Session or a [Test](../tests/what-is-a-test.md) Session.
 
+##Asset
+Assets are files containing images, audio and video and (text) passages. They are stored in the [Asset Manager](../appendix/glossary.md#asset-manager). 
+
+##Asset Manager
+The Asset Manager is where all [Assets](../appendix/glossary.md#asset) are stored for use and re-use in test items. In some versions of TAO it is called the Media Manager.   
+
 ## Associable Hotspot Panel
 The panel on the left of the Hotspot Interaction which is being edited, from which the shapes needed for the hotspots can be chosen.
 
@@ -62,6 +68,9 @@ An Interaction type which provides library space for miscellaneous Interactions 
 ## Delivery
 An assembly of all information required to assign and send out Tests to selected Test-Takers.
 
+## Delivery Execution
+The date and time of a particular Delivery session.
+
 ## Delivery Library
 The Library of existing Deliveries, situated in the panel on the left.
 
@@ -93,7 +102,7 @@ An editor containing mathematical symbols, used to insert [Math Expressions](../
 The test-taker screen.
 
 ## Global Manager
-The global manager has access to the entire platform apart from the system components such as the extension manager.
+The global manager has access to the entire platform apart from the system components such as the [Extension Manager](../appendix/glossary.md#extension-manager).
 
 ## Graphic
 A picture or other image upon which Graphic Interactions are based. They often form the background on which the Interaction is then placed.
@@ -170,6 +179,9 @@ Math expressions can be entered using MathML or Latex Math.
 ## Media Formats
 For maximum compatibility across browsers, mp4 or mpeg formats should be used for video (ACC codec for audio + H264 for video codec), and mp3 or ogg should be used for audio.
 
+##Media Manager
+See [Asset Manager](../appendix/glossary.md#asset-manager).
+
 ## Metadata
 Information described in the properties of Interactions, Items, Tests, or Deliveries, including everything except their content.
 
@@ -183,13 +195,19 @@ A Response Variable that serves as a container for multiple values taken from a 
 A Response Variable which is a Container for multiple values taken from a value set defined by a Base-type. These are processed as an ordered list (sequence) of values, but may be empty.
 
 ## Outcome
-The result of an [Assessment Test](../tests/what-is-a-test.md) or [Item](../items/what-is-an-item.md). These are represented by one or more Outcome Variables.
+The result of an [Assessment Test](../tests/what-is-a-test.md) or [Item](../items/what-is-an-item.md). These are represented by one or more Outcome Variable.
 
 ## Outcome Processing
-The process which adds up the values of [Item](../items/what-is-an-item.md) Outcomes (or Responses) in order to produce [Test](../tests/what-is-a-test.md) Outcomes.
+The process which adds up the values of [Item](../items/what-is-an-item.md) Outcomes (or Responses) in order to produce [Test](../tests/what-is-a-test.md) Outcomes (i.e. test results).
 
 ## Outcome Variable
-Variables taken from outcome declarations. Values are set either from a default given within the declaration or by a response rule encountered during [Response Processing](../items/item-scoring-rules.md) (for Item outcomes) or [Outcome Processing](../appendix/outcome-processing) (for Test Outcomes).
+Variables taken from outcome declarations. Values are set either from a default given within the declaration, or by a response rule encountered during [Response Processing](../items/item-scoring-rules.md) (for Item outcomes) or [Outcome Processing](../appendix/outcome-processing) (for Test Outcomes).
+
+##Passage
+Passages are .xml files which contain a simple or complex text (a text with integrated images), stored in the [Asset Manager](../appendix/glossary.md#asset-manager) for re-use in new items.
+
+##Passage Editor
+Editor used to create new (or edit existing) [Passages](../appendix/glossary.md#passage).
 
 ## Pattern
 Patterns can be set using regular expressions in the QTI creator. If the Test-taker's Response does not match the Pattern, an error is shown. The Response cannot be submitted until the input is corrected in line with the pattern.

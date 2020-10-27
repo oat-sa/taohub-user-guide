@@ -10,6 +10,8 @@ authors:
 
 >[Test Centers](../appendix/glossary.md#test-center) deliver the assessments assembled in TAO to [Test-takers](../appendix/glossary.md#test-taker). They are typically institutions in the education sector.
 
+*Note: The Test Center Manager comes as part of the Premium/Ignite Edition of TAO (or higher versions). If you are using the Community Edition you will need to install the extension taoTestCenter. See the [Extensions Manager](../management/extensions-manager.md) section of the User Guide for how to install this.* 
+
 
 >This section provides an overview of the role test centers play in the TAO environment, as well as how to manage your test centers. 
 

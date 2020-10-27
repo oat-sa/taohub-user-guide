@@ -14,9 +14,9 @@ A Test is a collection of items designed to assess the academic progress of a te
 
 **2.** Defining the settings for your new test
 
-Once you have created a new test, you will need to assign certain properties to it, such as the length of the test. There are four levels in which properties may be assigned, from the top test level down to the individual item level. See [Test Settings](../tests/tests-settings.md) for information on how to do assign these properties.
+Once you have created a new test, you will need to assign certain properties to it, such as the length of the test. There are four levels in which properties may be assigned, from the top test level down to the individual item level. See [Test Settings](../tests/tests-settings.md) for information on how to assign these properties.
 
 
 **3.** Importing and exporting your tests
 
-You can import and export your tests to and from different storage devices in order to be able to use them in different locations. For more information on how to do this, see [Importing a Test](../tests/importing-a-test.md) and [Exporting Tests](../tests/exporting-tests.md).
+You can import and export your tests to and from different storage devices in order to be able to use them in different locations. For more information on how to do this, see [Importing a Test](../tests/importing-a-test.md) and [Exporting a Test](../tests/exporting-a-test.md).

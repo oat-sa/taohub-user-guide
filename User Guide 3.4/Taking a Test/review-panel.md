@@ -21,7 +21,7 @@ In *Test Status* the following general statistics are given about the test-taker
 
 **Unanswered:** Test-takers can see here how many of the questions in the test they have *not* answered
 
-**Flagged:** The number of questions which have been flagged for later review will be shown in this box. See the section on [Accessibility Tools](../taking-a-test/accessibility-tools.md) for more information on flagging. 
+**Flagged:** The number of questions which have been flagged for later review will be shown in this box. See the section on [Test-taker Tools](../taking-a-test/test-taker-tools.md) for more information on flagging. 
 
 
 In the second section, the test content for each Test-part is broken down by [Interaction](../appendix/glossary.md#interaction), and organized into types, so that test-takers can see a more detailed overview of their progress. 

@@ -59,6 +59,6 @@ custom_show_correct=1
 
 ![Enhanced Review](../resources/backend/review/review-learner2.png)
 
-*Note: When using the LTI emulator, you would need to remove the custom_.*
+*Note: When using the LTI emulator, you would need to remove the prefix "custom_" from the parameters.*
 
 ![LTI Custom](../resources/backend/review/review-custom.png)

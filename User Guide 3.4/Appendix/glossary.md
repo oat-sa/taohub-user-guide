@@ -14,10 +14,10 @@ The menu, in the form of a black bar, across the top of all TAO web pages.
 ## Assessment Variable
 Technical term for the final score assigned to a Test-taker's performance in an [Item](../items/what-is-an-item.md) Session or a [Test](../tests/what-is-a-test.md) Session.
 
-##Asset
+## Asset
 Assets are files containing images, audio and video and (text) passages. They are stored in the [Asset Manager](../appendix/glossary.md#asset-manager). 
 
-##Asset Manager
+## Asset Manager
 The Asset Manager is where all [Assets](../appendix/glossary.md#asset) are stored for use and re-use in test items. In some versions of TAO it is called the Media Manager.   
 
 ## Associable Hotspot Panel
@@ -158,7 +158,7 @@ The Item Session Control Panel contains settings for items in a particular test 
 ## Item Variable
 A variable which records Test-taker responses and any outcomes assigned during [response processing](../items/item-scoring-rules.md) during an Item Session. As a special kind of Assessment Variable, Item Variables are also used to define Item Templates.
 
-## Items Library
+## Item Library
 The Library of existing [Items](../items/what-is-an-item.md), which appears in the panel on the left when you select Items from the Assessment Builder Bar.
 
 ## Library

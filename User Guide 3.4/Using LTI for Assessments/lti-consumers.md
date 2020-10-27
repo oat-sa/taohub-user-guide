@@ -22,7 +22,7 @@ To manage *LTI Consumers*, hover over the cogs ![settings](../resources/_icons/s
 
 Select the LTI Consumer class (folder), and click on *Add Consumer*. Name (*label*) the new consumer, and fill in an easy-to-remember *consumer key* and *consumer secret* (this is used during integration).
 
-__Note: The *consumer key* and *consumer secret* must contain only alphabetical and numeric characters.__
+*Note: The *consumer key* and *consumer secret* must contain only alphabetical and numeric characters.*
 
 ![LTI Consumers](../resources/backend/l-t-i-consumers/lti2.png)
 
@@ -40,7 +40,7 @@ To configure TAO in the Moodle, click on  *Add preconfigured tool*. Add an appro
 
 ![Moodle](../resources/backend/l-t-i-consumers/moodle1.png)
 
-Next enter the Tool URL which will be TAO\_ROOT\_URL + '/ltiDeliveryProvider/DeliveryTool/launch'. (If you don't know the URL of your TAO installation, return to the TAO *back office* home, and copy the URL, removing 'tao/Main/index' from the end. For example, if your TAO home is 'http://<hostname or IP>/tao/tao/Main/index', then your root URL would be 'http://<hostname or IP>/tao/'.)
+Next enter the Tool URL which will be `TAO\_ROOT\_URL` + `/ltiDeliveryProvider/DeliveryTool/launch`. (If you don't know the URL of your TAO installation, return to the TAO *back office* home, and copy the URL, removing 'tao/Main/index' from the end. For example, if your TAO home is `http://<hostname or IP>/tao/tao/Main/index`, then your root URL would be `http://<hostname or IP>/tao/`.)
 
 Last, enter the Consumer key and Shared secret which you used in TAO and then click on *Save Changes*.
 

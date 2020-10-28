@@ -40,7 +40,7 @@ To configure TAO in the Moodle, click on  *Add preconfigured tool*. Add an appro
 
 ![Moodle](../resources/backend/l-t-i-consumers/moodle1.png)
 
-Next enter the Tool URL which will be `TAO\_ROOT\_URL` + `/ltiDeliveryProvider/DeliveryTool/launch`. (If you don't know the URL of your TAO installation, return to the TAO *back office* home, and copy the URL, removing `tao/Main/index` from the end. For example, if your TAO home is `http://<hostname or IP>/tao/tao/Main/index`, then your root URL would be `http://<hostname or IP>/tao/`.)
+Next enter the Tool URL which will be `TAO_ROOT_URL` + `/ltiDeliveryProvider/DeliveryTool/launch`. (If you don't know the URL of your TAO installation, return to the TAO *back office* home, and copy the URL, removing `tao/Main/index` from the end. For example, if your TAO home is `http://<hostname or IP>/tao/tao/Main/index`, then your root URL would be `http://<hostname or IP>/tao/`.)
 
 Last, enter the Consumer key and Shared secret which you used in TAO and then click on *Save Changes*.
 

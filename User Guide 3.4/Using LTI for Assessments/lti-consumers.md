@@ -14,7 +14,7 @@ The LTI interconnectivity must be set up prior to executing the delivery.
 
 **1.** Ensure that TAO is configured for LTI.
 
-You will need to verify that the *ltiDeliveryProvider* is installed, instructions for accessing and installing an extension can be found on the [Extensions Manager](extension-manager.md) page. 
+You will need to verify that the *ltiDeliveryProvider* is installed, instructions for accessing and installing an extension can be found on the [Extensions Manager]({AG}/management/extensions-manager.md) page. 
 
 To manage *LTI Consumers*, hover over the cogs ![settings](../resources/_icons/settings.png) icon in the [Assessment Builder Bar](../appendix/glossary.md#assessment-builder-bar) and select *LTI Consumers*. 
 
@@ -51,7 +51,7 @@ Last, enter the Consumer key and Shared secret which you used in TAO and then cl
 
 **1.** Create and Compile a new [Delivery](../appendix/glossary.md#delivery) within TAO.
 
-Follow the steps used in [Create a New Delivery]({UG}/deliveries/create-a-new-delivery) to create your Delivery. Click on the Delivery you just created and then click on the ![LTI](../resources/_icons/link.png) icon and then copy the Launch URL that this action generates.
+Follow the steps used in [Create a New Delivery](../deliveries/create-a-new-delivery) to create your Delivery. Click on the Delivery you just created and then click on the ![LTI](../resources/_icons/link.png) icon and then copy the Launch URL that this action generates.
 
 ![LTI Export](../resources/backend/l-t-i-consumers/lti4.png)
 

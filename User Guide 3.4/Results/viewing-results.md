@@ -14,21 +14,19 @@ This will bring up the test results (the Results Table) associated with the give
 
 **3.** Click *View* on the right of the [Test-taker](../appendix/glossary.md#test-taker) whose results you want to see. 
 
-A results table will appear. The first table is entitled *Test taker*, and contains the information of the student who took the test, e.g. name, login, email.
+A results table will appear. The box at the top, entitled *Test taker*, contains the information of the student who took the test, e.g. name, login, email.
 
-On the right of this table there is a filtering drop-down menu, and a blue *Filter* button.
+Below this box is the *Test Variables* table. The most important information here is the “LtiOutcome” variable. This reflects the total test score for the test-taker in question. If all of the questions were answered correctly, this will be "1". If some of them were incorrect, it will be below 1. This table can also contain information on the maximum total scores possible and the scores the test-taker achieved in different categories of the test if applicable.  
 
-Below the *Test Taker* table is the *Test Variables* table. Below exit codes (the *exit code* information can be ignored), you will see the “LtiOutcome” variable and its corresponding numbers. This reflects the total test score for the test-taker in question. If all of the questions were answered correctly, this will be "1". If some of them were incorrect, it will be below 1.
+Below the *Test Variables* table is a detailed analysis of the [Items](../appendix/glossary.md#item) in the test. There is a box for each item, and each box shows the name of the item at the top, and is then divided into three sections: Responses, Grades, and Traces.
 
-Below the *Test Variables* table is a detailed analysis of the [Items](../appendix/glossary.md#item) in the test. This *item* table is divided into three parts: Responses, Grades, and Traces.
-
-*Responses*: includes information on the answer chosen by the test-taker.
+*Responses*: includes information on the answer chosen by the test-taker (e.g. if multiple responses were permitted).
 
 *Grades*: includes information on the score given, and whether the item was completed (or skipped).
  
 *Traces*: records the start and end times for the test, as well as the time zone.
 
-As mentioned above, these three outputs can be filtered out.
+Any of these three outputs can be filtered out of the Results table using the filtering drop-down menu, and blue *Filter* button, which are on the right of the *Test taker* box. *Note: QTI interactions do not generate traces.*
 
 If you would like to see any of the test items pertaining to the results you are viewing, you can click on the *Review* button next to the relevant item. The assessment question will then be shown. Click on the blue *close* button in the right-hand corner of the screen to return to the results.
  

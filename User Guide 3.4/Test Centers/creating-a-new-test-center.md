@@ -30,7 +30,7 @@ There are three roles which need to be assigned within a test center:
 *Administrator*: The *[Test Center Administrator](../appendix/glossary.md#test-center-administrator)* manages the
 [Proctors](../appendix/glossary.md#proctor) at the test center, in other words can create and remove proctors, as well as authorize them to proctor specific deliveries. Users with this role can also proctor themselves.
 
-*Proctor*: The *proctor* role is assigned to the person who will oversee the execution of a particular [Delivery](../appendix/glossary.md#delivery). See the section on [Proctoring](../test-centers/proctoring.md) for more information on what proctoring entails.
+*Proctor*: The *proctor* role is assigned to the person who will oversee the execution of a particular [Delivery](../appendix/glossary.md#delivery) - i.e. a delivery session. See the section on [Proctoring](../test-centers/proctoring.md) for more information on what proctoring entails.
 
 
 *Sub-center*: Using the *sub-center* role, test centers can be linked to each other within a hierarchy.

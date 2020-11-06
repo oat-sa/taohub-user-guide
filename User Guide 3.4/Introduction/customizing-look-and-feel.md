@@ -4,10 +4,14 @@ authors:
     - "Catherine Pease"
 --> 
 
-# Customization in TAO
+# Customizing "Look and Feel"
 
 
 >You can make the environment your own by customising your TAO installation and adding your own branding to the TAO product, so that it is recognizable to your [Test-takers](../appendix/glossary.md#test-taker) and other users.
+
+
+*Note: The customization of TAO is only available in the Premium/Ignite Edition of TAO (or higher).*
+
 
 **Follow the steps below to customize your TAO environment and add your own branding:** 
 
@@ -37,6 +41,6 @@ Now add the information *Operated by* to the page footer. You can add your organ
 
 If you are happy with the information you have entered, click on  *Apply changes* to save it. If not, click on *Discard changes*.
 
-Your institution or company may also want to provide direct access to the TAO environment from its own website. As a subscriber to the Premium Edition of TAO, your organization can set up a shortcut to the TAO environment via a URL which you own, to refer users directly to TAO. 
+Your institution or company may also want to provide direct access to the TAO environment from its own website. As a subscriber to the Ignite Edition (or higher) of TAO, your organization can set up a shortcut to the TAO environment via a URL which you own, to refer users directly to TAO. 
 
 

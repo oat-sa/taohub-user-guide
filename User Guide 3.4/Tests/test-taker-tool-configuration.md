@@ -53,7 +53,18 @@ The Zoom Tool allows the test-taker to zoom in on an area of an item.
 ![Zoom Tool](../resources/delivery/features/test-taker-tools/zoom.gif)
 
 ## Text-to-speech
-The text-to-speech functionality allows the test-taker to hear the questions of a test being read aloud. *Note: This functionality is only available on the Premium Edition of TAO.*
+The text-to-speech functionality allows the test-taker to hear the test content being read aloud, as well as reading it.
+
+*Note: This functionality is only available in the TAO Premium/Ignite Edition (or higher).*
+![Text-to-speech](../resources/delivery/features/test-taker-tools/text-to-speech.png)
+
+## APIP Text-to-speech
+The APIP (Accessible Portable Item Protocol) text-to-speech functionality is an alternative to the normal text-to-speech functionality. It works using pre-recorded files for each item in a test. When it is enabled, a *Play* button will appear on the right of the test item when the test-taker is sitting the test. 
+
+*Note: The recordings used for this functionality need to be prepared outside of TAO and then imported, as TAO does not support the authoring of packages with APIP content. These can be in any format, but the format needs to be compatible with the browser used.*
+
+![APIP Text-to-speech](../resources/delivery/features/test-taker-tools/apip-text-to-speech.png)       
+
 
 Configuration is now complete. Any test-takers taking the test will have access to the selected tools, for the sections or items specified.
 

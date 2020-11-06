@@ -8,4 +8,4 @@ In TAO, assessments are assembled from individual items that are later delivered
 
 Tests should be given an appropriate title which helps test-takers to accurately identify the assessment if it appears in a list of other assessments which the test-taker must also take at the same time. 
 
-Test designers must consider issues such as whether the test-taker will need to follow a linear path (a specific question order with no option to revisit questions later) or if they can instead use a non-linear route (where questions can be answered in any order and revisited if desired). Time limitations and feedback are also important elements in successful test design.
+Test designers must consider issues such as whether the test-taker will need to follow a linear path through a test  - where questions need to be answered in a specific order, with no option to revisit them later - or whether questions can be answered in any order and revisited if desired. Time limitations and feedback are also important elements in successful test design.

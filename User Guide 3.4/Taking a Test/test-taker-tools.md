@@ -34,7 +34,7 @@ Area Masking allows the test-taker to mask parts of the item with a movable mask
 
 ## Flag
 Flagging an answer to a particular question allows the test-taker to review the answer at a later stage. Flagged items are marked in the review panel on the left. The test-taker can return to flagged items by clicking on the flag in the review panel.
-<!-- Missing Screenshot: Flagging an item for Review -->
+![Flagging an Item for Review](../resources/delivery/features/test-taker-tools/flag.png)
 
 ## Highlighter
 The Highlighter allows the test-taker to highlight parts of the text in an item.
@@ -52,7 +52,9 @@ The Magnifier provides the test-taker with a movable magnifier tool.
 The Zoom Tool allows the test-taker to zoom in on an area of an item.
 ![Zoom Tool](../resources/delivery/features/test-taker-tools/zoom.gif)
 
-## Text-to-speech
-The text-to-speech functionality allows the test-taker to hear the questions of a test being read aloud. *Note: This functionality is only available on the Premium Edition of TAO.*
+## Text-to-speech and APIP text-to-speech
+The text-to-speech functionality allows the test-taker to hear the questions of a test being read aloud. *Note: This functionality is only available in the Ignite/Premium Edition of TAO.*
+
+![Text-to-Speech](../resources/delivery/features/test-taker-tools/text-to-speech.png)
 
 A list of keyboard shortcuts for these tools can be found in the section [Keyboard Shortcuts](../taking-a-test/keyboard-shortcuts.md).

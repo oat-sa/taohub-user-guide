@@ -12,7 +12,7 @@ In this example, we will be using the [IMS LTI Tool Consumer emulator](http://lt
 
 ![LTI Consumers](../resources/backend/review/review-consumer.png)
 
-**2** Configure the role to *Learner* before launching the test. This will inform TAO that the Delivery results will be utilized as an LTI Test Review.
+**2** Configure the role to *Learner* before launching the test.
 
 ![Review Role](../resources/backend/review/review-role.png)
 
@@ -59,6 +59,6 @@ custom_show_correct=1
 
 ![Enhanced Review](../resources/backend/review/review-learner2.png)
 
-*Note: When using the LTI emulator, you would need to remove the custom_.*
+*Note: When using the LTI emulator, you would need to remove the prefix "custom_" from the parameters.*
 
 ![LTI Custom](../resources/backend/review/review-custom.png)

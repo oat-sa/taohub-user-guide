@@ -40,6 +40,8 @@ This will create a new item in the selected folder.
 
 ![Creating a new Item](../resources/backend/items/new-item.png)
 
+*Note: The 'Access control' button (in the picture this is in the button bank under the library on the left) is only available if the extension taoDacSimple is installed.*
+
 **3.**  Label and save your item.
 
 Creating a new item will bring up a new dialog box with the option to name (or label) your item. After labeling your item, click *Save*. This produces an empty item, which you can now populate with interactions.
@@ -50,13 +52,16 @@ This will take you to the empty item you have created. You can now start to fill
 
 You can create an item which contains more than one interaction. Once you have added and prepared one interaction in your item, drag another interaction template from the [Interactions Library](../appendix/glossary.md#interactions-library) onto the [Canvas](../appendix/glossary.md#canvas) below or beside the interaction you have just authored, and repeat the authoring process for the new interaction. 
 
+You can preview your item to see how it will appear to the test-taker. For information on this, see [Previewing Items and Interactions](../items/preview.md).
+
 **5.** Select the settings for your item. 
 
 Two settings can be chosen for your new item in the [Item Properties](../appendix/glossary.md#item-properties) to the right of the canvas.
 
 **Time dependent:** Check the *[Time dependent](../appendix/glossary.md#time-dependent-item)* box if you wish the length of time a test-taker takes to complete the item to be recorded. This information will be used when the response is processed.  
 
-**Language:** Select the language of your item from the drop-down menu. This will be used for the [Text-to-Speech](../appendix/glossary.md#test-to-speech) functionality. The default language is English. 
+**Language:** Select the language of your item from the drop-down menu. This will be used for the [Text-to-Speech](../appendix/glossary.md#test-to-speech) functionality. The default language is English.
+
 
 <aside class="optional-extras">
 
@@ -72,6 +77,10 @@ You can make a copy of an already existing item by clicking on the *Copy To*  ![
 
 A dialog box will appear on the canvas. Select a destination folder, and click on *Copy*. A copy of the item will then be created in the folder you have selected, with the same name but with "bis" on the end.
 
-*Move To* ![Move To](../resources/_icons/move-item.png) works exactly in the same fashion.
+*Move To* ![Move To](../resources/_icons/move-item.png) works in exactly the same fashion.
+
+### Revising an existing item
+
+You may wish to modify an existing item (which either you or another item author created) at a later date. For example, you may wish to change the wording of one of the questions. Here, you will probably want to save the original version, especially if it was authored by somebody else. Before making your modifications, open the original item from the item library and click on the *History* icon next to *Authoring* in the action bar. Add a comment in the *Message* box. This could be something which describes the original item, such as 'this item uses the wording XYZ in the second question'. Click on *Commit*. This version will then be saved in the history of the item. You can then modify the item and save a second version, also describing it using the *History* icon. Now, there are two versions of the item, and the second version is the current 'live' version of the item. An old version can, however, be restored at any time, by going into *History* and clicking on the *Restore* button opposite the version you want to reactivate.       
 
 </aside>

@@ -11,7 +11,7 @@ authors:
 
 The text-to-speech functionality allows the test-taker to hear the test questions, or parts of them, read aloud.
 
-*Note: This functionality is only available in the Premium Edition of TAO.*
+*Note: This functionality is only available in the Ignite Edition (or higher) of TAO.*
 
 To activate this functionality, test-takers need to carry out the steps below: 
 
@@ -28,5 +28,4 @@ Four icons, representing four options, will appear:
 **Settings (interlocking cogs):** The speed of the speech the test-taker hears can be controlled here.
 
 
-
-<!-- Missing Screenshot: Text-to-Speech --> 
+![Text-to-Speech](../resources/delivery/features/test-taker-tools/text-to-speech.png)

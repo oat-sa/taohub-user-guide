@@ -26,4 +26,10 @@ The following types of PCI are part of the standard TAO package: *Audio, Likert,
 
 ![Math-Entry-Interaction](../resources/backend/items/authoring-113.png)
 
+- **Text Reader**: With a *Text Reader* Interaction it is possible to reproduce the idea of asking a test-taker to look for information in a book. This interaction provides a space in which to enter the text you would like the test-taker to read. It can be a complex text which includes images or mathematical symbols. It can consist of multiple pages, and each page can contain multiple columns. You may want to adjust the page height if you have a long text: this can be done in Properties Panel on the right. A scrollbar is supplied in the case of longer texts. You can also disable the multiple page option in the properties panel so that only one page appears on the screen at any one time. In this case, the test-taker can navigate through the text using the *Previous* and *Next* buttons which appear below the text. These can be displayed in different languages, defined also in the properties panel. [Tooltips](../appendix/glossary.md#tooltip) can be added by clicking on the speech bubble on the gray toolbar when editing the text and entering a hint for the test-taker. It is typically combined with a set of questions, such as multiple choice questions (to do this, add a Choice interaction). 
+
+![Text-Reader-Interaction](../resources/backend/items/authoring-115.png) 
+
+*Note: The PCI interactions shown in the image above, other than the five described in this chapter, are available in the Premium/Ignite Edition of TAO (or higher).*  
+
 To create any of these types of interaction, once you have created a new Item, click on the [Custom Interactions library](../appendix/glossary.md#custom-interactions-library) below *Graphic Interactions* on the left, and drag the appropriate interaction type onto the blank Item, drop it onto the [canvas](../appendix/glossary.md#canvas), and then populate the Item.

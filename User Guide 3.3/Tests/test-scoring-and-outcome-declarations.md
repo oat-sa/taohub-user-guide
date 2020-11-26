@@ -5,7 +5,7 @@ tags: []
 
 # Test Scoring Rules and Outcome Declarations
 
-> Test scores are determined by a student's performance in the various [Items](../appendix/glossary.md#item) of a [Test](../appendix/glossary.md#test). Individual item scores can be tallied using different methods to produce the final test result. This chapter shows how to configure the test scoring rules, and compute the Outcome Declarations.
+> Test scores are determined by a student's performance in the various [Items](../appendix/glossary.md#item) of a [Test](../appendix/glossary.md#test). Individual item scores can be tallied using different methods to produce the final test result. This chapter shows how to configure the test scoring rules, and compute the Outcome Declarations (i.e. define the scoring criteria).
 
 >For information on the scoring rules used for items, see [Item Scoring Rules](../items/item-scoring-rules.md).
 
@@ -19,13 +19,13 @@ Follow the steps below to set up your chosen scoring method.
 
 There are four methods for scoring a test, or "outcome processing" as this is called in QTI. Enter your choice from the four options below in *Outcome Processing*:
 
-<!-- Missing Screenshot: Scoring -->
+![Scoring](../resources/backend/tests/authoring/settings/test/scoring/scoring.png)
 
 - **None**: If this option is selected, any existing scoring rules will be removed. In this case, no test score will be generated. Scores for the individual items of the test can be extracted by clicking on *Results*, or the QTI Results API. Use this option if you do not need aggregated test scores, or want to do custom outcomes processing outside of TAO.
 
-- **Custom**: This option is only applicable when a test with custom outcome processing rules is imported - thus the processing rules are defined outside of TAO. In this case - for example if the assessment test XML is modified outside of TAO and imported back into the system - the rules cannot be authored in TAO, so the existing rules are left untouched.
+- **Custom**: This option is only applicable when a test with custom processing rules is imported - i.e. the processing rules are defined outside of TAO. A screen ‘Edit processing rule’ will come up when you select ‘custom’. Here, select your (external) scoring rule which states how you would like the test taker responses to the item to be processed.
 
-- **Total Score**. If you select this as your chosen method, all scores from all parts of the test will be added together, and outcome variables for the test-taker's score (SCORE_TOTAL), the maximum score of all items (SCORE_TOTAL_MAX) and the ratio of correct responses (SCORE_RATIO) will be generated.
+- **Total Score**. If you select this as your chosen method, all scores from all parts of the test will be added together, and outcome variables for the test-taker's score (SCORE\_TOTAL), the maximum score of all items (SCORE\_TOTAL\_MAX) and the ratio of correct responses (SCORE\_RATIO) will be generated.
  
 ![Scoring: Total Score](../resources/backend/tests/authoring/settings/test/scoring/total-score.png)
 

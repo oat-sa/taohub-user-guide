@@ -14,7 +14,7 @@ The steps to import items are as follows.
 
 This will take you to the [Item Library](../appendix/glossary.md#library), which you will see on the left.
 
-**2.**  Click on the Item class ![class](../resources/_icons/folder.png) in the library that you wish to import the new item into.
+**2.**  Click on the Item class ![class](../resources/_icons/folder.png) (i.e. folder) in the library that you wish to import the new item into.
 
 **3.**  Click on *Import* ![class](../resources/_icons/import.png) in the button bank below the library.
 

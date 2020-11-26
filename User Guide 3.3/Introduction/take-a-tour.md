@@ -13,7 +13,7 @@ An assessment in TAO consists of several different building blocks: [Interaction
 
 An *interaction* is the most basic unit in an assessment, and takes the form of a question (e.g. multiple choice), or other task type (e.g fill-in-the-blank). An *item* is a set of interactions to be used together, along with any supporting material, and a *test* is a group of items, together with information on how they are ordered and presented to the test-taker.
 
-Let's walk through the steps to create an assessment and manage your assessment resources.
+Let's walk through the steps needed to create an assessment and manage your assessment resources.
 
 **1.** Check what test items are already available.
 
@@ -27,7 +27,7 @@ If you do not have enough ready-to-go items, then you will need to create new on
 
 **2.** Create items.
 
-The Items page consists of three parts. On the left is the [Library](../appendix/glossary.md#library), where you can view the inventory of already existing items. In the center is the [Canvas](../appendix/glossary.md#canvas), where you can provide a label for a new Item and then author it, or edit the label, author or preview an exiting Item. And once you are _Authoring_ an item, the [Properties Panel](../appendix/glossary.md#properties-panel) will be on the right, where you can select component settings for your items, interactions, and tests, such as your chosen scoring method. This three-part layout is a common feature of the TAO system. 
+The Items page consists of three parts. On the left is the [Library](../appendix/glossary.md#library), where you can view the inventory of already existing items. In the center is the [Canvas](../appendix/glossary.md#canvas), where you can provide a label for a new Item and then author it, or edit the label, author or preview an exiting Item. And when you are _Authoring_ an item, the [Properties Panel](../appendix/glossary.md#properties-panel) will appear on the right, where you can select component settings for your items, interactions, and tests, such as your chosen scoring method. This three-part layout is a common feature of the TAO system. 
 
 To create a new Item, you would select the _New Item_ ![New Item](../resources/_icons/item.png) icon on the bottom of the left panel. See the [Creating a new item section](../items/creating-a-new-item.md) for more details.
 
@@ -71,9 +71,9 @@ To do this, select the _Groups_ ![Groups](../resources/_icons/test-takers.png) i
 
 Before students can take the assessment you have prepared, the test needs to be assembled as a [Delivery](../appendix/glossary.md#delivery). 
 
-Assembled deliveries only take a few moments to put together and govern when a test will be taken, which selected individuals or groups will take the test, and how long the test will last. 
+Assembled deliveries govern when a test will be taken, which selected individuals or groups will take the test, and how long the test will last. They only take a few moments to put together.
 
-To do this, you will need to select teh _Deliveries_ ![Deliveries](../resources/_icons/delivery.png) icon in the assessment builder bar. See the [Creating a new delivery section](../deliveries/create-a-new-delivery.md) for more details.
+To do this, you will need to select the _Deliveries_ ![Deliveries](../resources/_icons/delivery.png) icon in the assessment builder bar. See the [Creating a new delivery section](../deliveries/create-a-new-delivery.md) for more details.
 
 ![Deliveries](../resources/backend/deliveries/deliveries.png)
 

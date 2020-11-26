@@ -6,7 +6,7 @@ authors:
 
 # Providing Test-level Instant Feedback
 
->[Test takers](../appendix/glossary.md#test-takers) often want direct feedback about how well they have done in their assessment. It is possible to configure a [Test](../appendix/glossary.md#test) to offer them instant test-level feedback.
+>[Test-takers](../appendix/glossary.md#test-takers) often want direct feedback about how well they have done in their assessment. It is possible to configure a [Test](../appendix/glossary.md#test) to offer them instant test-level feedback.
 
 
 **Follow the steps below to configure your test to provide test-level instant feedback:**

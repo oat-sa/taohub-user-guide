@@ -41,6 +41,6 @@ Now add the information *Operated by* to the page footer. You can add your organ
 
 If you are happy with the information you have entered, click on  *Apply changes* to save it. If not, click on *Discard changes*.
 
-Your institution or company may also want to provide direct access to the TAO environment from its own website. As a subscriber to the Ignite Edition (or higher) of TAO, your organization can set up a shortcut to the TAO environment via a URL which you own, to refer users directly to TAO. 
+Your institution or company may also want to provide direct access to the TAO environment from its own website. As a subscriber to the Premium/Ignite Edition (or higher) of TAO, your organization can set up a shortcut to the TAO environment via a URL which you own, to refer users directly to TAO. 
 
 

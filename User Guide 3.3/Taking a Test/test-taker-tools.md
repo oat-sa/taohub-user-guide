@@ -1,9 +1,3 @@
-<!--
-created_at: 2018-10-22
-authors:         
-    - "Catherine Pease"
---> 
-
 # Test-taker Tools
 
 > The [Test-taker Tools](../appendix/glossary.md#test-taker-tools) are a set of accommodation tools which are designed to aid the [Test-taker](../appendix/glossary.md#test-taker) in various ways when taking tests. 

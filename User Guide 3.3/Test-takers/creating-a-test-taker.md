@@ -29,4 +29,4 @@ When you have filled these fields, click the blue *Save* button.
 
 **3.** Place the test-taker in a [Group](../appendix/glossary.md#group)
 
-This can also be done from within the [Groups section](../groups/creating-a-new-group.md), but for convenience, it is possible to select an existing group in the *Add to group* pane on the right, and associate the test-taker with that group by checking the box next to the desired group. Click the blue *Save* button at the bottom of the pane to complete the procedure.
+This can also be done from within the [Groups section](../groups/creating-a-new-group.md), but for convenience, it is possible to select an existing group in the *Add to group* canvas on the right, and associate the test-taker with that group by checking the box next to the desired group. Click the blue *Save* button at the bottom of the canvas to complete the procedure.

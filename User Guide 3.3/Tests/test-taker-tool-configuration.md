@@ -10,50 +10,71 @@ To configure the test-taker tools for a specific test, follow the steps below.
 Test-taker tools can be configured either for a whole section of a test, or on a per-item basis. To configure the tools for a whole section, on the [Canvas](../appendix/glossary.md#canvas) click on the cog wheels to the right of the section in question. To configure the tools for an individual item, click on the cog wheels to the right of the item in question.
 
 In each case, the test-taker tools will appear in the properties panel on the right.
- 
+
 ![Test-taker Tool Configuration for a Section](../resources/backend/tests/authoring/settings/section/test-taker-tools.png)
 
 **2.** Check the boxes next to each of the test-taker tools you wish to activate.
 
+The tools available can be divided into the following groups:
 
-The Tools available are as follows:
- 
 ## Calculators
-TAO provides three different calculators, a simple one, a BODMAS and a scientific version. 
+
+TAO provides three different calculators, a simple one, a BODMAS and a scientific version.
+
+**Simple Calculator**
+This option provides the test-taker with a basic calculator.
+![Simple Calculator](../resources/delivery/features/test-taker-tools/calculator.png)
+
+**BODMAS Calculator**
+This option provides the test-taker with a calculator which functions according to the BODMAS rule.
+![BODMAS Calculator](../resources/delivery/features/test-taker-tools/bodmas-calculator.png)
+
+**Scientific Calculator**
+This option provides the test-taker with a calculator for solving science, engineering and mathematical problems.
+![Scientific Calculator](../resources/delivery/features/test-taker-tools/scientific-calculator.png)
 
 _Note: If you select multiple calculators, only the most complex variety will be used!_
 ![Calculator](../resources/delivery/features/test-taker-tools/calculator.png)
- 
-## Answer Eliminator
+
+## Visual Aids
+
+This set of tools can help a test-taker to focus visually on a particular part of the test question in various different ways:
+
+**Answer Eliminator**
 The Answer Eliminator allows the test-taker to eliminate answers in *Choice* interactions. This is useful if there is a long list of answer choices, and the test-taker has a learning disability.
 ![Answer Eliminator](../resources/delivery/features/test-taker-tools/answer-eliminator.png)
 
-## Answer Masking
+**Answer Masking**
 Answer Masking allows the test-taker to mask and unmask answers in choice interactions
 ![Answer Masking](../resources/delivery/features/test-taker-tools/answer-masking.png)
- 
-## Area Masking
+
+**Area Masking**
 Area Masking allows the test-taker to mask parts of the item with a movable mask.
 ![Area Masking](../resources/delivery/features/test-taker-tools/area-masking.png)
 
-## Highlighter
+**Highlighter**
 The Highlighter allows the test-taker to highlight parts of the text in an item.
 ![Highlighter](../resources/delivery/features/test-taker-tools/highlighter.png)
 
-## Line Reader
+**Line Reader**
 The Line Reader allows the test-taker to visually isolate a line of text.
 ![Line Reader](../resources/delivery/features/test-taker-tools/line-reader.png)
 
-## Magnifier
+**Magnifier**
 The Magnifier provides the test-taker with a movable magnifier tool.
 ![Magnifier](../resources/delivery/features/test-taker-tools/magnifier.png)
 
-## Zoom Tool
+**Zoom Tool**
 The Zoom Tool allows the test-taker to zoom in on an area of an item.
 ![Zoom Tool](../resources/delivery/features/test-taker-tools/zoom.gif)
 
-## Text-to-speech
-The text-to-speech functionality allows the test-taker to hear the questions of a test being read aloud. *Note: This functionality is only available on the Premium Edition of TAO.*
+## Aural Aids
+**Text-to-speech Tool** 
+The text-to-speech functionality allows the test-taker to hear the test content being read aloud, as well as reading it.
+
+*Note: This functionality is only available in the TAO Premium/Ignite Edition (or higher).*
+![Text-to-speech](../resources/delivery/features/test-taker-tools/text-to-speech.png)
+
 
 Configuration is now complete. Any test-takers taking the test will have access to the selected tools, for the sections or items specified.
 

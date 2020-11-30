@@ -1,11 +1,12 @@
-# Preview
+# Previewing Items and Interactions
 
-> Completed [Items](../appendix/glossary.md#item) or [Interactions](../appendix/glossary.md#interaction) can be previewed to determine what they look like on various screen sizes.
+> Completed [Items](../appendix/glossary.md#item) or [Interactions](../appendix/glossary.md#interaction) can be previewed to determine how they appear to the test-taker, and what they look like on various screen sizes.
 
-Previewing typically takes place after clicking *Done* for the completed Interaction. This will bring up the completed interaction on the [Canvas](../appendix/glossary.md#canvas). The ability to preview is on the [Action Bar](../appendix/glossary.md#action-bar) above the canvas where there are a series of buttons, including *Save*, *Preview*, and *Print*.
 
-**1.** Click *Preview*.
+**1.** Preview your interaction or item.
 
+To preview your interaction or item, click on the *Preview* button in the [Action Bar](../appendix/glossary.md#action-bar) above the [Canvas](../appendix/glossary.md#canvas).
+ 
 A pop-up window will appear with which you can save your interaction (the window will appear whether the interaction has been saved already or not, just to ensure that the latest version of the Interaction is not lost during testing).
 
 **2.** Click the blue *Save* button in the pop-up window.

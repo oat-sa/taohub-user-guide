@@ -40,6 +40,8 @@ This will create a new item in the selected folder.
 
 ![Creating a new Item](../resources/backend/items/new-item.png)
 
+*Note: The 'Access control' button (in the picture this is in the button bank under the library on the left) is only available if the extension taoDacSimple is installed.*
+
 **3.**  Label and save your item.
 
 Creating a new item will bring up a new dialog box with the option to name (or label) your item. After labeling your item, click *Save*. This produces an empty item, which you can now populate with interactions.
@@ -50,13 +52,16 @@ This will take you to the empty item you have created. You can now start to fill
 
 You can create an item which contains more than one interaction. Once you have added and prepared one interaction in your item, drag another interaction template from the [Interactions Library](../appendix/glossary.md#interactions-library) onto the [Canvas](../appendix/glossary.md#canvas) below or beside the interaction you have just authored, and repeat the authoring process for the new interaction. 
 
+You can preview your item to see how it will appear to the test-taker. For information on this, see [Previewing Items and Interactions](../items/preview.md).
+
 **5.** Select the settings for your item. 
 
 Two settings can be chosen for your new item in the [Item Properties](../appendix/glossary.md#item-properties) to the right of the canvas.
 
 **Time dependent:** Check the *[Time dependent](../appendix/glossary.md#time-dependent-item)* box if you wish the length of time a test-taker takes to complete the item to be recorded. This information will be used when the response is processed.  
 
-**Language:** Select the language of your item from the drop-down menu. This will be used for the [Text-to-Speech](../appendix/glossary.md#test-to-speech) functionality. The default language is English. 
+**Language:** Select the language of your item from the drop-down menu. This will be used for the [Text-to-Speech](../appendix/glossary.md#test-to-speech) functionality. The default language is English.
+
 
 <aside class="optional-extras">
 
@@ -72,6 +77,6 @@ You can make a copy of an already existing item by clicking on the *Copy To*  ![
 
 A dialog box will appear on the canvas. Select a destination folder, and click on *Copy*. A copy of the item will then be created in the folder you have selected, with the same name but with "bis" on the end.
 
-*Move To* ![Move To](../resources/_icons/move-item.png) works exactly in the same fashion.
+*Move To* ![Move To](../resources/_icons/move-item.png) works in exactly the same fashion.
 
 </aside>

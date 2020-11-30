@@ -28,7 +28,7 @@ This section provides an overview of how to manage your interactions, including 
 
 ![Inline Interactions](../resources/backend/items/authoring/interactions/inline-interactions.png)
 
-**[Graphic Interactions](../appendix/glossary.md#graphic-interaction)** elements. In TAO, the following Graphic Interactions can be used in the creation of test items:
+**[Graphic Interactions](../appendix/glossary.md#graphic-interaction)** contain graphic elements. In TAO, the following Graphic Interactions can be used in the creation of test items:
 
 - [Hotspot Interaction](../interactions/hotspot-interaction)
 - [Graphic Order Interaction](../interactions/graphic-order-interaction)

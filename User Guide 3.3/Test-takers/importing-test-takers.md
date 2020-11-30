@@ -23,19 +23,20 @@ This opens a dialog box which asks you to select the format of the incoming test
 
 **4.** Click the blue *Browse* button to find the file intended for import (alternatively, the file may be dragged and dropped into the box below the button).
 
-**5.** Once the file is selected, click on the blue *Import* button if importing an RDF. If you are importing a CSV file you will click on the blue *Next* button.
+**5.** Once the file is selected, click on the blue *Import* button if importing an RDF. If you are importing a CSV file, click on the blue *Next* button.
 
 ![Selecting CSV](../resources/backend/test-takers/import1tt.png)
 
-You will then need to map the properties to the CSV columns. If you don’t have a Language column in your CSV file, then you can choose a default value for the interface language for all test-takers by choosing a needed language in *Define the default values Interface Language* and then click on the blue Import button.
+When importing a CSV file, you will need to map the properties to the CSV columns. If you don’t have a Language column in your CSV file, you can choose a default value for the interface language for all test-takers by choosing a language in *Define the default values Interface Language*. Then click on the blue *Import* button.
 
 ![Mapping Columns](../resources/backend/test-takers/import2tt.png)
 
 This will import the test-taker's profile into the test-taker library, after which he can receive [Tests](../deliveries/create-a-new-delivery.md).
 
-## Structure of CSV File
+## Structure of a CSV File
 
-By default, the CSV file should follow to next rules:
+By default, the CSV file should have the following structure:
+
 Value separator: Semicolon
 Row separator: Newline
 
@@ -46,15 +47,17 @@ TAO Lenny;Lenny;Name;http://www.tao.lu/Ontologies/TAO.rdf#Langen-US;qwerty5600;N
 
 ```
 
-In that example, we have 7 columns. The first line is header, next lines are values.
+In this example, we have seven columns. The first line is the header, and the following lines are values.
 
-Required columns:
-Label - a label of test-taker. That value using for the BackOffice.
-Login - Login of test-taker
-Password - Password of test-taker
-Group - ID of group
+The required columns are:
 
-Additional columns:
-Interface Language - A language of interface of test-taker. If this column does not exist, then you should choose a default language during the import process. 
-Mail - Email of test-taker
-First Name/Last Name - First and last names of test-taker.
+- **Label**: a label for the test-taker (this value is used by the BackOffice).
+- **Login**: the login of the test-taker
+- **Password**: the password of the test-taker
+- **Group**: the ID of the group
+
+Additional columns are:
+
+- **Interface Language**: A language of interface of test-taker. If this column does not exist, then you should choose a default language during the import process. 
+- **Mail**: the email of the test-taker
+- **First Name/Last Name**: the first and last names of the test-taker.

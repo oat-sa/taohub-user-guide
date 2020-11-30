@@ -14,17 +14,17 @@ This will bring up the [Test](../appendix/glossary.md#test) results (the results
 
 **3.** Click on the blue button marked *Export Table* on the [Action Bar](../appendix/glossary.md#action-bar) at the top of the results table.
 
-This brings up the names of all the test-takers who are associated with the results table. 
+There are four buttons which you can toggle between, depending on the information you wish to include in the file to be exported.
 
-Above the names are three buttons which you can toggle between, depending on the information you wish to include in the file to be exported.
+*Add Names*/*Anonymise*: This controls the display of test-takers' names associated with the results table (*Anonymise* appears here in red, as the names are added by default; by clicking on *Anonymise* the names will be taken out).
 
-*Add Names*/*Anonymise*: This controls the display of names associated with the results table (*Anonymise* appears here in red, as the names are added by default; by clicking on *Anonymise* the names will be taken out).
+*Add Delivery/Remove Delivery*: This controls the display of information about the delivery, including, for example, its title and requirements, and the dates it was available. (This is blue, so by default this information is not included; by clicking on *Add Delivery* it will be added).
 
 *Add All Grades*/*Remove All Grades*: This controls the display of scores associated with the results table (This is blue, so by default the scores are not included; by clicking on *Add All Grades* they will be added).
 
 *Add All Responses*/*Remove All Responses*: This controls the display of responses associated with the results table (This is blue, so by default the responses are not included; by clicking on *Add All Responses* they will be added). 
 
-A *filter* control sits between these buttons and the table, and can be used to display the results based on the order in which the settings above (i.e. the variables relating to test-takers' names, scores and responses) were received. For example, you may wish to display all the variables on your screen, and then select a subset of the data to be exported using the filter.
+Using the *Filter* below these buttons, you can specify the results you would like to display. In the *Variables* drop-down menu, choose which information to export for the results you have chosen. These variables relate to the information you selected using the toggle buttons above (i.e. the variables relating to test-takers' names, scores and responses and the delivery). If you have chosen above to anonymise the test-takers, for example, their names will not appear in the results.
 
 ![Exporting the Results](../resources/backend/results/results-export.png)
 
@@ -38,7 +38,7 @@ The results table, easily opened in Excel, can then be transferred either to a d
 
 **6.** Exporting the results for an entire delivery.
 
-It is possible to export the results for a whole delivery, or more than one delivery - in other words, the entire tree structure of results for that delivery. To do this, click on the [Class](../appendix/glossary.md#class) in the results library for the delivery you wish to export.
+It is possible to export the results for a whole delivery, or more than one delivery - in other words, the entire tree structure of results for that delivery. To do this, click on the [Class](../appendix/glossary.md#class) (i.e. folder) in the results library for the delivery you wish to export.
 
 Next, click on the *Export CSV* icon in the button bank under the library. If the background tasks functionality is installed on your version of TAO, the export process will be transferred to it (shown in a circle to the left of the [Properties](../appendix/glossary.md#properties) icon on the assessment builder bar). Clicking on the circle opens the list of tasks, containing information about each one. Click on the *download* icon to the right of your results export to download the CSV file to your computer. 
 

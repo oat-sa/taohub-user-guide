@@ -6,7 +6,7 @@ authors:
 
 # Create a New Delivery
 
->Assembled [Deliveries](../deliveries/what-is-a-delivery.md) provide the means of publishing and administering [Tests](../appendix/glossary.md#test). These govern when a test is taken by selected individual or [Groups](../appendix/glossary.md#group) of [Test-takers](../appendix/glossary.md#test-taker) and how long tests will be. A delivery can only be assembled after the creation of [Interactions](../appendix/glossary.md#interaction), the assembly of the test, the creation of test-taker profiles, and the gathering of test-takers into formal groups.
+>Assembled [Deliveries](../deliveries/what-is-a-delivery.md) provide the means of publishing and administering [Tests](../appendix/glossary.md#test). These govern when a test is taken by selected individuals or [Groups](../appendix/glossary.md#group) of [Test-takers](../appendix/glossary.md#test-taker) and how long tests will be. A delivery can only be assembled after the creation of [Interactions](../appendix/glossary.md#interaction), the assembly of the test, the creation of test-taker profiles, and the gathering of test-takers into formal groups.
 
 Let's walk through the steps of creating a delivery.
 
@@ -33,7 +33,7 @@ A properties panel will come up.
 
 **Maximum Executions:** If left empty, test-takers may take the delivered test an unlimited number of times. Setting this number to any non-zero integer will limit the test-takers to that number of attempts.
 
-**Start Date** and **End Date:** These fields establish the earliest date and time, and latest date and time that the test can be taken. Clicking on either date field provides a graphical interface which allows you to set the date and time (using a calendar, and slider controls for hours and minutes). However, it is also possible to provide the date and time by typing them in manually in the following order: year, month, day, and 24-hour clock (YYYY-MM-DD HH:MM)
+**Start Date** and **End Date:** These fields establish both the earliest date and time and the latest date and time the test can be taken. Clicking on either date field provides a graphical interface which allows you to set the date and time (using a calendar, and slider controls for hours and minutes). However, it is also possible to provide the date and time by typing them in manually in the following order: year, month, day, and 24-hour clock (YYYY-MM-DD HH:MM)
 
 **Display Order:** This allows you to specify the order in which the deliveries are presented.
 
@@ -45,4 +45,4 @@ As a test-taker you are presented with a list of all the deliveries which are as
 
 **4.** Assign the test to a group of test-takers in the panes on the right of the [Properties Panel](../appendix/glossary.md#properties-panel).
 
-The *Assigned to* pane contains all available groups of test-takers. Select a group, and click the blue *Save* button below. If there are test-takers in the group who, for whatever reason, should not take this exam (due to absence, remedial assignments, etc.), click the blue *Excluded Test-takers* button at the bottom of the test-takers pane. To move a person from *assigned* status to *excluded* status, simply click on that person's name in the *Assigned* column. Click *Save* to close the pop-up window.
+The *Assigned to* canvas contains all available groups of test-takers. Select a group, and click the blue *Save* button below. If there are test-takers in the group who, for whatever reason, should not take this exam (due to absence, remedial assignments, etc.), click the blue *Excluded Test-takers* button at the bottom of the test-takers canvas. To move a person from *assigned* status to *excluded* status, simply click on that person's name in the *Assigned* column. Click *Save* to close the pop-up window.

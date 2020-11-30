@@ -6,7 +6,7 @@ authors:
 
 # Creating a New Group
 
->[Groups](../appendix/glossary.md#group) are organized collections of [Test-takers](../appendix/glossary.md#test-taker) who take the same assessments throughout the duration of a course of study. Examples of a group include Laboratory Sections, Discussion Groups, or any cohort or subdivision of students assessed using the same examinations, test administrators, and grading criteria as others within their group. Since a group is made up of individual test-takers, it is necessary to enter the meta-data for each test-taker prior to assigning test-takers to groups.
+>[Groups](../appendix/glossary.md#group) are organized collections of [Test-takers](../appendix/glossary.md#test-taker) who take the same assessments throughout the duration of a course of study. Examples of a group include Laboratory Sections, Discussion Groups, or any cohort or subdivision of students assessed using the same examinations, test administrators, and grading criteria as others within their group. Since a group is made up of individual test-takers, it is necessary to enter the metadata for each test-taker prior to assigning test-takers to groups.
 
 Now, let's walk through the steps of creating a group.
 
@@ -24,4 +24,4 @@ This brings up dialog box entitled *Edit group* for the newly created group. If 
 
 **3.** Populate the group.
 
-To the right of the *Edit group* pane are two other panes: the *Select group test takers* pane on the left, and the *Deliveries* pane on the right. To select test-takers for your group, check the boxes by the relevant names in the left pane, and then click the blue *Save* button for that pane. If a delivery has already been assembled for this group, it will appear in list of deliveries in the right pane. It should be selected before clicking the blue *Save* button for that pane.
+To the right of the *Edit group* canvas are two other canvases: *Select group test takers* on the left, and *Deliveries* on the right. To select test-takers for your group, check the boxes by the relevant names in the left canvas, and then click the blue *Save* button. If a delivery has already been assembled for this group, it will appear in the list of deliveries in the right canvas. It should be selected before clicking the blue *Save* button.

@@ -11,9 +11,9 @@ Items first need to be created before they are populated with the desired [Inter
 
 **2.** What to include in your item
 
-Pictures and media such as audio or video files can be included in your Item. For more information on how to add media to your items, see [Using Assets in Items](../items/using-assets-in-items.md). To create media interactions see the section on [Media Interactions](../interactions/media-interaction.md).
+Pictures and media such as audio or video files can be included in your Item. For more information on how to add media to your items, see [Adding Media](../items/adding-media.md). To create media interactions see the section on [Media Interactions](../interactions/media-interaction.md).
 
-For managing resources which are included in your items (which includes all of the resources mentioned above), see the [Asset Manager](../items/asset-manager.md) section.
+For managing resources which are included in your items (which includes all of the resources mentioned above), see the [Media Manager](../managing-media/media-manager.md) section.
 
 
 **3.** Making decisions about your item

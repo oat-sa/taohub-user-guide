@@ -11,7 +11,7 @@ authors:
 
 The text-to-speech functionality allows you to hear the test questions, or parts of them, read aloud.
 
-*Note: This functionality is only available in the Ignite Edition (or higher) of TAO.*
+*Note: This functionality is only available in the Premium/Ignite Edition (or higher) of TAO.*
 
 To activate this functionality, click on the headphones icon which appears at the bottom of the screen after beginning the test.
 

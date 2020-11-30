@@ -91,7 +91,7 @@ The general properties include entries for: *Identifier*, *Reference*, and *Cate
 
 The *Identifier* and *References* boxes generally do not require modification. *Categories* act as tag references which may be displayed to the test-taker. If the *Required* box is checked, the item will appear in the test, even if less than the total number of items appears in a given test (in a section where selection is enabled). If the *Fixed* box is checked, the item will appear in a particular order, even if the section ordering calls for shuffling. Categories are not displayed to the test-taker; typically they are used to calculate aggregate scores (e.g. on sub-domains). For more information, see the section on [Scoring Rules](../tests/test-scoring-and-outcome-declarations.md).
 
-For *Test Navigation*, *Navigation Warnings* and *Test-taker Tools*, see thes description in the section level properties above.
+For *Test Navigation*, *Navigation Warnings* and *Test-taker Tools*, see the description in the section level properties above.
 
 In the *Weights* panel, the weight of that item can be adjusted. It is also possible to add further weights if you wish to enable the item to be scored in different ways for different tests. (The weight value to be used for a specific test should be selected in the *Weight* box in the *Scoring* panel in the test properties section above.)The default weight value for each item is 1. The section on [Scoring Rules](../tests/test-scoring-and-outcome-declarations.md) gives more information on weights.
 

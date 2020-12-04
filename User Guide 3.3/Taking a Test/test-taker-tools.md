@@ -56,7 +56,7 @@ The Magnifier provides you with a movable magnifier tool.
 
 **Zoom Tool**
 The Zoom Tool allows you to zoom in on an area of an item.
-![Zoom Tool](../resources/delivery/features/test-taker-tools/zoom.gif)
+![Zoom Tool](../resources/delivery/features/test-taker-tools/zoom.png)
 
 
 ## Aural Aids

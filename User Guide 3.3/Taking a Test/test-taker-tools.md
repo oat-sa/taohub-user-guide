@@ -75,10 +75,12 @@ Flagging an answer to a particular question allows you to review the answer at a
 ## Check Time and Connectivity
 **Time Limits**
 If a time limit has been set for a test, the time you have left will be shown in the middle of the bar across the top of the screen once the test has been started. You can choose to hide this if you wish, by clicking on the timer next to the time display.
+
 ![Time Limits](../resources/delivery/features/test-taker-tools/timer.png)
 
 **Connection Indicator**
 When you begin a test, a connection indicator in the form of a connectivity icon will appear on the left-hand side of the blue bar across the top. You can check connectivity by hovering over it: if your computer is connected to the internet, the message *Connected to Server* will appear.
-![Connection Indicator](../resources/delivery/features/test-taker-tools/conection-status.png)
+
+![Connection Indicator](../resources/delivery/features/test-taker-tools/connection-status.png)
 
 A list of keyboard shortcuts for these tools can be found in the section [Keyboard Shortcuts](../taking-a-test/keyboard-shortcuts.md).

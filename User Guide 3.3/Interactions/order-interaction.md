@@ -2,7 +2,7 @@
 
 > The Order [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge of a particular order of elements: chronological orders, priority orders, alphabetical or numerical orders, orders of size, etc.
 
-[![Order Interaction](https://img.youtube.com/vi/ocF1RrjKZTI/hqdefault.jpg)](https://youtube.com/watch?v=ocF1RrjKZTI&rel=0 "Order Interaction")
+![Order Interaction](../resources/delivery/interactions/qti/order.png)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Order interaction:
 

@@ -1,8 +1,8 @@
 # Media Interaction
 
->The Media [Interaction](../appendix/glossary.md#interaction) allows [Test-takers](../appendix/glossary.md#test-taker) to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction.
+> The Media [Interaction](../appendix/glossary.md#interaction) allows [Test-takers](../appendix/glossary.md#test-taker) to view a multimedia presentation (image slide show, YouTube video, etc.), usually in connection with another interaction.
 
-[![Media Interaction](https://img.youtube.com/vi/kyIOzLQJVPA/hqdefault.jpg)](https://youtube.com/watch?v=kyIOzLQJVPA&rel=0 "Media Interaction")
+![Media Interaction](../resources/delivery/interactions/qti/media.png)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Media Interaction:
 

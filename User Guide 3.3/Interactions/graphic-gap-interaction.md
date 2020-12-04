@@ -1,16 +1,10 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Graphic Gap Interaction
 
->The Graphic Gap [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge about geographical regions, identify facts about portions of images (people in a group photo, etc.), or show other similar capabilities in picture matching.
+> The Graphic Gap [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge about geographical regions, identify facts about portions of images (people in a group photo, etc.), or show other similar capabilities in picture matching.
 
->This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library).
+> This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library).
 
-[![Graphic Gap Interaction](https://img.youtube.com/vi/gF0hXkP03D4/hqdefault.jpg)](https://youtube.com/watch?v=gF0hXkP03D4&rel=0 "Graphic Gap Interaction")
+![Graphic Gap Match Interaction](../resources/delivery/interactions/qti/graphic-gap-match.png)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Gap Interaction:
 

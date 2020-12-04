@@ -1,16 +1,10 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Graphic Associate Interaction
 
->The Graphic Associate [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge by depicting routes on a map or graphic in a prescribed way. This can be used for drawing out historical military marches, route-planning exercises, connecting the dots to form a missing piece of an image, etc. 
+> The Graphic Associate [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge by depicting routes on a map or graphic in a prescribed way. This can be used for drawing out historical military marches, route-planning exercises, connecting the dots to form a missing piece of an image, etc. 
 
->This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library). 
+> This interaction is one of a series of [Graphic Interactions](../appendix/glossary.md#graphic-interactions) (the others are covered in their own sections). All graphic interactions can be found in the [Graphic Interactions Library](../appendix/glossary.md#graphic-interactions-library). 
 
-[![Graphic Associate Interaction](https://img.youtube.com/vi/NoAT8065hyM/hqdefault.jpg)](https://youtube.com/watch?v=NoAT8065hyM&rel=0 "Graphic Associate Interaction")
+![Graphic Associate Interaction](../resources/delivery/interactions/qti/graphic-associate.png)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Graphic Associate Interaction:
 

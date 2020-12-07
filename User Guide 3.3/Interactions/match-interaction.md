@@ -2,6 +2,8 @@
 
 > The Match [Interaction](../appendix/glossary.md#interaction) provides [Test-takers](../appendix/glossary.md#test-taker) with a matrix upon which they can demonstrate their knowledge by accurately matching, or associating, selections from two different sets of elements. Matching is carried out by placing check marks in squares where matching rows and columns intersect.
 
+![Match Interaction](../resources/delivery/interactions/qti/match.png)
+
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Match interaction:
 
 **1.** From the [Common Interactions Library](../appendix/glossary.md#common-interactions-library) on the left, drag the *Match* icon ![Match](../resources/_icons/match.png) onto the blank item and drop it onto the [Canvas](../appendix/glossary.md#canvas).

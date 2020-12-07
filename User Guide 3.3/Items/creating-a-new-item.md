@@ -1,30 +1,9 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
 
 # Creating a New Item
 
 >Together, questions and other types of [Interaction](../appendix/glossary.md#interaction) form [Items](../appendix/glossary.md#item), which comprise parts of [Tests](../appendix/glossary.md#test). Items are created and populated with interactions, and can be combined to assess [Test-taker](../appendix/glossary.md#test-taker) performance.
 
 >There are more than 17 types of interaction in TAO. Note that an item generally contains only one interaction type.
-
-The videos below will demonstrate how to easily create some of the most popular items using TAO.
-
-How to create an item with a [Choice (multiple-choice) Interaction](../interactions/choice-interaction.md) using TAO:
-
-
-[![Choice Interaction](https://img.youtube.com/vi/a3WM6yMfiGs/hqdefault.jpg)](http://www.youtube.com/watch?v=a3WM6yMfiGs)
-
-How to create an item with an [Inline Interaction](../interactions/inline-choice-interaction.md) using TAO:
-
-[![Inline Interactions](https://img.youtube.com/vi/5vplITM3Ah4/hqdefault.jpg)](http://www.youtube.com/watch?v=5vplITM3Ah4)
-
-How to create an item with an [Associate Interaction](../interactions/associate-interaction.md) using TAO:
-
-[![Associate Interaction](https://img.youtube.com/vi/qIX3HVNq5L0/hqdefault.jpg)](http://www.youtube.com/watch?v=qIX3HVNq5L0)
-
 
 Now, let's walk through the steps of creating an item.
 

@@ -2,6 +2,8 @@
 
 > Text Entry [Interactions](../appendix/glossary.md#interaction) allow [Test-takers](../appendix/glossary.md#test-taker) to complete a "Fill in the Blank" question with an exact text answer. This interaction needs to be in a _Text Block_ ![Block](../resources/_icons/font.png).
 
+![Text Entry Interaction](../resources/delivery/interactions/qti/text-entry.png)
+
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Text Entry Interaction:
 
 **1.** From the [Inline Interactions Library](../appendix/glossary.md#inline-interactions-library) below *Common Interactions* on the left, drag the *Text Block* ![Block](../resources/_icons/font.png) onto the blank Item and drop it onto the [Canvas](../appendix/glossary.md#canvas).

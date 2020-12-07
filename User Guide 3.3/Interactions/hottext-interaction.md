@@ -1,14 +1,8 @@
-<!--
-created_at: 2016-12-15
-authors:         
-    - "Catherine Pease"
---> 
-
 # Hottext Interaction
 
->The Hottext [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge by showing, among several selections within a body of text, a specific type of word or phrase (e.g. a grammatically incorrect element, misspelling, main character in a story, capital city).
+> The Hottext [Interaction](../appendix/glossary.md#interaction) gives [Test-takers](../appendix/glossary.md#test-taker) the opportunity to demonstrate their knowledge by showing, among several selections within a body of text, a specific type of word or phrase (e.g. a grammatically incorrect element, misspelling, main character in a story, capital city).
 
-[![Hottext Interaction](https://img.youtube.com/vi/BcG-vjaRuok/hqdefault.jpg)](https://youtube.com/watch?v=BcG-vjaRuok&rel=0 "Hottext Interaction")
+![Hot Text Interaction](../resources/delivery/interactions/qti/hot-text.png)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Hottext interaction:
 

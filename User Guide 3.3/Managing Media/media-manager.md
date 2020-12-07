@@ -11,6 +11,9 @@ authors:
 
 ![The Media Manager](../resources/backend/items/media-manager.png)
 
+_Photo by [LoKiLeCh](https://commons.wikimedia.org/wiki/File:Saarbr%C3%BCcken_St_JohannerMarkt_pano.jpg), released under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)_
+
+
 You will find the same buttons in the Media Manager as in most other functions under the library on the left (*New class*, *Delete*, *Import*, *Export*). The New class, Delete, and Export buttons work in a very similar way to most of the other functions. For more information on any of these, click on the following links: [New class](../appendix/glossary.md#class), [Delete](../appendix/glossary.md#delete), [Export](../appendix/glossary.md#export).
 
 The *Import* button works in a slightly different way in the Media Manager. Follow the steps below to import a new media file.

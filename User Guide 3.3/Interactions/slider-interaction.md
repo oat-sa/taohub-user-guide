@@ -2,8 +2,7 @@
 
 > The Slider [Interaction](../appendix/glossary.md#interaction) lets [Test-takers](../appendix/glossary.md#test-taker) demonstrate their knowledge of a numerical type, such as a percentage, a total, etc. The answer is conveyed by sliding an indicator on a horizontal scale.
 
-[![Slider Interaction](https://img.youtube.com/vi/fqrbvbavhuA/hqdefault.jpg)](https://youtube.com/watch?v=fqrbvbavhuA&rel=0 "Slider Interaction")
-
+![Slider Interaction](../resources/delivery/interactions/qti/slider.png)
 
 Once you have generated a new [Item](../appendix/glossary.md#item), and clicked on *Authoring* in the [Action Bar](../appendix/glossary.md#action-bar), follow the steps below to create a new Slider interaction:
 
